@@ -132,8 +132,6 @@ function self($spreadSheet, $count)
 
 function verifyAudits($name)
 {
-    #echo "inside verifyAudits";
-
     $lnk = new Process();
 
     $piece = explode(" ", $name);
@@ -144,14 +142,10 @@ function verifyAudits($name)
     $searchParams = [$auditYear, $auditQuarter, $auditBranch];
     $searchQRY = $lnk->query($searchSQL, $searchParams);
 
-    #echo "[line 146]" . $auditYear . " " . $auditQuarter . " " . $auditBranch . "***---***";
-    #print_r($searchQRY);
-
     if (!$searchQRY) {
         return false;
-    } else {
-        return true;
     }
+    return true;
 }
 
 function verifySelf($name)
@@ -167,13 +161,12 @@ function verifySelf($name)
 
     $searchSQL = "SELECT * FROM selfaudits WHERE year = ? AND month = ? AND branch = ?";
     $searchParams = [$year, $month, $branchNum];
-    $searchQRY = $lnk->query($searchSQL, $searchParams);
+    $searchQRY = $lnk->query($search
 
     if (!$searchQRY) {
         return false;
-    } else {
-        return true;
     }
+    return true;
 }
 
 $file = isset($_POST['files']) ? $_POST['files'] : null;
@@ -203,11 +196,6 @@ switch ($fileType) {
         break;
 }
 
-$_SESSION['test2'] = 'dir =  ' . $dir;
-
-$count = 0;
-
-//checking to see if audit has been processed or not (could probably combine verifyAudits and verifySelf functions to one)
 switch ($fileType) {
     case 'audits':
         $verified = verifyAudits($file);
@@ -220,20 +208,15 @@ switch ($fileType) {
 //!verified means audit has not been processes or this is a different fileType to be processed
 #if (!$verified) {
 
-	#echo "</br>[line 233]" . $file . "</br>";
-    $count++;
-    unset($spreadSheet);
     #$spreadSheet = readFileData($file, $count);
-	#$file = 'z:/htdocs/jetroRDportal/' . $file;
-	#$file = 'c:/Users/Scott/Desktop/input/auditsCorp/2019 Q4 023 Pompano 10-26.xls';
-	try {
-		$reader      = \PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile($file);
-		$reader->setReadDataOnly(TRUE);
-		$spreadSheet = $reader->load($file);
-	} catch (Exception $e) {
-		echo $e->getMessage();
-	}
-	$response = [];
+    try {
+        $reader      = \PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile($file);
+        $reader->setReadDataOnly(TRUE);
+        $spreadSheet = $reader->load($file);
+    } catch (Exception $e) {
+        echo $e->getMessage();
+    }
+    $response = [];
 
     switch ($fileType) {
         case 'self':
@@ -259,8 +242,6 @@ if ($fileType === 'audits' || $fileType === 'self') {
 
     if (!$verified) {
         $response['output'] = "<div style='margin-top:15px'>" . $name[0] . ' processed</div>';
-    } else {
-        $response['output'] = "<div style='margin-top:15px'>" . $name[0] . ' not processed</div>';
     }
 }
 
