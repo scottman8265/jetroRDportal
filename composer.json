@@ -1,0 +1,9 @@
+{
+  "require": {
+    "phpoffice/phpspreadsheet": "^1.10",
+    "ext-json": "*",
+    "thybag/php-sharepoint-lists-api": "dev-master",
+    "econea/nusoap": "~0.9.5.1",
+    "shuchkin/simplexlsx": "^0.8.17"
+  }
+}

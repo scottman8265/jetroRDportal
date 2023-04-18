@@ -1,0 +1,1 @@
+[31-Jan-2019 00:00:12 Europe/Berlin] PHP Fatal error:  Cannot redeclare getVersion() (previously declared in C:\xampp\htdocs\portal\inc\auditGetFunctions.php:13) in C:\xampp\htdocs\portal\inc\auditGetFunctions.php on line 33

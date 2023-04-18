@@ -1,0 +1,150 @@
+html {
+    height: 100vh;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #007fff;
+    height: max-content;
+}
+
+#content-wrapper {
+    width: 100%;
+    height: max-content;
+    border: 1px solid black;
+    background: #143D55;
+    display: inline-block;
+    position: relative;
+
+}
+
+.left-float {
+    position: relative;
+    float: left;
+}
+
+.right-float {
+    position: relative;
+    float: right;
+}
+
+.task-container {
+    width: 95%;
+    height: 100%;
+    display: inline-block;
+    text-align: center;
+}
+
+.task-wrapper {
+    margin: 10px;
+    width: 95%;
+    text-wrap: normal;
+    height: auto;
+    border: 1px solid #060965;
+    display: inline-block;
+    background-color: turquoise;
+    position: relative;
+    box-shadow: 2px 2px 2px black;
+}
+
+.task-header {
+    font-size: larger;
+    display: inline-block;
+    width: 100%
+}
+
+.button-div {
+    display: inline-block;
+    margin: 10px;
+}
+
+.fullWidth {
+    width: 100%;
+}
+
+.center {
+    text-align: center;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.info {
+    position: absolute;
+    bottom: 0;
+    height: 30px;
+    width: 100%;
+}
+
+.periodSelect {
+    margin: 15px 20px;
+}
+
+#selectWrap {
+    width: 100%;
+    height: 150px;
+    top: 0;
+}
+
+.myButton {
+    margin: 15px 10px !important;
+    box-shadow: 2px 2px 5px cornflowerblue;
+
+}
+
+.button-wrap {
+    width: 100%;
+    height: auto;
+}
+
+.tasks {
+    margin-top: 10px;
+    display:inline-block;
+}
+
+.wkNum {
+    font-size: xx-large;
+}
+
+.change {
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid darkblue;
+}
+
+.chooseWk {
+    width: 30%;
+    text-align: center;
+    font-size: xx-large;
+    display: inline-block;
+    top: 0;
+    position: relative;
+}
+
+.chooseWkBtn {
+    width: 425px;
+    height: 60px;
+    position: absolute;
+}
+
+#wkEndDate {
+    bottom: 0;
+    position: relative;
+}
+
+.taskHeaderBtns {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.taskBtns {
+    height: auto;
+    display: block;
+}
+
+label {
+    width:100%;
+}

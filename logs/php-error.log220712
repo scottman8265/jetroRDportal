@@ -1,0 +1,1845 @@
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:00:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 17:01:20 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 286, , 1, 2729)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2729', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:21 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 310, , 1, 2730)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2730', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:22 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 330, , 1, 2731)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2731', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:22 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 320, , 1, 2732)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2732', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:23 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 306, , 1, 2733)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2733', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:24 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 336, , 1, 2734)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2734', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:25 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 286, , 1, 2735)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2735', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:26 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 250, , 1, 2736)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2736', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:26 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 262, , 1, 2737)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2737', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:27 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 312, , 1, 2738)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2738', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:28 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 292, , 1, 2739)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2739', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:29 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 316, , 1, 2740)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2740', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:29 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 302, , 1, 2741)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2741', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:30 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 312, , 1, 2742)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2742', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:31 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 272, , 1, 2743)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2743', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:32 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 296, , 1, 2744)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2744', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:33 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 212, , 1, 2745)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2745', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:34 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 306, , 1, 2746)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2746', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:34 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 306, , 1, 2747)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2747', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:35 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 302, , 1, 2748)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2748', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:36 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 218, , 1, 2749)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2749', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:37 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 312, , 1, 2750)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2750', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:38 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 290, , 1, 2751)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2751', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:38 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 292, , 1, 2752)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2752', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:39 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 278, , 1, 2753)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2753', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:40 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 262, , 1, 2754)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2754', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:40 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 312, , 1, 2755)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2755', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:41 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 282, , 1, 2756)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2756', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:42 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 262, , 1, 2757)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2757', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:43 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 336, , 1, 2758)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2758', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:43 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 312, , 1, 2759)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2759', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:44 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 336, , 1, 2760)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2760', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:45 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 310, , 1, 2761)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2761', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:46 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 262, , 1, 2762)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2762', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:46 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 316, , 1, 2763)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2763', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:47 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 266, , 1, 2764)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2764', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:48 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 266, , 1, 2765)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2765', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:49 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 336, , 1, 2766)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2766', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:49 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 210, , 1, 2767)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2767', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:50 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 230, , 1, 2768)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2768', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:51 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 292, , 1, 2769)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2769', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:52 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 296, , 1, 2770)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2770', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:52 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 282, , 1, 2771)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2771', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:53 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 282, , 1, 2772)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2772', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:54 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 266, , 1, 2773)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2773', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:55 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 312, , 1, 2774)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2774', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:55 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 292, , 1, 2775)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2775', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:56 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 336, , 1, 2776)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2776', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:57 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 336, , 1, 2777)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2777', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:58 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 282, , 1, 2778)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2778', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:58 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 272, , 1, 2779)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2779', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:01:59 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 272, , 1, 2780)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2780', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:02:00 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 260, , 1, 2781)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2781', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:02:01 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , , , , , 292, , 1, 2782)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2782', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:08 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2783', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2784', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2785', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2786', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.85253456221198, 0.85087719298246, 0.879680479' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2787', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:12 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2788', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:13 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2789', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:13 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2790', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:14 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2791', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:15 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2792', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:16 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.86315789473684, 0.89104638619202, 0.727590511' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2793', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:16 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2794', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:17 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2795', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:18 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.90909090909091, 0.94690265486726, 0.927726013' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2796', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:19 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2797', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:20 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2798', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:21 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2799', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:22 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2800', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:22 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2801', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:23 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2802', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:24 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2803', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:25 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2804', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:26 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.87383177570093, 0.95865070729053, 0.917670682' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2805', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:26 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2806', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:27 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2807', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:28 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2808', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:29 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2809', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:29 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2810', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:30 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2811', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:31 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.76497695852535, 0.86766275346852, 0.834944048' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2812', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:32 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.88940092165899, 0.92273236282195, 0.910664993' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2813', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:33 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2814', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:33 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2815', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:34 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2816', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:35 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2817', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:36 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2818', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:37 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2819', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:37 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2820', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:38 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.86635944700461, 0.92881355932203, 0.888746475' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2821', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:39 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2822', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:40 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2823', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:40 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.84331797235023, 0.88328075709779, 0.904564315' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2824', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:41 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2825', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:42 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2826', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:43 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2827', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:43 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2828', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:44 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2829', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:45 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2830', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:46 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2831', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:46 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2832', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:47 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.89400921658986, 0.92486187845304, 0.950076413' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2833', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:48 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2834', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:49 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2835', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:10:49 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'N' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2836', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:33 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.88262910798122, 0.91822429906542, 0.941810344' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2837', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:34 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.94270833333333, 0.8478835978836, 0.9032705099' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2838', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:35 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.88541666666667, 0.90817790530846, 0.883338504' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2839', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:36 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.85253456221198, 0.85087719298246, 0.879680479' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2840', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:37 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.828125, 0.88739946380697, 0.87707182320442, 0' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2841', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:38 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.70531400966184, 0.5487012987013, 0.6079136690' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2842', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:38 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.87323943661972, 0.76551724137931, 0.816710875' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2843', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:39 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.79166666666667, 0.73757961783439, 0.668709947' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2844', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:40 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.82291666666667, 0.55436241610738, 0.800454803' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2845', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:41 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.92018779342723, 0.88154897494305, 0.914760914' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2846', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:42 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.86315789473684, 0.89104638619202, 0.727590511' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2847', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:43 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.921875, 0.68199737187911, 0.8907422852377, 0.' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2848', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:44 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.90555555555556, 0.92222222222222, 0.745744680' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2849', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:45 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.90909090909091, 0.94690265486726, 0.927726013' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2850', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:45 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.93896713615023, 0.94712643678161, 0.896321070' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2851', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:47 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.84375, 0.65122265122265, 0.65910348644162, 0.' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2852', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:48 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.82380952380952, 0.52986725663717, 0.624641833' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2853', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:49 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.7047619047619, 0.66482910694598, 0.8121532364' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2854', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:49 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.90625, 0.84808454425363, 0.80390539053905, 0.' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2855', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:50 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.83568075117371, 0.87641723356009, 0.907611548' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2856', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:51 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.88541666666667, 0.69530201342282, 0.650642817' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2857', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:53 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.86458333333333, 0.93672627235213, 0.888236937' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2858', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:54 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.87383177570093, 0.95865070729053, 0.917670682' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2859', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:55 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.89201877934272, 0.8997722095672, 0.8970893970' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2860', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:56 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.98148148148148, 0.86522911051213, 0.886158192' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2861', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:56 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.82380952380952, 0.87658592848904, 0.908828923' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2862', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:57 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.92488262910798, 0.96045197740113, 0.866951643' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2863', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:58 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.84567901234568, 0.91056910569106, 0.787018825' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2864', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:14:59 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.88732394366197, 0.87828947368421, 0.816134101' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2865', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:00 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.76497695852535, 0.86766275346852, 0.834944048' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2866', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:01 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.88940092165899, 0.92273236282195, 0.910664993' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2867', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:02 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.84507042253521, 0.86788154897494, 0.899327122' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2868', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:03 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.86384976525822, 0.67312072892939, 0.780979827' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2869', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:03 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.87978142076503, 0.95141242937853, 0.875856615' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2870', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:04 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.91549295774648, 0.89069264069264, 0.849824750' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2871', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:05 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.85185185185185, 0.88724832214765, 0.739385474' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2872', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:06 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.73333333333333, 0.88926553672316, 0.747759620' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2873', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:07 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.94366197183099, 0.86283185840708, 0.909537348' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2874', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:08 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.86635944700461, 0.92881355932203, 0.888746475' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2875', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.86666666666667, 0.96551724137931, 0.804527296' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2876', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:09 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.84507042253521, 0.95216400911162, 0.918610679' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2877', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:10 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.84331797235023, 0.88328075709779, 0.904564315' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2878', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:11 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.90610328638498, 0.89111111111111, 0.914621409' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2879', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:12 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.90140845070423, 0.91343963553531, 0.837148803' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2880', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:14 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.87619047619048, 0.88022598870057, 0.803387139' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2881', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:15 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.92957746478873, 0.92552026286966, 0.970688301' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2882', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:15 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.88732394366197, 0.86946902654867, 0.847233047' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2883', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:16 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.94285714285714, 0.90265486725664, 0.938996138' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2884', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:17 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.91666666666667, 0.85046728971963, 0.937903905' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2885', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:18 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.92957746478873, 0.8429203539823, 0.9271540469' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2886', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:19 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.89400921658986, 0.92486187845304, 0.950076413' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2887', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:20 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.93229166666667, 0.7503285151117, 0.8840864440' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2888', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:21 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.92488262910798, 0.83888888888889, 0.892540427' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2889', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:15:23 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , , , , , , , , , , , 0.88262910798122, 0.94124293785311, 0.914876257' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(65): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2890', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[11-Jul-2022 17:16:27 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0.76497695852535, 0.86766275346852, 0.83494404883011, 0.85606060606061, 1, 29' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '2920', '220711', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69

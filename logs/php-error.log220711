@@ -1,0 +1,1188 @@
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 4194304 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 33554432 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 16777216 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 8388608 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 6291456 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 4194304 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:54:28 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:54:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:56:35 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:56:35 America/Chicago] PHP Warning:  require_once(../inc/readFileFunc.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/readFileFunc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\uploadFile.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 20
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 23:57:42 Europe/Berlin] PHP Warning:  Failed to set memory limit to 1 bytes (Current memory usage is 2097152 bytes) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 14
+[11-Jul-2022 16:57:42 America/Chicago] PHP Warning:  require_once(../inc/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[11-Jul-2022 16:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\jetroRDportal\class\Process.php:11
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Arrays.php(9): require()
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(22): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11

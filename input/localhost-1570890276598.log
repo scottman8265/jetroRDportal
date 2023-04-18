@@ -1,0 +1,217 @@
+main.js:3 ready
+main.js:21 inside dialog function
+main.js:21 inside dialog function
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+XHR finished loading: POST "<URL>".
+mcafee_wa_content.js:23 XHR finished loading: GET "chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/json/engines.json".
+getContent @ mcafee_wa_content.js:23
+getJSON @ mcafee_wa_content.js:23
+getJSON @ mcafee_wa_content.js:23
+init @ mcafee_wa_content.js:23
+init @ mcafee_wa_content.js:23
+(anonymous) @ mcafee_wa_content.js:23
+main.js:372 .tasks .upload clicked
+main.js:388 fileCount: 31
+main.js:396 data: inside verifyAuditsinput/auditsCorp/2019 Q3 411 Jacksonville.xls</br>
+main.js:396 data: <br />
+<font size='1'><table class='xdebug-error xe-fatal-error' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Fatal error: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line <i>9</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0012</td><td bgcolor='#eeeeec' align='right'>492424</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\xampp\htdocs\jetroRDportal\uploadFile.php' bgcolor='#eeeeec'>...\uploadFile.php<b>:</b>0</td></tr>
+</table></font>
+
+main.js:396 data: <br />
+<font size='1'><table class='xdebug-error xe-fatal-error' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Fatal error: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line <i>9</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0008</td><td bgcolor='#eeeeec' align='right'>492424</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\xampp\htdocs\jetroRDportal\uploadFile.php' bgcolor='#eeeeec'>...\uploadFile.php<b>:</b>0</td></tr>
+</table></font>
+
+main.js:396 data: <br />
+<font size='1'><table class='xdebug-error xe-fatal-error' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Fatal error: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line <i>9</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0010</td><td bgcolor='#eeeeec' align='right'>492424</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\xampp\htdocs\jetroRDportal\uploadFile.php' bgcolor='#eeeeec'>...\uploadFile.php<b>:</b>0</td></tr>
+</table></font>
+
+main.js:396 data: <br />
+<font size='1'><table class='xdebug-error xe-fatal-error' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Fatal error: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line <i>9</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0013</td><td bgcolor='#eeeeec' align='right'>492424</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\xampp\htdocs\jetroRDportal\uploadFile.php' bgcolor='#eeeeec'>...\uploadFile.php<b>:</b>0</td></tr>
+</table></font>
+
+main.js:396 data: inside verifyAuditsinput/auditsCorp/2019 Q3 413 Tampa.xls</br>
+main.js:396 data: inside verifyAuditsinput/auditsCorp/2019 Q3 422 FtMyers.xls</br>
+main.js:396 data: <br />
+<font size='1'><table class='xdebug-error xe-fatal-error' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Fatal error: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line <i>9</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0007</td><td bgcolor='#eeeeec' align='right'>492392</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\xampp\htdocs\jetroRDportal\uploadFile.php' bgcolor='#eeeeec'>...\uploadFile.php<b>:</b>0</td></tr>
+</table></font>
+
+main.js:396 data: inside verifyAuditsinput/auditsCorp/2019 Q3 426 Kissimmee.xls</br>
+main.js:396 data: <br />
+<font size='1'><table class='xdebug-error xe-fatal-error' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Fatal error: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line <i>9</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0008</td><td bgcolor='#eeeeec' align='right'>492424</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\xampp\htdocs\jetroRDportal\uploadFile.php' bgcolor='#eeeeec'>...\uploadFile.php<b>:</b>0</td></tr>
+</table></font>
+
+main.js:396 data: <br />
+<font size='1'><table class='xdebug-error xe-fatal-error' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Fatal error: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line <i>9</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0008</td><td bgcolor='#eeeeec' align='right'>492424</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\xampp\htdocs\jetroRDportal\uploadFile.php' bgcolor='#eeeeec'>...\uploadFile.php<b>:</b>0</td></tr>
+</table></font>
+
+main.js:396 data: <br />
+<font size='1'><table class='xdebug-error xe-fatal-error' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Fatal error: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line <i>9</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>492424</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\xampp\htdocs\jetroRDportal\uploadFile.php' bgcolor='#eeeeec'>...\uploadFile.php<b>:</b>0</td></tr>
+</table></font>
+
+main.js:396 data: inside verifyAuditsinput/auditsCorp/2019 Q3 453 NOLA.xls</br>
+main.js:396 data: <br />
+<font size='1'><table class='xdebug-error xe-fatal-error' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Fatal error: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line <i>9</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0008</td><td bgcolor='#eeeeec' align='right'>492392</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\xampp\htdocs\jetroRDportal\uploadFile.php' bgcolor='#eeeeec'>...\uploadFile.php<b>:</b>0</td></tr>
+</table></font>
+
+main.js:396 data: <br />
+<font size='1'><table class='xdebug-error xe-fatal-error' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Fatal error: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line <i>9</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0012</td><td bgcolor='#eeeeec' align='right'>492392</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\xampp\htdocs\jetroRDportal\uploadFile.php' bgcolor='#eeeeec'>...\uploadFile.php<b>:</b>0</td></tr>
+</table></font>
+
+main.js:396 data: <br />
+<font size='1'><table class='xdebug-error xe-fatal-error' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Fatal error: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line <i>9</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0010</td><td bgcolor='#eeeeec' align='right'>492424</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\xampp\htdocs\jetroRDportal\uploadFile.php' bgcolor='#eeeeec'>...\uploadFile.php<b>:</b>0</td></tr>
+</table></font>
+
+main.js:396 data: inside verifyAuditsinput/auditsCorp/2019 Q3 454 Pulaski.xls</br>
+main.js:396 data: <br />
+<font size='1'><table class='xdebug-error xe-fatal-error' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Fatal error: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line <i>9</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0005</td><td bgcolor='#eeeeec' align='right'>492392</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\xampp\htdocs\jetroRDportal\uploadFile.php' bgcolor='#eeeeec'>...\uploadFile.php<b>:</b>0</td></tr>
+</table></font>
+
+main.js:396 data: inside verifyAuditsinput/auditsCorp/2019 Q3 463 Ypsilanti.xls</br>
+main.js:396 data: <br />
+<font size='1'><table class='xdebug-error xe-fatal-error' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Fatal error: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line <i>9</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0012</td><td bgcolor='#eeeeec' align='right'>492424</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\xampp\htdocs\jetroRDportal\uploadFile.php' bgcolor='#eeeeec'>...\uploadFile.php<b>:</b>0</td></tr>
+</table></font>
+
+main.js:396 data: <br />
+<font size='1'><table class='xdebug-error xe-fatal-error' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Fatal error: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line <i>9</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0012</td><td bgcolor='#eeeeec' align='right'>492424</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\xampp\htdocs\jetroRDportal\uploadFile.php' bgcolor='#eeeeec'>...\uploadFile.php<b>:</b>0</td></tr>
+</table></font>
+
+main.js:396 data: inside verifyAuditsinput/auditsCorp/2019 Q3 548 desPlaines.xls</br>
+main.js:396 data: <br />
+<font size='1'><table class='xdebug-error xe-fatal-error' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Fatal error: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line <i>9</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0010</td><td bgcolor='#eeeeec' align='right'>492424</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\xampp\htdocs\jetroRDportal\uploadFile.php' bgcolor='#eeeeec'>...\uploadFile.php<b>:</b>0</td></tr>
+</table></font>
+
+main.js:396 data: <br />
+<font size='1'><table class='xdebug-error xe-fatal-error' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Fatal error: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line <i>9</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0151</td><td bgcolor='#eeeeec' align='right'>492424</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\xampp\htdocs\jetroRDportal\uploadFile.php' bgcolor='#eeeeec'>...\uploadFile.php<b>:</b>0</td></tr>
+</table></font>
+
+main.js:396 data: inside verifyAuditsinput/auditsCorp/2019 Q3 565 Norcross.xls</br>
+main.js:396 data: <br />
+<font size='1'><table class='xdebug-error xe-fatal-error' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Fatal error: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line <i>9</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0013</td><td bgcolor='#eeeeec' align='right'>492424</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\xampp\htdocs\jetroRDportal\uploadFile.php' bgcolor='#eeeeec'>...\uploadFile.php<b>:</b>0</td></tr>
+</table></font>
+
+main.js:396 data: <br />
+<font size='1'><table class='xdebug-error xe-fatal-error' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Fatal error: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line <i>9</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0007</td><td bgcolor='#eeeeec' align='right'>492424</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\xampp\htdocs\jetroRDportal\uploadFile.php' bgcolor='#eeeeec'>...\uploadFile.php<b>:</b>0</td></tr>
+</table></font>
+
+main.js:396 data: inside verifyAuditsinput/auditsCorp/2019 Q3 566 Ellsworth.xls</br>
+main.js:396 data: <br />
+<font size='1'><table class='xdebug-error xe-fatal-error' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Fatal error: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line <i>9</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0007</td><td bgcolor='#eeeeec' align='right'>492392</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\xampp\htdocs\jetroRDportal\uploadFile.php' bgcolor='#eeeeec'>...\uploadFile.php<b>:</b>0</td></tr>
+</table></font>
+
+main.js:396 data: <br />
+<font size='1'><table class='xdebug-error xe-fatal-error' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Fatal error: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line <i>9</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0007</td><td bgcolor='#eeeeec' align='right'>492424</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='C:\xampp\htdocs\jetroRDportal\uploadFile.php' bgcolor='#eeeeec'>...\uploadFile.php<b>:</b>0</td></tr>
+</table></font>
+
+main.js:396 data: inside verifyAuditsinput/auditsCorp/2019 Q3 586 Orlando.xls</br>

@@ -1,0 +1,77 @@
+[13-Sep-2019 14:09:20 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "" does not exist. in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(391): PhpOffice\PhpSpreadsheet\Shared\File::assertFile(NULL)
+#1 C:\xampp\htdocs\portalDev\inc\readFileFunc.php(28): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load(NULL)
+#2 C:\xampp\htdocs\portalDev\uploadFile.php(249): readFileData(NULL, 'xlsx', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[13-Sep-2019 14:11:05 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "" does not exist. in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(391): PhpOffice\PhpSpreadsheet\Shared\File::assertFile(NULL)
+#1 C:\xampp\htdocs\portalDev\inc\readFileFunc.php(28): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load(NULL)
+#2 C:\xampp\htdocs\portalDev\uploadFile.php(249): readFileData(NULL, 'xlsx', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[13-Sep-2019 14:12:06 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "" does not exist. in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(391): PhpOffice\PhpSpreadsheet\Shared\File::assertFile(NULL)
+#1 C:\xampp\htdocs\portalDev\inc\readFileFunc.php(28): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load(NULL)
+#2 C:\xampp\htdocs\portalDev\uploadFile.php(249): readFileData(NULL, 'xlsx', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[13-Sep-2019 14:12:58 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "" does not exist. in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(391): PhpOffice\PhpSpreadsheet\Shared\File::assertFile(NULL)
+#1 C:\xampp\htdocs\portalDev\inc\readFileFunc.php(28): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load(NULL)
+#2 C:\xampp\htdocs\portalDev\uploadFile.php(249): readFileData(NULL, 'xlsx', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[13-Sep-2019 14:45:34 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "" does not exist. in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(391): PhpOffice\PhpSpreadsheet\Shared\File::assertFile(NULL)
+#1 C:\xampp\htdocs\portalDev\inc\readFileFunc.php(28): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load(NULL)
+#2 C:\xampp\htdocs\portalDev\uploadFile.php(249): readFileData(NULL, 'xlsx', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[13-Sep-2019 14:47:54 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "" does not exist. in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(391): PhpOffice\PhpSpreadsheet\Shared\File::assertFile(NULL)
+#1 C:\xampp\htdocs\portalDev\inc\readFileFunc.php(28): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load(NULL)
+#2 C:\xampp\htdocs\portalDev\uploadFile.php(249): readFileData(NULL, 'xlsx', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[13-Sep-2019 15:17:11 America/Chicago] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to PhpOffice\PhpSpreadsheet\Reader\Xlsx::readColumnsAndRowsAttributes() must be an instance of SimpleXMLElement, boolean given, called in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php on line 894 and defined in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php:2521
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(894): PhpOffice\PhpSpreadsheet\Reader\Xlsx->readColumnsAndRowsAttributes(false, Object(PhpOffice\PhpSpreadsheet\Worksheet\Worksheet))
+#1 C:\xampp\htdocs\portalDev\inc\readFileFunc.php(28): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('C:\\xampp\\tmp\\ph...')
+#2 C:\xampp\htdocs\portalDev\uploadFile.php(250): readFileData('C:\\xampp\\tmp\\ph...', 'xlsx', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php on line 2521
+[13-Sep-2019 15:17:33 America/Chicago] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to PhpOffice\PhpSpreadsheet\Reader\Xlsx::readColumnsAndRowsAttributes() must be an instance of SimpleXMLElement, boolean given, called in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php on line 894 and defined in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php:2521
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(894): PhpOffice\PhpSpreadsheet\Reader\Xlsx->readColumnsAndRowsAttributes(false, Object(PhpOffice\PhpSpreadsheet\Worksheet\Worksheet))
+#1 C:\xampp\htdocs\portalDev\inc\readFileFunc.php(28): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('C:\\xampp\\tmp\\ph...')
+#2 C:\xampp\htdocs\portalDev\uploadFile.php(250): readFileData('C:\\xampp\\tmp\\ph...', 'xlsx', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php on line 2521
+[13-Sep-2019 15:18:25 America/Chicago] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to PhpOffice\PhpSpreadsheet\Reader\Xlsx::readColumnsAndRowsAttributes() must be an instance of SimpleXMLElement, boolean given, called in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php on line 894 and defined in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php:2521
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(894): PhpOffice\PhpSpreadsheet\Reader\Xlsx->readColumnsAndRowsAttributes(false, Object(PhpOffice\PhpSpreadsheet\Worksheet\Worksheet))
+#1 C:\xampp\htdocs\portalDev\inc\readFileFunc.php(28): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('C:\\xampp\\tmp\\ph...')
+#2 C:\xampp\htdocs\portalDev\uploadFile.php(250): readFileData('C:\\xampp\\tmp\\ph...', 'xlsx', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php on line 2521
+[13-Sep-2019 15:21:45 America/Chicago] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to PhpOffice\PhpSpreadsheet\Reader\Xlsx::readColumnsAndRowsAttributes() must be an instance of SimpleXMLElement, boolean given, called in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php on line 894 and defined in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php:2521
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(894): PhpOffice\PhpSpreadsheet\Reader\Xlsx->readColumnsAndRowsAttributes(false, Object(PhpOffice\PhpSpreadsheet\Worksheet\Worksheet))
+#1 C:\xampp\htdocs\portalDev\inc\readFileFunc.php(28): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('C:\\xampp\\tmp\\ph...')
+#2 C:\xampp\htdocs\portalDev\uploadFile.php(250): readFileData('C:\\xampp\\tmp\\ph...', 'xlsx', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php on line 2521
+[13-Sep-2019 15:22:36 America/Chicago] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to PhpOffice\PhpSpreadsheet\Reader\Xlsx::readColumnsAndRowsAttributes() must be an instance of SimpleXMLElement, boolean given, called in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php on line 894 and defined in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php:2521
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(894): PhpOffice\PhpSpreadsheet\Reader\Xlsx->readColumnsAndRowsAttributes(false, Object(PhpOffice\PhpSpreadsheet\Worksheet\Worksheet))
+#1 C:\xampp\htdocs\portalDev\inc\readFileFunc.php(28): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('C:\\xampp\\tmp\\ph...')
+#2 C:\xampp\htdocs\portalDev\uploadFile.php(250): readFileData('C:\\xampp\\tmp\\ph...', 'xlsx', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php on line 2521

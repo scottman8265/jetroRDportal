@@ -1,0 +1,33 @@
+[09-Apr-2019 12:42:47 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "" does not exist. in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\OLERead.php(102): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('')
+#1 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xls.php(1363): PhpOffice\PhpSpreadsheet\Shared\OLERead->read('')
+#2 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xls.php(628): PhpOffice\PhpSpreadsheet\Reader\Xls->loadOLE('')
+#3 C:\xampp\htdocs\portalDev\inc\readFileFunc.php(20): PhpOffice\PhpSpreadsheet\Reader\Xls->load('')
+#4 C:\xampp\htdocs\portalDev\uploadFile.php(256): readFileData('', 'xls', false)
+#5 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[09-Apr-2019 12:42:47 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "" does not exist. in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\OLERead.php(102): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('')
+#1 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xls.php(1363): PhpOffice\PhpSpreadsheet\Shared\OLERead->read('')
+#2 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xls.php(628): PhpOffice\PhpSpreadsheet\Reader\Xls->loadOLE('')
+#3 C:\xampp\htdocs\portalDev\inc\readFileFunc.php(20): PhpOffice\PhpSpreadsheet\Reader\Xls->load('')
+#4 C:\xampp\htdocs\portalDev\uploadFile.php(256): readFileData('', 'xls', false)
+#5 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[09-Apr-2019 12:48:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setActiveSheetIndexByName() on string in C:\xampp\htdocs\portalDev\uploadFile.php:151
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(260): audits('WTF is wrong wi...', '0', '1')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 151
+[09-Apr-2019 12:50:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setActiveSheetIndexByName() on string in C:\xampp\htdocs\portalDev\uploadFile.php:151
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(260): audits('WTF is wrong wi...', '0', '1')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 151
+[09-Apr-2019 16:59:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setActiveSheetIndexByName() on string in C:\xampp\htdocs\portalDev\uploadFile.php:151
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(260): audits('WTF is wrong wi...', '0', '1')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 151

@@ -1,0 +1,98 @@
+
+Sub lcTestFormat()
+
+'
+' lcTestFormat Macro
+'
+'
+
+    Dim lRow As Long
+    Dim lCol As Long
+    Dim wb As Workbook
+    Dim rw, cell, col, scoreCell, idCell, evalCell As Range
+    Dim copyData As Range
+    Dim delRange As Range
+    Dim fileName As String
+    Dim harasNames As Variant
+
+    harasNames = Array("regEng", "mgrEng", "regEsp", "mgrEsp", "nyEng", "nyEsp")
+
+    For Each wb In Application.Workbooks
+        If Right(wb.Name, 4) <> "XLSB" Or wb.Name <> "harassment" Then
+            wb.Activate
+            lRow = Cells(Rows.Count, 1).End(xlUp).row
+            lCol = Cells(1, Columns.Count).End(xlToLeft).Column
+            Set copyData = Range("A2", Cells(lRow, lCol))
+
+            Set delRange = Rows(lRow + 1)
+
+            Debug.Print (delRange.Address);
+
+            For Each rw In copyData.Rows
+                Set scoreCell = Cells(rw.row, 8)
+                Set evalCell = Cells(rw.row, 9)
+
+                If evalCell.Value = "No" Then
+                    Set delRange = Union(delRange, Rows(rw.row))
+                ElseIf IsNumeric(Cells(rw.row, 3)) = False Then
+                    Set idCell = Cells(rw.row, 3)
+                    idCell.Value = Split(idCell.Value, "_")
+                    If IsNumeric(idCell.Value) = False Then
+                         Set delRange = Union(delRange, Rows(rw.row))
+                    End If
+                End If
+            Next rw
+
+            lRow = Cells(Rows.Count, 1).End(xlUp).row
+            lCol = Cells(1, Columns.Count).End(xlToLeft).Column
+            Set copyData = Range("A2", Cells(lRow, lCol))
+
+            For Each rw In copyData.Rows
+                Set dateCell = Cells(rw.row, 6)
+                dateCell.Value = Trim(Split(Cells(rw.row, 6), "-")).NumberFormat = "mm/dd/yyyy"
+                dateCell.Value = Trim(dateCell.Value)
+                dateCell.NumberFormat = "mm/dd/yyyy"
+                Set dateCell = Cells(rw.row, 7)
+                dateCell.Value = Split(dateCell.Value, "-")
+                dateCell.Value = Trim(dateCell.Value)
+                dateCell.NumberFormat = "mm/dd/yyyy"
+            Next rw
+
+            If delRange Is Nothing Then
+                Debug.Print (Trim(ActiveSheet.Name)) & " delRange is empty"
+            Else
+                delRange.Delete
+                Debug.Print (Trim(ActiveSheet.Name) & " " & compCount)
+            End If
+
+            lRow = Cells(Rows.Count, 1).End(xlUp).row
+            lCol = Cells(1, Columns.Count).End(xlToLeft).Column
+            Set copyData = Range("A1", Cells(lRow, lCol))
+
+            copyData.Sort Key1:=Range("H1"), Order1:=xlDescending, Header:=xlYes
+            copyData.Sort Key1:=Range("F1"), Order1:=xlDescending, Header:=xlYes
+            copyData.Sort Key1:=Range("C1"), Order1:=xlDescending, Header:=xlYes
+
+            copyData.RemoveDuplicates Columns:=3, Header:=xlYes
+
+            Range("C2").NumberFormat = "0"
+
+            fileName = wb.Path + "\" + ActiveSheet.Name + ".csv"
+            fileName2 = wb.Path + "\harassment.csv"
+
+            ActiveWorkbook.SaveAs fileName:=fileName, FileFormat:=xlCSV, CreateBackup:=False
+
+                For i = 0 To UBound(harasNames)
+                    If ActiveSheet.Name = harasNames(i) Then
+
+                    End If
+                Next i
+
+        End If
+    Next wb
+End Sub
+
+Sub extractDate(row As Integer, col As Integer)
+
+End Sub
+

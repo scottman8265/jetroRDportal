@@ -1,0 +1,258 @@
+[11-Sep-2019 19:47:22 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '415 Nashville 1...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[11-Sep-2019 19:47:22 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '413 Tampa 09071...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[11-Sep-2019 19:49:14 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '415 Nashville 1...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[11-Sep-2019 19:49:14 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '413 Tampa 09071...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[11-Sep-2019 19:54:31 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '418 Largo 0627....', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[11-Sep-2019 19:56:09 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '419 Memphis 111...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[11-Sep-2019 19:56:35 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '419 Memphis 111...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[11-Sep-2019 19:57:43 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '421 Marietta 10...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[11-Sep-2019 19:58:52 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '421 Marietta 10...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[11-Sep-2019 19:59:05 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '422 ftMyers 090...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[11-Sep-2019 19:59:12 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '421 Marietta 10...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[11-Sep-2019 20:00:56 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '421 Marietta 10...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[11-Sep-2019 20:01:39 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '422 ftMyers 090...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[11-Sep-2019 20:05:27 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '421 Marietta 10...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[11-Sep-2019 20:11:11 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '420 Birmingham ...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[11-Sep-2019 20:13:43 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '419 Memphis 111...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 04:33:08 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '2019 Q3 542 goo...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 04:36:30 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '2019 Q3 565 Nor...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 04:37:06 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '2019 Q3 548 des...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 04:52:02 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '2019 Q3 586 Orl...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 04:54:52 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '2019 Q3 548 des...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 04:56:54 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '2019 Q3 565 Nor...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 04:59:58 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '2019 Q3 426 Kis...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 05:00:47 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '2019 Q3 542 goo...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 05:01:39 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '2019 Q3 586 Orl...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 05:01:56 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '2019 Q3 565 Nor...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 05:04:07 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '2019 Q3 523 Pom...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 05:05:27 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '2019 Q3 Ypsilan...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 05:06:02 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '2019 Q3 548 des...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 05:08:38 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '2019 Q3 548 des...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 08:37:29 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '2019 Cycle Coun...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 08:40:11 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '2019 Cycle Coun...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 08:42:32 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '2019 Cycle Coun...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 08:48:53 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '2019 Cycle Coun...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 09:17:09 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '422 ftMyers 090...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 09:17:09 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '421 Marietta 10...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 09:17:10 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '417 Riviera 052...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 09:20:17 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '413 Tampa 09071...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 09:20:17 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '420 Birmingham ...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 09:20:17 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '419 Memphis 111...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 09:20:17 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '417 Riviera 052...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 09:20:17 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '415 Nashville 1...', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55
+[12-Sep-2019 09:20:17 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function getActiveSheet() on null in C:\xampp\htdocs\portalDev\parse\branchCounts.php:55
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(86): include()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(238): branchCounts(NULL, '36', '418 Largo 0627....', NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\portalDev\parse\branchCounts.php on line 55

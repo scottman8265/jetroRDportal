@@ -1,0 +1,836 @@
+[06-Oct-2020 09:28:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:28 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:28 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:28 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:28 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:29 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:29 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:29 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:29 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:28:30 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[06-Oct-2020 09:28:30 America/Chicago] PHP Stack trace:
+[06-Oct-2020 09:28:30 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[06-Oct-2020 09:28:30 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[06-Oct-2020 09:28:30 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[06-Oct-2020 09:31:00 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , 1, 1, 0.89068825910931, 0.90885416666667, 0.91452991452991, 0.94301' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '1882', '201006', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[06-Oct-2020 09:31:22 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , 0.86033519553073, 0.98823529411765, 0.92350746268657, 1, 0.95795795' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '1883', '201006', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[06-Oct-2020 09:31:42 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , 0.94413407821229, 0.87096774193548, 0.71374045801527, 0.89690721649' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '1884', '201006', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[06-Oct-2020 09:32:03 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , 0.86033519553073, 1, 0.89583333333333, 0.97560975609756, 1, 0.88265' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '1885', '201006', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[06-Oct-2020 09:32:25 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , 0.9112426035503, 0.93589743589744, 0.90219560878244, 0.9609375, 0.9' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '1886', '201006', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[06-Oct-2020 09:32:44 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , 1, 1, 0.82142857142857, 0.96010638297872, 0.93083573487032, 0.94002' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '1887', '201006', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[06-Oct-2020 09:33:01 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , 1, 0.94117647058824, 0.7568710359408, 0.74390243902439, 0.803921568' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '1888', '201006', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[06-Oct-2020 09:33:25 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , 0.8780487804878, 0.84276729559748, 0.75961538461538, 0.824120603015' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '1889', '201006', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[06-Oct-2020 09:33:43 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , 0.87951807228916, 0.86805555555556, 0.85685071574642, 0.91957104557' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '1890', '201006', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[06-Oct-2020 09:34:00 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , 0.72067039106145, 0.86301369863014, 0.8996062992126, 0.806701030927' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '1891', '201006', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[06-Oct-2020 09:34:23 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , 0.80446927374302, 0.75342465753425, 0.8890977443609, 0.8828125, 0.9' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '1892', '201006', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[06-Oct-2020 09:34:46 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , , , , , 0.9112426035503, 0.96153846153846, 0.88304093567251, 0.948453608247' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '1893', '201006', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[06-Oct-2020 10:02:40 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 0.92176386913229, 0.98324022346369, 0.98076923076923, 0.81395348837209, 0.70052' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '1925', '201006', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[06-Oct-2020 10:23:40 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 0.92176386913229, 0.98324022346369, 0.98076923076923, 0.81395348837209, 0.70052' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '1966', '201006', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69

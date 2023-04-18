@@ -1,0 +1,40 @@
+[18-Mar-2019 11:38:06 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function branchCounts(), 3 passed in C:\xampp\htdocs\portalDev\uploadFile.php on line 257 and exactly 4 expected in C:\xampp\htdocs\portalDev\uploadFile.php:78
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(257): branchCounts(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), '11', '114 Miami.xlsx')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 78
+[18-Mar-2019 11:38:06 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function branchCounts(), 3 passed in C:\xampp\htdocs\portalDev\uploadFile.php on line 257 and exactly 4 expected in C:\xampp\htdocs\portalDev\uploadFile.php:78
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(257): branchCounts(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), '11', '422 FortMyers.x...')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 78
+[18-Mar-2019 11:38:07 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function branchCounts(), 3 passed in C:\xampp\htdocs\portalDev\uploadFile.php on line 257 and exactly 4 expected in C:\xampp\htdocs\portalDev\uploadFile.php:78
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(257): branchCounts(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), '11', '415 Nashville.x...')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 78
+[18-Mar-2019 11:38:26 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function branchCounts(), 3 passed in C:\xampp\htdocs\portalDev\uploadFile.php on line 257 and exactly 4 expected in C:\xampp\htdocs\portalDev\uploadFile.php:78
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(257): branchCounts(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), '11', '114 Miami.xlsx')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 78
+[18-Mar-2019 11:38:26 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function branchCounts(), 3 passed in C:\xampp\htdocs\portalDev\uploadFile.php on line 257 and exactly 4 expected in C:\xampp\htdocs\portalDev\uploadFile.php:78
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(257): branchCounts(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), '11', '413 Tampa.xlsx')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 78
+[18-Mar-2019 11:38:27 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function branchCounts(), 3 passed in C:\xampp\htdocs\portalDev\uploadFile.php on line 257 and exactly 4 expected in C:\xampp\htdocs\portalDev\uploadFile.php:78
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(257): branchCounts(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), '11', '412 Charlotte.x...')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 78
+[18-Mar-2019 11:38:28 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function branchCounts(), 3 passed in C:\xampp\htdocs\portalDev\uploadFile.php on line 257 and exactly 4 expected in C:\xampp\htdocs\portalDev\uploadFile.php:78
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(257): branchCounts(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), '11', '401 Greensboro....')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 78
+[18-Mar-2019 11:38:28 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function branchCounts(), 3 passed in C:\xampp\htdocs\portalDev\uploadFile.php on line 257 and exactly 4 expected in C:\xampp\htdocs\portalDev\uploadFile.php:78
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(257): branchCounts(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), '11', '415 Nashville.x...')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 78

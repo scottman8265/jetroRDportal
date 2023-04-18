@@ -1,0 +1,148 @@
+[26-Sep-2019 05:42:57 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "" does not exist. in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(391): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('')
+#1 C:\xampp\htdocs\jetroRDportal\inc\readFileFunc.php(28): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('')
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(248): readFileData('', 'xlsx', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[26-Sep-2019 05:43:26 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "" does not exist. in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(391): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('')
+#1 C:\xampp\htdocs\jetroRDportal\inc\readFileFunc.php(28): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('')
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(248): readFileData('', 'xlsx', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[26-Sep-2019 05:44:56 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "" does not exist. in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(391): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('')
+#1 C:\xampp\htdocs\jetroRDportal\inc\readFileFunc.php(28): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('')
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(248): readFileData('', 'xlsx', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[26-Sep-2019 05:48:18 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "" does not exist. in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(391): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('')
+#1 C:\xampp\htdocs\jetroRDportal\inc\readFileFunc.php(28): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('')
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(248): readFileData('', 'xlsx', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[26-Sep-2019 05:49:25 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "" does not exist. in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(391): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('')
+#1 C:\xampp\htdocs\jetroRDportal\inc\readFileFunc.php(28): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('')
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(248): readFileData('', 'xlsx', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[26-Sep-2019 05:49:56 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "" does not exist. in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(391): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('')
+#1 C:\xampp\htdocs\jetroRDportal\inc\readFileFunc.php(28): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('')
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(248): readFileData('', 'xlsx', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[26-Sep-2019 05:50:59 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "" does not exist. in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(391): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('')
+#1 C:\xampp\htdocs\jetroRDportal\inc\readFileFunc.php(28): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('')
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(249): readFileData('', 'xlsx', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[26-Sep-2019 05:51:23 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "" does not exist. in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(391): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('')
+#1 C:\xampp\htdocs\jetroRDportal\inc\readFileFunc.php(28): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('')
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(249): readFileData('', 'xlsx', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[26-Sep-2019 06:49:49 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "" does not exist. in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(391): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('')
+#1 C:\xampp\htdocs\jetroRDportal\inc\readFileFunc.php(28): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('')
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(249): readFileData('', 'xlsx', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[26-Sep-2019 13:24:10 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "../input/JCMS/" does not exist. in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\IOFactory.php(128): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('../input/JCMS/')
+#1 C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\IOFactory.php(93): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile('../input/JCMS/')
+#2 C:\xampp\htdocs\jetroRDportal\inc\readFileFunc.php(26): PhpOffice\PhpSpreadsheet\IOFactory::load('../input/JCMS/')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(250): readFileData('', 'xlsx', false)
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[26-Sep-2019 13:27:11 America/Chicago] PHP Notice:  Undefined variable: count in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 280
+[26-Sep-2019 13:27:11 America/Chicago] PHP Notice:  Undefined variable: count in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 281
+[26-Sep-2019 13:27:11 America/Chicago] PHP Notice:  Undefined variable: count in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 281
+[26-Sep-2019 13:27:11 America/Chicago] PHP Notice:  Undefined variable: count in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 282
+[26-Sep-2019 13:27:11 America/Chicago] PHP Notice:  Undefined variable: count in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 282
+[26-Sep-2019 13:27:11 America/Chicago] PHP Notice:  Undefined variable: count in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 282
+[26-Sep-2019 13:27:11 America/Chicago] PHP Notice:  String offset cast occurred in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 282
+[26-Sep-2019 13:27:11 America/Chicago] PHP Warning:  Cannot assign an empty string to a string offset in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 282
+[26-Sep-2019 13:27:11 America/Chicago] PHP Notice:  Undefined variable: count in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 283
+[26-Sep-2019 13:27:11 America/Chicago] PHP Notice:  Undefined variable: fileCount in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 283
+[26-Sep-2019 13:27:11 America/Chicago] PHP Notice:  Undefined variable: count in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 285
+[26-Sep-2019 13:27:11 America/Chicago] PHP Notice:  Undefined variable: fileCount in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 285
+[26-Sep-2019 14:12:50 America/Chicago] PHP Notice:  Undefined variable: files in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 246
+[26-Sep-2019 14:12:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 246
+[26-Sep-2019 14:13:51 America/Chicago] PHP Notice:  Undefined variable: files in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 246
+[26-Sep-2019 14:13:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 246
+[26-Sep-2019 14:16:33 America/Chicago] PHP Warning:  scandir(../input/JCMS,../input/JCMS): The system cannot find the path specified. (code: 3) in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 241
+[26-Sep-2019 14:16:33 America/Chicago] PHP Warning:  scandir(../input/JCMS): failed to open dir: No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 241
+[26-Sep-2019 14:16:33 America/Chicago] PHP Warning:  scandir(): (errno 2): No such file or directory in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 241
+[26-Sep-2019 14:16:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 246
+[26-Sep-2019 14:17:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function setDataOnly() in C:\xampp\htdocs\jetroRDportal\uploadFile.php:253
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 253
+[26-Sep-2019 14:18:09 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function readFileData(), 1 passed in C:\xampp\htdocs\jetroRDportal\uploadFile.php on line 272 and at least 2 expected in C:\xampp\htdocs\jetroRDportal\inc\readFileFunc.php:19
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\uploadFile.php(272): readFileData('input/JCMS.')
+#1 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\inc\readFileFunc.php on line 19
+[26-Sep-2019 14:18:49 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "../input/JCMS/input/JCMS." does not exist. in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\IOFactory.php(128): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('../input/JCMS/i...')
+#1 C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\IOFactory.php(93): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile('../input/JCMS/i...')
+#2 C:\xampp\htdocs\jetroRDportal\inc\readFileFunc.php(26): PhpOffice\PhpSpreadsheet\IOFactory::load('../input/JCMS/i...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(272): readFileData('input/JCMS.')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[26-Sep-2019 14:20:28 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "../input/JCMS/input/JCMS." does not exist. in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\IOFactory.php(128): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('../input/JCMS/i...')
+#1 C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\IOFactory.php(93): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile('../input/JCMS/i...')
+#2 C:\xampp\htdocs\jetroRDportal\inc\readFileFunc.php(26): PhpOffice\PhpSpreadsheet\IOFactory::load('../input/JCMS/i...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(272): readFileData('input/JCMS.')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[26-Sep-2019 14:20:33 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "../input/JCMS/input/JCMS." does not exist. in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\IOFactory.php(128): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('../input/JCMS/i...')
+#1 C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\IOFactory.php(93): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile('../input/JCMS/i...')
+#2 C:\xampp\htdocs\jetroRDportal\inc\readFileFunc.php(26): PhpOffice\PhpSpreadsheet\IOFactory::load('../input/JCMS/i...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(272): readFileData('input/JCMS.')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[26-Sep-2019 14:21:00 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "../input/JCMS/input/JCMS." does not exist. in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\IOFactory.php(128): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('../input/JCMS/i...')
+#1 C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\IOFactory.php(93): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile('../input/JCMS/i...')
+#2 C:\xampp\htdocs\jetroRDportal\inc\readFileFunc.php(26): PhpOffice\PhpSpreadsheet\IOFactory::load('../input/JCMS/i...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(274): readFileData('input/JCMS.')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[26-Sep-2019 14:21:01 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "../input/JCMS/input/JCMS." does not exist. in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\IOFactory.php(128): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('../input/JCMS/i...')
+#1 C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\IOFactory.php(93): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile('../input/JCMS/i...')
+#2 C:\xampp\htdocs\jetroRDportal\inc\readFileFunc.php(26): PhpOffice\PhpSpreadsheet\IOFactory::load('../input/JCMS/i...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(274): readFileData('input/JCMS.')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[26-Sep-2019 14:23:39 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "../input/JCMS/input/JCMS." does not exist. in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\IOFactory.php(128): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('../input/JCMS/i...')
+#1 C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\IOFactory.php(93): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile('../input/JCMS/i...')
+#2 C:\xampp\htdocs\jetroRDportal\inc\readFileFunc.php(26): PhpOffice\PhpSpreadsheet\IOFactory::load('../input/JCMS/i...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(276): readFileData('input/JCMS.')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137

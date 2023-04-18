@@ -1,0 +1,25 @@
+[01-Feb-2019 19:35:24 US/Central] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'END, _LRT RECORD KEEPING REVIEW, _0) VALUES (04, =IF(D153>D152,D153,FALSE).=D152' at line 1 in C:\xampp\htdocs\portal\class\Process.php:65
+Stack trace:
+#0 C:\xampp\htdocs\portal\class\Process.php(65): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\portal\process\cycleCounts.php(16): Process->query('INSERT INTO cyc...')
+#2 C:\xampp\htdocs\portal\uploadFile.php(66): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\portal\uploadFile.php(167): cycleCounts(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), '0', '1')
+#4 {main}
+  thrown in C:\xampp\htdocs\portal\class\Process.php on line 65
+[01-Feb-2019 19:35:54 US/Central] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'END, _HACCP KIK REQUIREMENTS OBSERVATION AND REVIEW, _46 DEGREES) VALUES (04, =I' at line 1 in C:\xampp\htdocs\portal\class\Process.php:65
+Stack trace:
+#0 C:\xampp\htdocs\portal\class\Process.php(65): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\portal\process\cycleCounts.php(16): Process->query('INSERT INTO cyc...')
+#2 C:\xampp\htdocs\portal\uploadFile.php(66): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\portal\uploadFile.php(167): cycleCounts(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), '0', '1')
+#4 {main}
+  thrown in C:\xampp\htdocs\portal\class\Process.php on line 65
+[01-Feb-2019 19:38:15 America/Chicago] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Calculation\Exception: CASHROOM!G6 -> internal error in C:\xampp\htdocs\portal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\Cell.php:274
+Stack trace:
+#0 C:\xampp\htdocs\portal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\Cell.php(165): PhpOffice\PhpSpreadsheet\Cell\Cell->getCalculatedValue()
+#1 C:\xampp\htdocs\portal\parse\jcmsTesting.php(50): PhpOffice\PhpSpreadsheet\Cell\Cell->getFormattedValue()
+#2 C:\xampp\htdocs\portal\parse\jcmsTesting.php(108): getArray(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), Array)
+#3 C:\xampp\htdocs\portal\uploadFile.php(90): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\portal\uploadFile.php(167): jcmsTesting(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), '5', '7')
+#5 {main}
+  thrown in C:\xampp\htdocs\portal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\Cell.php on line 274

@@ -1,0 +1,6 @@
+[29-Jan-2019 12:26:19 Europe/Berlin] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 4096 bytes) in C:\xampp\htdocs\portal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Worksheet\Worksheet.php on line 1262
+[29-Jan-2019 12:32:30 Europe/Berlin] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 4096 bytes) in C:\xampp\htdocs\portal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Worksheet\Worksheet.php on line 1262
+[29-Jan-2019 16:47:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function audits() in C:\xampp\htdocs\portal\uploadFile.php:98
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\portal\uploadFile.php on line 98

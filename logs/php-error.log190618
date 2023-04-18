@@ -1,0 +1,50 @@
+[18-Jun-2019 05:49:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setActiveSheetIndexByName() on string in C:\xampp\htdocs\portalDev\uploadFile.php:173
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(266): self('WTF is wrong wi...', '17', '34')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 173
+[18-Jun-2019 05:50:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setActiveSheetIndexByName() on string in C:\xampp\htdocs\portalDev\uploadFile.php:173
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(266): self('WTF is wrong wi...', '28', '34')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 173
+[18-Jun-2019 05:55:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setActiveSheetIndexByName() on string in C:\xampp\htdocs\portalDev\uploadFile.php:173
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(266): self('WTF is wrong wi...', '1', '18')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 173
+[18-Jun-2019 05:56:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setActiveSheetIndexByName() on string in C:\xampp\htdocs\portalDev\uploadFile.php:173
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(266): self('WTF is wrong wi...', '12', '18')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 173
+[18-Jun-2019 06:08:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setActiveSheetIndexByName() on string in C:\xampp\htdocs\portalDev\uploadFile.php:173
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(266): self('WTF is wrong wi...', '1', '7')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 173
+[18-Jun-2019 06:08:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setActiveSheetIndexByName() on string in C:\xampp\htdocs\portalDev\uploadFile.php:173
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(266): self('WTF is wrong wi...', '3', '7')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 173
+[18-Jun-2019 06:14:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setActiveSheetIndexByName() on string in C:\xampp\htdocs\portalDev\uploadFile.php:173
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(266): self('WTF is wrong wi...', '0', '1')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 173
+[18-Jun-2019 06:14:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setActiveSheetIndexByName() on string in C:\xampp\htdocs\portalDev\uploadFile.php:173
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(266): self('WTF is wrong wi...', '0', '1')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 173
+[18-Jun-2019 06:15:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setActiveSheetIndexByName() on string in C:\xampp\htdocs\portalDev\uploadFile.php:173
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(266): self('WTF is wrong wi...', '0', '1')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 173
+[18-Jun-2019 06:15:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setActiveSheetIndexByName() on string in C:\xampp\htdocs\portalDev\uploadFile.php:173
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(266): self('WTF is wrong wi...', '0', '1')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 173

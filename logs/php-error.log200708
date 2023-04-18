@@ -1,0 +1,28 @@
+[08-Jul-2020 08:41:44 America/Chicago] PHP Warning:  require_once(../inc/config.php): failed to open stream: No such file or directory in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[08-Jul-2020 08:41:44 America/Chicago] PHP Stack trace:
+[08-Jul-2020 08:41:44 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[08-Jul-2020 08:41:44 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[08-Jul-2020 08:41:44 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[08-Jul-2020 08:41:44 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../inc/config.php' (include_path='C:\xampp\php\PEAR:C:\xampp\htdocs') in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 11
+[08-Jul-2020 08:41:44 America/Chicago] PHP Stack trace:
+[08-Jul-2020 08:41:44 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[08-Jul-2020 08:41:44 America/Chicago] PHP   2. require_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:22
+[08-Jul-2020 08:41:44 America/Chicago] PHP   3. require() C:\xampp\htdocs\jetroRDportal\class\Arrays.php:9
+[08-Jul-2020 08:43:48 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Corp' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(23): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(129): getAuditID(Array)
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[08-Jul-2020 08:51:22 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'input' in 'field list' in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(23): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(129): getAuditID(Array)
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(245): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69

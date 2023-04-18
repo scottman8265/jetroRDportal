@@ -1,0 +1,86 @@
+[09-Sep-2019 19:35:31 US/Central] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: Your requested sheet index: -1 is out of bounds. The actual number of sheets is 0. in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php:695
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php(580): PhpOffice\PhpSpreadsheet\Spreadsheet->getSheet(-1)
+#1 C:\xampp\htdocs\portalDev\parse\branchCounts.php(53): PhpOffice\PhpSpreadsheet\Spreadsheet->getActiveSheet()
+#2 C:\xampp\htdocs\portalDev\uploadFile.php(96): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\portalDev\uploadFile.php(269): branchCounts(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), '36', '422 ftMyers 090...', Array)
+#4 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php on line 695
+[09-Sep-2019 19:48:31 US/Central] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: Your requested sheet index: -1 is out of bounds. The actual number of sheets is 0. in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php:695
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php(580): PhpOffice\PhpSpreadsheet\Spreadsheet->getSheet(-1)
+#1 C:\xampp\htdocs\portalDev\parse\branchCounts.php(53): PhpOffice\PhpSpreadsheet\Spreadsheet->getActiveSheet()
+#2 C:\xampp\htdocs\portalDev\uploadFile.php(96): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\portalDev\uploadFile.php(269): branchCounts(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), '36', '422 ftMyers 090...', Array)
+#4 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php on line 695
+[09-Sep-2019 19:50:46 US/Central] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: Your requested sheet index: -1 is out of bounds. The actual number of sheets is 0. in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php:695
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php(580): PhpOffice\PhpSpreadsheet\Spreadsheet->getSheet(-1)
+#1 C:\xampp\htdocs\portalDev\parse\branchCounts.php(53): PhpOffice\PhpSpreadsheet\Spreadsheet->getActiveSheet()
+#2 C:\xampp\htdocs\portalDev\uploadFile.php(96): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\portalDev\uploadFile.php(269): branchCounts(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), '36', '422 ftMyers 090...', Array)
+#4 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php on line 695
+[09-Sep-2019 19:53:07 US/Central] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: Your requested sheet index: -1 is out of bounds. The actual number of sheets is 0. in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php:695
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php(580): PhpOffice\PhpSpreadsheet\Spreadsheet->getSheet(-1)
+#1 C:\xampp\htdocs\portalDev\parse\branchCounts.php(53): PhpOffice\PhpSpreadsheet\Spreadsheet->getActiveSheet()
+#2 C:\xampp\htdocs\portalDev\uploadFile.php(96): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\portalDev\uploadFile.php(269): branchCounts(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), '36', '422 ftMyers 090...', Array)
+#4 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php on line 695
+[09-Sep-2019 19:55:42 US/Central] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: Your requested sheet index: -1 is out of bounds. The actual number of sheets is 0. in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php:695
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php(580): PhpOffice\PhpSpreadsheet\Spreadsheet->getSheet(-1)
+#1 C:\xampp\htdocs\portalDev\parse\branchCounts.php(53): PhpOffice\PhpSpreadsheet\Spreadsheet->getActiveSheet()
+#2 C:\xampp\htdocs\portalDev\uploadFile.php(96): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\portalDev\uploadFile.php(269): branchCounts(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), '36', '422 ftMyers 090...', Array)
+#4 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php on line 695
+[09-Sep-2019 20:01:38 US/Central] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: Your requested sheet index: -1 is out of bounds. The actual number of sheets is 0. in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php:695
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php(580): PhpOffice\PhpSpreadsheet\Spreadsheet->getSheet(-1)
+#1 C:\xampp\htdocs\portalDev\parse\branchCounts.php(55): PhpOffice\PhpSpreadsheet\Spreadsheet->getActiveSheet()
+#2 C:\xampp\htdocs\portalDev\uploadFile.php(96): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\portalDev\uploadFile.php(269): branchCounts(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), '36', '422 ftMyers 090...', Array)
+#4 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php on line 695
+[09-Sep-2019 20:01:56 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "" does not exist. in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(391): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('')
+#1 C:\xampp\htdocs\portalDev\inc\readFileFunc.php(20): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('')
+#2 C:\xampp\htdocs\portalDev\uploadFile.php(259): readFileData('', 'xlsx', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[09-Sep-2019 20:01:56 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "" does not exist. in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(391): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('')
+#1 C:\xampp\htdocs\portalDev\inc\readFileFunc.php(20): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('')
+#2 C:\xampp\htdocs\portalDev\uploadFile.php(259): readFileData('', 'xlsx', false)
+#3 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[09-Sep-2019 20:02:15 US/Central] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: Your requested sheet index: -1 is out of bounds. The actual number of sheets is 0. in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php:695
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php(580): PhpOffice\PhpSpreadsheet\Spreadsheet->getSheet(-1)
+#1 C:\xampp\htdocs\portalDev\parse\branchCounts.php(55): PhpOffice\PhpSpreadsheet\Spreadsheet->getActiveSheet()
+#2 C:\xampp\htdocs\portalDev\uploadFile.php(96): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\portalDev\uploadFile.php(269): branchCounts(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), '36', '422 ftMyers 090...', Array)
+#4 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php on line 695
+[09-Sep-2019 20:03:10 US/Central] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: Your requested sheet index: -1 is out of bounds. The actual number of sheets is 0. in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php:695
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php(580): PhpOffice\PhpSpreadsheet\Spreadsheet->getSheet(-1)
+#1 C:\xampp\htdocs\portalDev\parse\branchCounts.php(55): PhpOffice\PhpSpreadsheet\Spreadsheet->getActiveSheet()
+#2 C:\xampp\htdocs\portalDev\uploadFile.php(96): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\portalDev\uploadFile.php(269): branchCounts(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), '36', '422 ftMyers 090...', Array)
+#4 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php on line 695
+[09-Sep-2019 20:04:11 US/Central] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: Your requested sheet index: -1 is out of bounds. The actual number of sheets is 0. in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php:695
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php(580): PhpOffice\PhpSpreadsheet\Spreadsheet->getSheet(-1)
+#1 C:\xampp\htdocs\portalDev\parse\branchCounts.php(55): PhpOffice\PhpSpreadsheet\Spreadsheet->getActiveSheet()
+#2 C:\xampp\htdocs\portalDev\uploadFile.php(96): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\portalDev\uploadFile.php(269): branchCounts(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), '36', '422 ftMyers 090...', Array)
+#4 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php on line 695

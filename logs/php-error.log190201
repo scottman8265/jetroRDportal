@@ -1,0 +1,31 @@
+[31-Jan-2019 17:56:18 America/Chicago] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\xampp\htdocs\portal\uploadFile.php:158
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\portal\uploadFile.php on line 158
+[31-Jan-2019 17:59:34 America/Chicago] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\xampp\htdocs\portal\uploadFile.php:158
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\portal\uploadFile.php on line 158
+[31-Jan-2019 18:01:42 America/Chicago] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\xampp\htdocs\portal\uploadFile.php:158
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\portal\uploadFile.php on line 158
+[31-Jan-2019 18:01:42 America/Chicago] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\xampp\htdocs\portal\uploadFile.php:158
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\portal\uploadFile.php on line 158
+[31-Jan-2019 19:09:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setActiveSheetIndexByName() on string in C:\xampp\htdocs\portal\uploadFile.php:104
+Stack trace:
+#0 C:\xampp\htdocs\portal\uploadFile.php(158): audits('WTF is wrong wi...')
+#1 {main}
+  thrown in C:\xampp\htdocs\portal\uploadFile.php on line 104
+[31-Jan-2019 19:10:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setActiveSheetIndexByName() on string in C:\xampp\htdocs\portal\uploadFile.php:104
+Stack trace:
+#0 C:\xampp\htdocs\portal\uploadFile.php(158): audits('WTF is wrong wi...')
+#1 {main}
+  thrown in C:\xampp\htdocs\portal\uploadFile.php on line 104
+[31-Jan-2019 19:11:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setActiveSheetIndexByName() on string in C:\xampp\htdocs\portal\uploadFile.php:104
+Stack trace:
+#0 C:\xampp\htdocs\portal\uploadFile.php(158): audits('WTF is wrong wi...')
+#1 {main}
+  thrown in C:\xampp\htdocs\portal\uploadFile.php on line 104

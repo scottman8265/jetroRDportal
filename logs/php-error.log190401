@@ -1,0 +1,2 @@
+[01-Apr-2019 11:15:36 America/Chicago] PHP Fatal error:  Allowed memory size of 314572800 bytes exhausted (tried to allocate 7340032 bytes) in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Collection\Cells.php on line 400
+[01-Apr-2019 11:17:00 America/Chicago] PHP Fatal error:  Allowed memory size of 314572800 bytes exhausted (tried to allocate 8388608 bytes) in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php on line 1064

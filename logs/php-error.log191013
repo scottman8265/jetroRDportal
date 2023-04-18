@@ -1,0 +1,1720 @@
+[13-Oct-2019 07:07:38 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:07:38 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:07:38 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:07:38 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:07:38 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:07:38 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:07:38 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:07:38 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:07:38 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:07:38 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:07:38 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:07:38 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:07:38 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:07:38 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:07:38 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:07:38 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:07:38 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:07:38 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:07:38 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:07:38 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:07:38 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:07:38 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:07:38 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:07:38 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:07:38 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:07:38 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:07:38 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:07:38 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:07:38 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:07:38 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:07:38 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:07:38 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:07:38 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:07:38 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:07:38 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:07:38 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:07:38 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:07:38 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:07:38 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:07:38 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:07:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1303', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:08:01 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:08:01 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:08:01 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:08:01 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:08:01 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:08:01 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:08:01 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:08:01 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:08:01 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:08:01 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:08:01 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:08:01 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:08:01 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:08:01 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:08:01 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:08:01 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:08:01 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:08:01 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:08:01 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:08:01 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:08:01 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:08:01 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:08:01 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:08:01 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:08:01 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:08:01 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:08:01 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:08:01 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:08:01 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:08:01 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:08:01 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:08:01 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:08:01 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:08:01 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:08:01 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:08:01 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:08:01 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:08:01 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:08:01 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:08:01 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:08:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1304', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:08:20 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:08:20 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:08:20 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:08:20 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:08:20 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:08:20 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:08:20 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:08:20 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:08:20 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:08:20 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:08:20 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:08:20 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:08:20 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:08:20 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:08:20 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:08:20 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:08:20 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:08:20 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:08:20 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:08:20 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:08:20 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:08:20 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:08:20 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:08:20 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:08:20 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:08:20 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:08:20 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:08:20 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:08:20 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:08:20 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:08:20 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:08:20 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:08:20 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:08:20 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:08:20 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:08:20 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:08:20 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:08:20 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:08:20 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:08:20 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:08:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1305', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:08:37 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:08:37 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:08:37 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:08:37 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:08:37 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:08:37 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:08:37 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:08:37 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:08:37 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:08:37 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:08:37 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:08:37 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:08:37 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:08:37 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:08:37 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:08:37 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:08:37 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:08:37 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:08:37 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:08:37 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:08:37 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:08:37 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:08:37 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:08:37 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:08:37 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:08:37 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:08:37 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:08:37 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:08:37 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:08:37 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:08:37 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:08:37 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:08:37 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:08:37 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:08:37 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:08:37 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:08:37 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:08:37 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:08:37 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:08:37 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:08:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1306', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:08:54 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:08:54 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:08:54 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:08:54 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:08:54 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:08:54 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:08:54 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:08:54 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:08:54 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:08:54 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:08:54 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:08:54 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:08:54 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:08:54 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:08:54 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:08:54 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:08:54 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:08:54 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:08:54 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:08:54 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:08:54 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:08:54 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:08:54 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:08:54 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:08:54 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:08:54 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:08:54 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:08:54 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:08:54 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:08:54 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:08:54 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:08:54 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:08:54 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:08:54 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:08:54 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:08:54 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:08:54 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:08:54 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:08:54 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:08:54 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:08:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1307', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:09:18 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:09:18 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:09:18 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:09:18 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:09:18 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:09:18 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:09:18 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:09:18 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:09:18 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:09:18 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:09:18 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:09:18 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:09:18 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:09:18 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:09:18 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:09:18 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:09:18 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:09:18 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:09:18 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:09:18 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:09:18 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:09:18 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:09:18 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:09:18 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:09:18 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:09:18 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:09:18 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:09:18 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:09:18 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:09:18 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:09:18 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:09:18 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:09:18 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:09:18 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:09:18 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:09:18 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:09:18 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:09:18 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:09:18 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:09:18 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:09:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1308', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:09:37 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:09:37 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:09:37 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:09:37 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:09:37 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:09:37 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:09:37 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:09:37 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:09:37 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:09:37 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:09:37 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:09:37 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:09:37 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:09:37 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:09:37 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:09:37 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:09:37 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:09:37 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:09:37 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:09:37 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:09:37 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:09:37 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:09:37 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:09:37 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:09:37 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:09:37 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:09:37 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:09:37 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:09:37 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:09:37 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:09:37 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:09:37 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:09:37 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:09:37 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:09:37 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:09:37 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:09:37 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:09:37 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:09:37 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:09:37 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:09:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1309', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:10:00 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:10:00 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:10:00 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:10:00 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:10:00 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:10:00 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:10:00 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:10:00 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:10:00 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:10:00 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:10:00 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:10:00 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:10:00 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:10:00 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:10:00 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:10:00 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:10:00 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:10:00 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:10:00 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:10:00 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:10:00 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:10:00 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:10:00 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:10:00 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:10:00 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:10:00 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:10:00 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:10:00 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:10:00 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:10:00 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:10:00 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:10:00 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:10:00 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:10:00 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:10:00 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:10:00 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:10:00 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:10:00 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:10:00 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:10:00 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:10:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1310', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:10:24 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:10:24 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:10:24 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:10:24 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:10:24 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:10:24 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:10:24 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:10:24 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:10:24 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:10:24 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:10:24 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:10:24 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:10:24 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:10:24 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:10:24 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:10:24 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:10:24 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:10:24 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:10:24 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:10:24 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:10:24 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:10:24 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:10:24 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:10:24 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:10:24 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:10:24 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:10:24 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:10:24 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:10:24 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:10:24 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:10:24 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:10:24 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:10:24 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:10:24 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:10:24 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:10:24 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:10:24 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:10:24 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:10:24 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:10:24 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:10:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1311', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:10:46 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:10:46 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:10:46 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:10:46 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:10:46 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:10:46 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:10:46 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:10:46 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:10:46 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:10:46 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:10:46 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:10:46 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:10:46 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:10:46 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:10:46 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:10:46 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:10:46 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:10:46 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:10:46 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:10:46 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:10:46 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:10:46 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:10:46 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:10:46 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:10:46 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:10:46 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:10:46 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:10:46 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:10:46 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:10:46 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:10:46 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:10:46 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:10:46 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:10:46 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:10:46 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:10:46 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:10:46 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:10:46 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:10:46 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:10:46 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:10:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1312', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:11:08 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:11:08 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:11:08 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:11:08 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:11:08 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:11:08 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:11:08 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:11:08 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:11:08 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:11:08 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:11:08 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:11:08 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:11:08 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:11:08 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:11:08 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:11:08 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:11:08 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:11:08 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:11:08 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:11:08 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:11:08 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:11:08 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:11:08 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:11:08 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:11:08 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:11:08 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:11:08 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:11:08 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:11:08 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:11:08 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:11:08 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:11:08 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:11:08 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:11:08 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:11:08 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:11:08 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:11:08 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:11:08 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:11:08 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:11:08 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:11:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1313', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:11:32 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:11:32 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:11:32 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:11:32 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:11:32 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:11:32 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:11:32 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:11:32 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:11:32 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:11:32 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:11:32 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:11:32 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:11:32 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:11:32 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:11:32 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:11:32 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:11:32 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:11:32 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:11:32 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:11:32 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:11:32 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:11:32 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:11:32 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:11:32 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:11:32 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:11:32 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:11:32 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:11:32 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:11:32 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:11:32 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:11:32 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:11:32 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:11:32 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:11:32 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:11:32 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:11:32 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:11:32 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:11:32 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:11:32 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:11:32 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:11:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1314', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:11:57 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:11:57 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:11:57 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:11:57 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:11:57 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:11:57 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:11:57 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:11:57 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:11:57 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:11:57 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:11:57 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:11:57 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:11:57 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:11:57 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:11:57 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:11:57 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:11:57 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:11:57 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:11:57 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:11:57 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:11:57 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:11:57 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:11:57 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:11:57 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:11:57 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:11:57 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:11:57 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:11:57 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:11:57 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:11:57 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:11:57 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:11:57 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:11:57 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:11:57 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:11:57 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:11:57 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:11:57 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:11:57 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:11:57 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:11:57 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:11:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1315', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:12:13 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:12:13 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:12:13 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:12:13 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:12:13 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:12:13 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:12:13 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:12:13 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:12:13 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:12:13 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:12:13 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:12:13 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:12:13 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:12:13 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:12:13 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:12:13 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:12:13 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:12:13 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:12:13 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:12:13 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:12:13 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:12:13 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:12:13 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:12:13 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:12:13 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:12:13 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:12:13 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:12:13 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:12:13 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:12:13 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:12:13 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:12:13 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:12:13 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:12:13 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:12:13 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:12:13 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:12:13 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:12:13 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:12:13 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:12:13 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:12:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1316', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:12:36 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:12:36 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:12:36 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:12:36 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:12:36 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:12:36 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:12:36 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:12:36 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:12:36 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:12:36 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:12:36 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:12:36 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:12:36 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:12:36 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:12:36 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:12:36 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:12:36 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:12:36 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:12:36 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:12:36 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:12:36 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:12:36 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:12:36 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:12:36 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:12:36 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:12:36 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:12:36 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:12:36 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:12:36 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:12:36 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:12:36 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:12:36 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:12:36 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:12:36 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:12:36 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:12:36 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:12:36 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:12:36 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:12:36 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:12:36 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:12:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1317', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:13:00 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:13:00 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:13:00 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:13:00 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:13:00 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:13:00 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:13:00 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:13:00 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:13:00 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:13:00 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:13:00 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:13:00 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:13:00 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:13:00 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:13:00 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:13:00 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:13:00 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:13:00 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:13:00 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:13:00 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:13:00 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:13:00 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:13:00 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:13:00 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:13:00 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:13:00 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:13:00 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:13:00 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:13:00 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:13:00 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:13:00 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:13:00 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:13:00 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:13:00 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:13:00 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:13:00 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:13:00 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:13:00 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:13:00 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:13:00 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:13:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1318', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:13:23 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:13:23 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:13:23 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:13:23 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:13:23 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:13:23 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:13:23 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:13:23 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:13:23 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:13:23 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:13:23 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:13:23 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:13:23 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:13:23 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:13:23 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:13:23 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:13:23 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:13:23 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:13:23 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:13:23 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:13:23 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:13:23 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:13:23 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:13:23 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:13:23 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:13:23 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:13:23 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:13:23 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:13:23 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:13:23 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:13:23 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:13:23 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:13:23 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:13:23 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:13:23 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:13:23 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:13:23 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:13:23 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:13:23 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:13:23 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:13:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1319', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:13:46 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:13:46 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:13:46 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:13:46 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:13:46 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:13:46 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:13:46 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:13:46 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:13:46 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:13:46 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:13:46 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:13:46 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:13:46 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:13:46 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:13:46 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:13:46 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:13:46 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:13:46 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:13:46 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:13:46 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:13:46 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:13:46 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:13:46 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:13:46 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:13:46 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:13:46 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:13:46 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:13:46 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:13:46 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:13:46 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:13:46 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:13:46 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:13:46 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:13:46 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:13:46 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:13:46 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:13:46 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:13:46 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:13:46 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:13:46 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:13:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1320', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:14:11 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:14:11 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:14:11 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:14:11 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:14:11 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:14:11 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:14:11 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:14:11 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:14:11 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:14:11 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:14:11 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:14:11 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:14:11 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:14:11 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:14:11 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:14:11 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:14:11 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:14:11 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:14:11 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:14:11 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:14:11 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:14:11 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:14:11 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:14:11 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:14:11 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:14:11 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:14:11 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:14:11 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:14:11 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:14:11 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:14:11 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:14:11 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:14:11 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:14:11 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:14:11 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:14:11 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:14:11 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:14:11 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:14:11 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:14:11 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:14:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1321', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:14:34 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:14:34 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:14:34 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:14:34 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:14:34 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:14:34 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:14:34 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:14:34 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:14:34 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:14:34 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:14:34 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:14:34 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:14:34 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:14:34 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:14:34 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:14:34 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:14:34 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:14:34 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:14:34 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:14:34 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:14:34 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:14:34 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:14:34 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:14:34 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:14:34 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:14:34 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:14:34 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:14:34 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:14:34 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:14:34 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:14:34 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:14:34 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:14:34 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:14:34 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:14:34 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:14:34 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:14:34 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:14:34 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:14:34 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:14:34 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:14:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1322', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:14:50 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:14:50 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:14:50 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:14:50 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:14:50 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:14:50 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:14:50 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:14:50 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:14:50 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:14:50 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:14:50 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:14:50 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:14:50 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:14:50 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:14:50 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:14:50 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:14:50 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:14:50 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:14:50 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:14:50 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:14:50 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:14:50 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:14:50 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:14:50 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:14:50 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:14:50 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:14:50 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:14:50 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:14:50 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:14:50 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:14:50 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:14:50 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:14:50 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:14:50 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:14:50 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:14:50 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:14:50 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:14:50 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:14:50 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:14:50 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:14:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1323', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:15:15 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:15:15 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:15:15 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:15:15 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:15:15 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:15:15 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:15:15 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:15:15 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:15:15 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:15:15 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:15:15 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:15:15 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:15:15 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:15:15 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:15:15 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:15:15 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:15:15 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:15:15 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:15:15 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:15:15 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:15:15 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:15:15 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:15:15 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:15:15 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:15:15 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:15:15 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:15:15 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:15:15 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:15:15 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:15:15 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:15:15 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:15:15 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:15:15 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:15:15 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:15:15 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:15:15 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:15:15 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:15:15 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:15:15 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:15:15 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:15:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1324', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:15:38 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:15:38 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:15:38 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:15:38 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:15:38 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:15:38 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:15:38 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:15:38 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:15:38 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:15:38 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:15:38 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:15:38 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:15:38 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:15:38 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:15:38 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:15:38 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:15:38 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:15:38 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:15:38 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:15:38 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:15:38 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:15:38 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:15:38 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:15:38 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:15:38 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:15:38 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:15:38 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:15:38 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:15:38 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:15:38 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:15:38 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:15:38 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:15:38 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:15:38 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:15:38 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:15:38 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:15:38 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:15:38 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:15:38 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:15:38 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:15:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1325', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:16:01 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:16:01 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:16:01 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:16:01 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:16:01 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:16:01 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:16:01 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:16:01 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:16:01 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:16:01 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:16:01 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:16:01 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:16:01 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:16:01 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:16:01 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:16:01 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:16:01 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:16:01 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:16:01 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:16:01 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:16:01 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:16:01 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:16:01 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:16:01 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:16:01 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:16:01 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:16:01 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:16:01 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:16:01 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:16:01 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:16:01 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:16:01 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:16:01 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:16:01 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:16:01 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:16:01 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:16:01 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:16:01 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:16:01 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:16:01 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:16:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1326', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:16:24 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:16:24 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:16:24 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:16:24 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:16:24 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:16:24 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:16:24 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:16:24 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:16:24 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:16:24 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:16:24 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:16:24 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:16:24 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:16:24 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:16:24 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:16:24 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:16:24 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:16:24 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:16:24 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:16:24 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:16:24 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:16:24 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:16:24 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:16:24 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:16:24 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:16:24 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:16:24 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:16:24 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:16:24 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:16:24 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:16:24 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:16:24 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:16:24 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:16:24 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:16:24 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:16:24 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:16:24 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:16:24 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:16:24 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:16:24 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:16:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1327', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:16:43 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:16:43 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:16:43 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:16:43 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:16:43 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:16:43 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:16:43 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:16:43 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:16:43 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:16:43 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:16:43 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:16:43 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:16:43 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:16:43 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:16:43 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:16:43 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:16:43 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:16:43 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:16:43 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:16:43 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:16:43 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:16:43 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:16:43 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:16:43 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:16:43 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:16:43 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:16:43 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:16:43 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:16:43 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:16:43 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:16:43 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:16:43 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:16:43 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:16:43 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:16:43 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:16:43 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:16:43 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:16:43 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:16:43 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:16:43 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:16:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1328', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:17:09 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:17:09 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:17:09 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:17:09 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:17:09 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:17:09 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:17:09 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:17:09 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:17:09 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:17:09 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:17:09 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:17:09 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:17:09 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:17:09 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:17:09 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:17:09 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:17:09 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:17:09 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:17:09 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:17:09 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:17:09 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:17:09 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:17:09 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:17:09 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:17:09 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:17:09 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:17:09 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:17:09 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:17:09 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:17:09 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:17:09 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:17:09 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:17:09 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:17:09 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:17:09 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:17:09 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:17:09 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:17:09 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:17:09 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:17:09 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:17:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1329', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:17:28 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:17:28 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:17:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:17:28 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:17:28 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:17:28 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:17:28 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:17:28 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:17:28 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:17:28 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:17:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:17:28 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:17:28 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:17:28 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:17:28 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:17:28 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:17:28 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:17:28 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:17:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:17:28 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:17:28 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:17:28 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:17:28 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:17:28 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:17:28 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:17:28 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:17:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:17:28 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:17:28 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:17:28 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:17:28 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:17:28 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:17:28 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:17:28 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:17:28 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:17:28 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:17:28 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:17:28 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:17:28 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:17:28 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:17:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1330', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:17:52 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:17:52 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:17:52 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:17:52 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:17:52 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:17:52 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:17:52 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:17:52 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:17:52 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:17:52 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:17:52 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:17:52 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:17:52 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:17:52 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:17:52 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:17:52 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:17:52 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:17:52 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:17:52 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:17:52 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:17:52 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:17:52 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:17:52 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:17:52 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:17:52 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:17:52 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:17:52 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:17:52 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:17:52 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:17:52 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:17:52 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:17:52 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:17:52 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:17:52 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:17:52 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:17:52 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:17:52 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:17:52 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:17:52 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:17:52 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:17:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1331', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:18:19 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:18:19 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:18:19 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:18:19 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:18:19 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:18:19 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:18:19 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:18:19 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:18:19 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:18:19 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:18:19 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:18:19 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:18:19 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:18:19 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:18:19 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:18:19 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:18:19 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:18:19 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:18:19 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:18:19 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:18:19 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:18:19 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:18:19 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:18:19 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:18:19 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:18:19 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:18:19 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:18:19 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:18:19 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:18:19 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:18:19 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:18:19 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:18:19 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:18:19 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:18:19 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:18:19 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:18:19 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:18:19 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:18:19 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:18:19 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:18:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1332', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:18:45 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:18:45 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:18:45 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:18:45 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:18:45 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:18:45 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:18:45 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:18:45 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:18:45 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:18:45 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:18:45 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:18:45 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:18:45 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:18:45 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:18:45 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:18:45 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:18:45 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:18:45 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:18:45 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:18:45 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:18:45 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:18:45 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:18:45 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:18:45 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:18:45 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:18:45 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:18:45 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:18:45 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:18:45 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:18:45 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:18:45 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:18:45 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:18:45 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:18:45 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:18:45 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:18:45 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:18:45 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:18:45 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:126
+[13-Oct-2019 07:18:45 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:59
+[13-Oct-2019 07:18:45 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:18:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(59): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(126): writeScores(Array, '1333', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:45:49 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:45:49 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:45:49 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:45:49 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:45:49 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:45:49 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:136
+[13-Oct-2019 07:45:49 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:62
+[13-Oct-2019 07:45:49 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:45:49 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:45:49 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:45:49 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:45:49 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:45:49 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:45:49 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:136
+[13-Oct-2019 07:45:49 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:62
+[13-Oct-2019 07:45:49 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:45:49 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:45:49 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:45:49 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:45:49 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:45:49 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:45:49 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:136
+[13-Oct-2019 07:45:49 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:62
+[13-Oct-2019 07:45:49 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:45:49 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:45:49 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:45:49 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:45:49 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:45:49 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:45:49 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:136
+[13-Oct-2019 07:45:49 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:62
+[13-Oct-2019 07:45:49 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:45:49 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:45:49 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:45:49 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:45:49 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:45:49 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:45:49 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:136
+[13-Oct-2019 07:45:49 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:62
+[13-Oct-2019 07:45:49 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:45:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(62): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(136): writeScores(Array, '1334', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:50:22 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:50:22 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:50:22 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:50:22 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:50:22 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:50:22 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:137
+[13-Oct-2019 07:50:22 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:64
+[13-Oct-2019 07:50:22 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:50:22 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:50:22 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:50:22 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:50:22 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:50:22 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:50:22 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:137
+[13-Oct-2019 07:50:22 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:64
+[13-Oct-2019 07:50:22 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:50:22 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:50:22 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:50:22 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:50:22 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:50:22 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:50:22 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:137
+[13-Oct-2019 07:50:22 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:64
+[13-Oct-2019 07:50:22 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:50:22 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:50:22 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:50:22 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:50:22 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:50:22 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:50:22 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:137
+[13-Oct-2019 07:50:22 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:64
+[13-Oct-2019 07:50:22 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:50:22 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:50:22 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:50:22 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:50:22 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:50:22 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:50:22 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:137
+[13-Oct-2019 07:50:22 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:64
+[13-Oct-2019 07:50:22 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:50:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '1335', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 07:54:32 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 61
+[13-Oct-2019 07:54:32 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:54:32 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:54:32 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:54:32 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:54:32 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:137
+[13-Oct-2019 07:54:32 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:64
+[13-Oct-2019 07:54:32 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:61
+[13-Oct-2019 07:54:32 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 62
+[13-Oct-2019 07:54:32 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:54:32 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:54:32 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:54:32 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:54:32 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:137
+[13-Oct-2019 07:54:32 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:64
+[13-Oct-2019 07:54:32 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:62
+[13-Oct-2019 07:54:32 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 63
+[13-Oct-2019 07:54:32 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:54:32 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:54:32 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:54:32 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:54:32 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:137
+[13-Oct-2019 07:54:32 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:64
+[13-Oct-2019 07:54:32 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:63
+[13-Oct-2019 07:54:32 America/Chicago] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 64
+[13-Oct-2019 07:54:32 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:54:32 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:54:32 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:54:32 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:54:32 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:137
+[13-Oct-2019 07:54:32 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:64
+[13-Oct-2019 07:54:32 America/Chicago] PHP   6. preg_match() C:\xampp\htdocs\jetroRDportal\class\Process.php:64
+[13-Oct-2019 07:54:32 America/Chicago] PHP Warning:  PDO::prepare() expects parameter 1 to be string, array given in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 68
+[13-Oct-2019 07:54:32 America/Chicago] PHP Stack trace:
+[13-Oct-2019 07:54:32 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 07:54:32 America/Chicago] PHP   2. audits() C:\xampp\htdocs\jetroRDportal\uploadFile.php:243
+[13-Oct-2019 07:54:32 America/Chicago] PHP   3. include_once() C:\xampp\htdocs\jetroRDportal\uploadFile.php:107
+[13-Oct-2019 07:54:32 America/Chicago] PHP   4. writeScores() C:\xampp\htdocs\jetroRDportal\process\audits.php:137
+[13-Oct-2019 07:54:32 America/Chicago] PHP   5. Process->query() C:\xampp\htdocs\jetroRDportal\process\audits.php:64
+[13-Oct-2019 07:54:32 America/Chicago] PHP   6. PDO->prepare() C:\xampp\htdocs\jetroRDportal\class\Process.php:68
+[13-Oct-2019 07:54:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\audits.php(64): Process->query(Array)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(137): writeScores(Array, '1336', '191013', Object(Process))
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(107): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(243): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#4 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 09:00:06 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's re on file, checks were pushed through the system', 1)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(84): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(138): writeFindings(Array, '1341', '191013', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(240): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 09:00:31 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't find items.', 0)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(84): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(138): writeFindings(Array, '1342', '191013', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(240): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 09:00:51 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's rasp vingerette, 17533, 57851, 170166-e, 21749, 10217, 2050547, 20029-nr', 1)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(84): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(138): writeFindings(Array, '1343', '191013', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(240): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 09:01:19 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's more than 8 days old without comments', 1)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(84): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(138): writeFindings(Array, '1344', '191013', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(240): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 09:02:03 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's 33483 ,33333', 0)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(84): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(138): writeFindings(Array, '1345', '191013', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(240): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 09:02:26 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'd Dec 2018 no sales NOFS. Fzn Ck Mussels 2420218 came 3/29 20 NOFS', 0)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(84): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(138): writeFindings(Array, '1346', '191013', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(240): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 09:02:57 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's no notations', 0)' at line 1 in C:\xampp\htdocs\jetroRDportal\class\Process.php:69
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\class\Process.php(69): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\jetroRDportal\process\audits.php(84): Process->query('INSERT INTO aud...')
+#2 C:\xampp\htdocs\jetroRDportal\process\audits.php(138): writeFindings(Array, '1347', '191013', Object(Process))
+#3 C:\xampp\htdocs\jetroRDportal\uploadFile.php(108): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\jetroRDportal\uploadFile.php(240): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 1, 'input/auditsCor...')
+#5 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\class\Process.php on line 69
+[13-Oct-2019 09:42:11 America/Chicago] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\Cell.php on line 79
+[13-Oct-2019 09:42:11 America/Chicago] PHP Stack trace:
+[13-Oct-2019 09:42:11 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 09:42:11 America/Chicago] PHP   2. readFileData() C:\xampp\htdocs\jetroRDportal\uploadFile.php:234
+[13-Oct-2019 09:42:11 America/Chicago] PHP   3. PhpOffice\PhpSpreadsheet\IOFactory::load() C:\xampp\htdocs\jetroRDportal\inc\readFileFunc.php:30
+[13-Oct-2019 09:42:11 America/Chicago] PHP   4. PhpOffice\PhpSpreadsheet\Reader\Xlsx->load() C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\IOFactory.php:95
+[13-Oct-2019 09:42:11 America/Chicago] PHP   5. PhpOffice\PhpSpreadsheet\Worksheet\Worksheet->getCell() C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php:760
+[13-Oct-2019 09:42:11 America/Chicago] PHP   6. PhpOffice\PhpSpreadsheet\Worksheet\Worksheet->createNewCell() C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Worksheet\Worksheet.php:1227
+[13-Oct-2019 09:42:11 America/Chicago] PHP   7. PhpOffice\PhpSpreadsheet\Collection\Cells->add() C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Worksheet\Worksheet.php:1263
+[13-Oct-2019 09:42:11 America/Chicago] PHP   8. PhpOffice\PhpSpreadsheet\Collection\Cells->storeCurrentCell() C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Collection\Cells.php:419
+[13-Oct-2019 09:42:11 America/Chicago] PHP   9. PhpOffice\PhpSpreadsheet\Cell\Cell->detach() C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Collection\Cells.php:391
+[13-Oct-2019 09:51:03 America/Chicago] PHP Warning:  ZipArchive::close(): Failure to create temporary file: No error in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Writer\Xlsx.php on line 409
+[13-Oct-2019 09:51:03 America/Chicago] PHP Stack trace:
+[13-Oct-2019 09:51:03 America/Chicago] PHP   1. {main}() C:\xampp\htdocs\jetroRDportal\uploadFile.php:0
+[13-Oct-2019 09:51:03 America/Chicago] PHP   2. jcmsTesting() C:\xampp\htdocs\jetroRDportal\uploadFile.php:249
+[13-Oct-2019 09:51:03 America/Chicago] PHP   3. include() C:\xampp\htdocs\jetroRDportal\uploadFile.php:88
+[13-Oct-2019 09:51:03 America/Chicago] PHP   4. PhpOffice\PhpSpreadsheet\Writer\Xlsx->save() C:\xampp\htdocs\jetroRDportal\process\jcmsTesting.php:127
+[13-Oct-2019 09:51:03 America/Chicago] PHP   5. ZipArchive->close() C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Writer\Xlsx.php:409
+[13-Oct-2019 09:51:03 America/Chicago] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Writer\Exception: Could not close zip file ../output/jcmsTesting/jcmsTesting 10-13-19.xlsx. in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Writer\Xlsx.php:410
+Stack trace:
+#0 C:\xampp\htdocs\jetroRDportal\process\jcmsTesting.php(127): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save('../output/jcmsT...')
+#1 C:\xampp\htdocs\jetroRDportal\uploadFile.php(88): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\jetroRDportal\uploadFile.php(249): jcmsTesting(Object(PhpOffice\PhpSpreadsheet\Spreadsheet))
+#3 {main}
+  thrown in C:\xampp\htdocs\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Writer\Xlsx.php on line 410

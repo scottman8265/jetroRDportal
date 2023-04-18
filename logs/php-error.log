@@ -1,0 +1,35 @@
+[20-Jan-2019 11:39:17 US/Central] PHP Fatal error:  Uncaught InvalidArgumentException: File "../input/2019 Cycle Count Master 011919.xlsx" does not exist. in C:\xampp\htdocs\portal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\xampp\htdocs\portal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(388): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('../input/2019 C...')
+#1 C:\xampp\htdocs\portal\inc\readFileFunc.php(19): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('../input/2019 C...')
+#2 C:\xampp\htdocs\portal\parse\cycleCounts.php(95): readFileData('../input/2019 C...', true)
+#3 C:\xampp\htdocs\portal\test\uploadedFile.php(22): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\portal\test\uploadedFile.php(34): cycleCounts(Object(PhpOffice\PhpSpreadsheet\Spreadsheet))
+#5 {main}
+  thrown in C:\xampp\htdocs\portal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[20-Jan-2019 11:42:11 US/Central] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\portal\parse\cycleCounts.php:198
+Stack trace:
+#0 C:\xampp\htdocs\portal\test\uploadedFile.php(22): include()
+#1 C:\xampp\htdocs\portal\test\uploadedFile.php(34): cycleCounts(Object(PhpOffice\PhpSpreadsheet\Spreadsheet))
+#2 {main}
+  thrown in C:\xampp\htdocs\portal\parse\cycleCounts.php on line 198
+[20-Jan-2019 21:16:56 Europe/Berlin] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in C:\xampp\htdocs\portal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Collection\Cells.php on line 372
+[20-Jan-2019 22:33:49 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '../vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\portal\inc\readFileFunc.php on line 9
+[20-Jan-2019 22:34:55 Europe/Berlin] PHP Fatal error:  require(): Failed opening required '../inc/getCCArrays.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\portal\parse\cycleCounts.php on line 5
+[21-Jan-2019 00:49:33 Europe/Berlin] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Writer\Exception: Could not close zip file output/jcmsTestToTake.xlsx. in C:\xampp\htdocs\portal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Writer\Xlsx.php:399
+Stack trace:
+#0 C:\xampp\htdocs\portal\process\jcmsTesting.php(144): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save('output/jcmsTest...')
+#1 C:\xampp\htdocs\portal\parse\jcmsTesting.php(105): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portal\uploadFile.php(43): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\portal\uploadFile.php(61): jcmsTesting(Object(PhpOffice\PhpSpreadsheet\Spreadsheet))
+#4 {main}
+  thrown in C:\xampp\htdocs\portal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Writer\Xlsx.php on line 399
+[22-Jan-2019 06:10:48 US/Central] PHP Fatal error:  Cannot declare class Process, because the name is already in use in C:\xampp\htdocs\class\Process.php on line 14
+[22-Jan-2019 06:34:09 US/Central] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-West & South-East, _Admin Test - Q1 2018, _99.960029602051, _43255.212656516, _' at line 1 in C:\xampp\htdocs\portal\class\Process.php:65
+Stack trace:
+#0 C:\xampp\htdocs\portal\class\Process.php(65): PDOStatement->execute(NULL)
+#1 C:\xampp\htdocs\portal\process\cycleCounts.php(16): Process->query('INSERT INTO cyc...')
+#2 C:\xampp\htdocs\portal\uploadFile.php(34): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\portal\uploadFile.php(92): cycleCounts(Object(PhpOffice\PhpSpreadsheet\Spreadsheet))
+#4 {main}
+  thrown in C:\xampp\htdocs\portal\class\Process.php on line 65

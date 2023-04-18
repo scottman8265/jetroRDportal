@@ -1,0 +1,18 @@
+[30-Jan-2019 11:55:54 Europe/Berlin] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: Workbook does not contain sheet:OPS AUDIT RECAP in C:\xampp\htdocs\portal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php:768
+Stack trace:
+#0 C:\xampp\htdocs\portal\uploadFile.php(100): PhpOffice\PhpSpreadsheet\Spreadsheet->setActiveSheetIndexByName('OPS AUDIT RECAP')
+#1 C:\xampp\htdocs\portal\uploadFile.php(153): audits(Object(PhpOffice\PhpSpreadsheet\Spreadsheet))
+#2 {main}
+  thrown in C:\xampp\htdocs\portal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php on line 768
+[30-Jan-2019 12:21:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getSheetNames() on string in C:\xampp\htdocs\portal\uploadFile.php:166
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\portal\uploadFile.php on line 166
+[30-Jan-2019 12:50:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use string offset as an array in C:\xampp\htdocs\portal\uploadFile.php:175
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\portal\uploadFile.php on line 175
+[30-Jan-2019 12:53:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in C:\xampp\htdocs\portal\uploadFile.php:170
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\portal\uploadFile.php on line 170

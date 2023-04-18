@@ -1,0 +1,7 @@
+[30-May-2019 08:35:22 US/Central] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Calculation\Exception: 2019 Counts!F979 -> undefined variable '.' in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\Cell.php:274
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\parse\branchCounts.php(67): PhpOffice\PhpSpreadsheet\Cell\Cell->getCalculatedValue()
+#1 C:\xampp\htdocs\portalDev\uploadFile.php(96): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\portalDev\uploadFile.php(269): branchCounts(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), '21', '430 Indy.xlsx', Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\portalDev\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\Cell.php on line 274

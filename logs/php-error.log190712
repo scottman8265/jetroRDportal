@@ -1,0 +1,30 @@
+[12-Jul-2019 05:44:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setActiveSheetIndexByName() on string in C:\xampp\htdocs\portalDev\uploadFile.php:173
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(266): self('WTF is wrong wi...', '29', '36')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 173
+[12-Jul-2019 05:53:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setActiveSheetIndexByName() on string in C:\xampp\htdocs\portalDev\uploadFile.php:173
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(266): self('WTF is wrong wi...', '28', '35')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 173
+[12-Jul-2019 06:27:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setActiveSheetIndexByName() on string in C:\xampp\htdocs\portalDev\uploadFile.php:173
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(266): self('WTF is wrong wi...', '28', '35')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 173
+[12-Jul-2019 06:36:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setActiveSheetIndexByName() on string in C:\xampp\htdocs\portalDev\uploadFile.php:173
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(266): self('WTF is wrong wi...', '28', '35')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 173
+[12-Jul-2019 07:38:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setActiveSheetIndexByName() on string in C:\xampp\htdocs\portalDev\uploadFile.php:173
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(266): self('WTF is wrong wi...', '0', '1')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 173
+[12-Jul-2019 07:40:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setActiveSheetIndexByName() on string in C:\xampp\htdocs\portalDev\uploadFile.php:173
+Stack trace:
+#0 C:\xampp\htdocs\portalDev\uploadFile.php(266): self('WTF is wrong wi...', '0', '1')
+#1 {main}
+  thrown in C:\xampp\htdocs\portalDev\uploadFile.php on line 173
