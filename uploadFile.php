@@ -161,7 +161,7 @@ function verifySelf($name)
 
     $searchSQL = "SELECT * FROM selfaudits WHERE year = ? AND month = ? AND branch = ?";
     $searchParams = [$year, $month, $branchNum];
-    $searchQRY = $lnk->query($search
+    $searchQRY = $lnk->query($search);
 
     if (!$searchQRY) {
         return false;
