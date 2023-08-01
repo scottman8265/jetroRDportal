@@ -1,2 +1,2 @@
 <? 
-phpVersion();
+echo phpVersion();
