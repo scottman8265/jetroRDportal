@@ -16,16 +16,11 @@ date_default_timezone_set('America/Chicago');
 
 use PhpOffice\PhpSpreadsheet\Reader\Exception;
 
-#require_once '../inc/readFileFunc.php';
-require_once 'inc/readFileFunc.php';
-#require_once '../class/Arrays.php';
-require_once 'class/Arrays.php';
-#require_once '../class/Process.php';
-require_once 'class/Process.php';
-#require_once '../vendor/autoload.php';
-require_once 'vendor/autoload.php';
-#require_once('../inc/getJCMSArrays.php');
-require_once('inc/getJCMSArrays.php');
+if(file_exists('../inc/readFileFunc.php')) {require_once '../inc/readFileFunc.php';} else {require_once 'inc/readFileFunc.php';}
+if(file_exists('class/Arrays.php')) {require_once '../class/Arrays.php';} else {require_once 'class/Arrays.php';}
+if(file_exists('../class/Process.php')) {require_once '../class/Process.php';} else {require_once 'class/Process.php';}
+if(file_exists('../vendor/autoload.php')) {require_once '../vendor/autoload.php';} else {require_once 'vendor/autoload.php';}
+if(file_exists('../inc/getJCMSArrays.php')) {require_once '../inc/getJCMSArrays.php';} else {require_once 'inc/getJCMSArrays.php';}
 
 /**
  * @param $spreadSheet \PhpOffice\PhpSpreadsheet\Spreadsheet
@@ -103,10 +98,8 @@ function audits($spreadSheet, $count = null, $fileName)
 
     $sheet = $spreadSheet->getSheet(0);
 
-    #include_once '../parse/audits.php';
-    include_once 'parse/audits.php';
-    #include_once '../process/audits.php';
-    include_once 'process/audits.php';
+    if(file_exists('../parse/audits.php')) {include_once '../parse/audits.php';} else {include_once 'parse/audits.php';}
+    if(file_exists('../process/audits.php')) {include_once '../process/audits.php';} else {include_once 'process/audits.php';}
 
     return $return;
 }

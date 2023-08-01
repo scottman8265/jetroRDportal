@@ -11,15 +11,7 @@ function getAuditID($array)
 
     $lnk = new Process();
 
-    foreach ($array as $field => $value) {
-        $fields[] = $field;
-        $values[] = $value;
-    }
-
-    $fList = implode(', ', $fields);
-    $vList = implode(', ', $values);
-
-    $sql = "INSERT INTO enteredaudits (" . $fList . ") VALUES (" . $vList . ")";
+    $sql = "INSERT INTO enteredaudits (field1, field2, field3, field4) VALUES (value1, value2, value3, value4)";
     $qry = $lnk->query($sql);
 
 
