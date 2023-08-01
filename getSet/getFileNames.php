@@ -27,6 +27,8 @@ switch ($fileType) {
         break;
 }
 
+console.log($dir);
+
 $files = scandir("../" . $dir);
 $dirLength = count_chars($dir);
 
