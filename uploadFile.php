@@ -17,7 +17,7 @@ date_default_timezone_set('America/Chicago');
 use PhpOffice\PhpSpreadsheet\Reader\Exception;
 
 if(file_exists('../inc/readFileFunc.php')) {require_once '../inc/readFileFunc.php';} else {require_once 'inc/readFileFunc.php';}
-#if(file_exists('class/Arrays.php')) {require_once '../class/Arrays.php';} else {require_once 'class/Arrays.php';}
+if(file_exists('class/Arrays.php')) {require_once '../class/Arrays.php';} else {require_once 'class/Arrays.php';}
 if(file_exists('../class/Process.php')) {require_once '../class/Process.php';} else {require_once 'class/Process.php';}
 if(file_exists('../vendor/autoload.php')) {require_once '../vendor/autoload.php';} else {require_once 'vendor/autoload.php';}
 if(file_exists('../inc/getJCMSArrays.php')) {require_once '../inc/getJCMSArrays.php';} else {require_once 'inc/getJCMSArrays.php';}
