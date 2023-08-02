@@ -1,7 +1,7 @@
 <?php
 
 session_start();
-console.log("inside get filenames");
+
 $fileType = $_POST['fileType'];
 $path = [];
 
