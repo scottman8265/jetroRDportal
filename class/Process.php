@@ -71,35 +71,35 @@ class Process
     {
         $this->connect();
         $results = [];
-        $type = setTypes($sql);
+        $type = $this->setTypes($sql);
 
         if ($this->error == null && $this->connected == true && $params != null) {
-            complexQuery($sql, $params, $type);
+            $this->complexQuery($sql, $params, $type);
         } else if ($this->error == null && $this->connected == true && $params == null) {
-            $results = simpleQuery($sql);
+            $results = $this->simpleQuery($sql);
         } else {
             $results = [false];
         }
 
-        if ($type = "insert") {
-            setLastID();
-        } else if ($type = "update") {
-            setAffectedRows();
-        } else if ($type = "show") {
-            setColNames($results);
+        if ($type == "insert") {
+            $this->setLastID();
+        } else if ($type == "update") {
+            $this->setAffectedRows();
+        } else if ($type == "show") {
+            $this->setColNames($results);
         }
-
 
         $this->qryCount = count($results);
 
-        unset($lnk);
+        $this->setResults();
+
+        $this->lnk->close();
 
         return $results;
     }
 
     private function simpleQuery($sql): void
     {
-        $results = [];
         $data = [];
 
         $query = $this->lnk->prepare($sql);
@@ -112,11 +112,14 @@ class Process
 
     private function complexQuery($sql, $params, $type): void
     {
-        $results = [];
         $data = [];
 
         $query = $this->lnk->prepare($sql);
-        $query->bind_param(str_repeat('s', count($params)), $params);
+        $params_ref = array();
+
+        foreach ($params as $key => $value) $params_ref[$key] = &$params[$key];
+        call_user_func_array(array($query, 'bind_param'), array_merge(array(str_repeat('s', count($params))), $params_ref));
+
         $query->execute();
         $data = $query->get_result();
         $results = $data->fetch_all(MYSQLI_ASSOC);
@@ -124,7 +127,7 @@ class Process
         $this->pvtResults = $results;
     }
 
-    private function setResults($results): void
+    private function setResults(): void
     {
         $this->results = $this->pvtResults;
     }
