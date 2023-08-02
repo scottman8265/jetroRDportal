@@ -42,7 +42,7 @@ class Process
     }
 
     private function connect() {
-        $dsn = 'mysql:host=' . $this->host . 'port=3306;dbname=' . $this->db;
+        $dsn = 'mysql:host=' . $this->host . 'dbname=' . $this->db;
         $options = [
             PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
         ];

@@ -108,7 +108,12 @@ $marker = $time->format('ymd');
 $lnk = new Process();
 
 echo $lnk->getError();
-echo $lnk->getConnectionStatus();
+$connectionStatus  = $lnk->getConnectionStatus();
+if($connectionWStatus = true) {
+    echo "Connection is good";
+} else {
+    echo "Connection is bad";
+}
 
 $auditDates = "'" . substr($auditDates, 5) . "'";
 
