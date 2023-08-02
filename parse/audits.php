@@ -162,76 +162,33 @@ function getFindings($sheet, $version) {
  * @param $version     int
  * @return array
  */
-function getScores($sheet, $version) {
+function getScores($sheet) {
+
+    $searchStartRow = 550;
+    $baseStartRow = 0;
+
+    for ($h = $searchStartRow; $h < 1000; $h++) {
+        $cell = "H" . $h;
+        $cellVal = $sheet->getCell($cell)->getValue();
+        if ($cellVal == "TOTAL SCORE") {
+            $baseStartRow = $h + 1;
+            break;
+        }
+    }
 
     $array = array();
-    switch ($version) {
-        case 1:
-            $r_totScoreLoc = "L594";
-            $b_totScoreLoc = "H594";
-            $r_freshScoreLoc = "L598";
-            $b_freshScoreLoc = "H598";
-            $deptScoreStart = 602;
-            $deptScoreEnd = 618;
-            $foodSafety = 649;
-            $totArray = ['AF560', 'AL560', 'AR560', 'AX560'];
-            $repCol = "L";
-            $baseCol = "H";
-            $scores = true;
-            break;
-        case 2:
-            $r_totScoreLoc = "L541";
-            $b_totScoreLoc = "H541";
-            $r_freshScoreLoc = "L545";
-            $b_freshScoreLoc = "H545";
-            $deptScoreStart = 549;
-            $deptScoreEnd = 565;
-            $foodSafety = 566;
-            $totArray = ['AF566', 'AL566', 'AR566', 'AX566'];
-            $repCol = "P";
-            $baseCol = "M";
-            $scores = true;
-            break;
-        case 3:
-            $r_totScoreLoc = "L550";
-            $b_totScoreLoc = "H550";
-            $r_freshScoreLoc = "L554";
-            $b_freshScoreLoc = "H554";
-            $deptScoreStart = 558;
-            $deptScoreEnd = 574;
-            $foodSafety = 575;
-            $totArray = ['AF575', 'AL575', 'AR575', 'AX575'];
-            $repCol = "P";
-            $baseCol = "M";
-            $scores = true;
-            break;
-        case 4:
-            $r_totScoreLoc = "L551";
-            $b_totScoreLoc = "H551";
-            $r_freshScoreLoc = "L555";
-            $b_freshScoreLoc = "H555";
-            $deptScoreStart = 559;
-            $deptScoreEnd = 575;
-            $foodSafety = 576;
-            $totArray = ['AF576', 'AL576', 'AR576', 'AX576'];
-            $repCol = "P";
-            $baseCol = "M";
-            $scores = true;
-            break;
-        default:
-            $r_totScoreLoc = "L604";
-            $b_totScoreLoc = "H604";
-            $r_freshScoreLoc = "L608";
-            $b_freshScoreLoc = "H608";
-            $deptScoreStart = 612;
-            $deptScoreEnd = 628;
-            $foodSafety = 629;
-            $totArray = ['Z629', 'AH629', 'AP629', 'AX629'];
+
+            $r_totScoreLoc = "L". $baseStartRow;
+            $b_totScoreLoc = "H" . $baseStartRow;
+            $r_freshScoreLoc = "L" . $baseStartRow +4; #4
+            $b_freshScoreLoc = "H" . $baseStartRow +4; #4
+            $deptScoreStart = $baseStartRow + 8;#8
+            $deptScoreEnd = $baseStartRow + 14;#14
+            $foodSafety = $baseStartRow + 15;#15
+            $totArray = ['Z' . $baseStartRow + 15, 'AH' . $baseStartRow + 15, 'AP' . $baseStartRow + 15, 'AX' . $baseStartRow + 15];#15
             $repCol = "N";
             $baseCol = "L";
             $scores = true;
-            break;
-    }
 
     if ($scores) {
         $r_fsCell = $repCol . $foodSafety;
@@ -331,22 +288,20 @@ $findings = 'findings not got';
 $people = 'people not got';
 $scores = 'scores not got';
 
-$version = getVersion($sheet);
+#$version = getVersion($sheet);
 
-$auditDates = getAuditDates($version, $sheet);
+#$auditDates = getAuditDates($version, $sheet);
 
-$findings = getFindings($sheet, $version);
+#$findings = getFindings($sheet, $version);
 
 #$people = getPeople($sheet, $version);
-$people = null;
+#$people = null;
 
-$scores = getScores($sheet, $version);
+$scores = getScores($sheet);
 
 $testReturn = ['version' => $version,
                'auditDates' => $auditDates,
                'findings' => $findings,
                'people' => $people,
                'scores' => $scores];
-
-echo "hi";
 
