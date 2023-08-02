@@ -161,7 +161,6 @@ function verifySelf($name)
     }
     return true;
 }
-console.log('inside upload.php');
 $file = isset($_POST['files']) ? $_POST['files'] : null;
 $fileType = isset($_POST['fileType']) ? $_POST['fileType'] : null;
 $wkNum = isset($_POST['wkNum']) ? $_POST['wkNum'] : null;
