@@ -51,6 +51,7 @@ class Process
         }
         catch (PDOException $e) {
             $this->error = $e->getMessage();
+            echo $this->error;
         }
 
         return $this->lnk;
