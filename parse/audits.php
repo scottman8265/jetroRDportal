@@ -180,12 +180,12 @@ function getScores($sheet) {
 
             $r_totScoreLoc = "L". $baseStartRow;
             $b_totScoreLoc = "H" . $baseStartRow;
-            $r_freshScoreLoc = "L" . $baseStartRow +4; #4
-            $b_freshScoreLoc = "H" . $baseStartRow +4; #4
+            $r_freshScoreLoc = "L" . ($baseStartRow +4); #4
+            $b_freshScoreLoc = "H" . ($baseStartRow +4); #4
             $deptScoreStart = $baseStartRow + 8;#8
             $deptScoreEnd = $baseStartRow + 14;#14
             $foodSafety = $baseStartRow + 15;#15
-            $totArray = ['Z' . $baseStartRow + 15, 'AH' . $baseStartRow + 15, 'AP' . $baseStartRow + 15, 'AX' . $baseStartRow + 15];#15
+            $totArray = ['Z' . ($baseStartRow + 15), 'AH' . ($baseStartRow + 15), 'AP' . ($baseStartRow + 15), 'AX' . ($baseStartRow + 15)];#15
             $repCol = "N";
             $baseCol = "L";
             $scores = true;
