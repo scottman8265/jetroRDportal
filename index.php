@@ -77,7 +77,9 @@ $mainJS       = "js/main.js";
         <div id="testDiv"></div>
     </div>
 
-    <div id="middleData" class="middleData"></div>
+    <div id="middleData" class="middleData">
+        <div id="infoFromDB" class="infoFromDB"></div>
+    </div>
 
 
     <div id='data-container' style="display: none"><h1>This is just a test</h1></div>
