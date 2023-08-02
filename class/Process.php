@@ -90,12 +90,21 @@ class Process
                 $query = $this->lnk->query($sql);
             }
             
-
-            $this->qryCount = $query->rowCount();
-
-            $query ? (!$select && !$show ? $results = true : $results = $query->fetchAll(MYSQLI_ASSOC)) : $results = false;
-        } else {
-            $results = $this->error;
+            if (($select || $show) && !empty($query)) {
+                $results = $query->fetch_all(MYSQLI_ASSOC);
+                $this->qryCount = count($query);
+            } elseif ($insert) {
+                $this->lastID = $this->lnk->insert_id;
+                $results = $this->lastID;
+            } elseif ($update) {
+                $results = $this->lnk->affected_rows;
+            } elseif ($show) {
+                $results = $query->fetch_all(MYSQLI_ASSOC);
+                $this->qryCount = $query->num_rows;
+            } else {
+                $results = $query->fetch_all(MYSQLI_ASSOC);
+                $this->qryCount = $query->num_rows;
+            }
         }
 
 
