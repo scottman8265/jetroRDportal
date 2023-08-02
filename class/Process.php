@@ -136,7 +136,7 @@ class Process
         return $this->error;
     }
 
-    public function getConnection()
+    public function getConnectionStatus()
      {
         return $this->connected;
     }
