@@ -5,8 +5,8 @@ require_once '../class/Process.php';
 
 $process = new Process();
 
-$process->connect();
+$lnk = $process->connect();
 
-$result = $process->query('SELECT * FROM branchinfo');
+$result = $lnk->query('SELECT * FROM branchinfo');
 
 json_encode($result);
