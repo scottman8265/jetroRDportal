@@ -41,11 +41,6 @@ class Process
     }
 
     private function connect() {
-            echo "connecting<br><br>";
-            echo $this->host . "<br>";
-            echo $this->user . "<br>";
-            echo $this->pass . "<br>";
-            echo $this->db . "<br>";
         $dsn = 'mysql:host=' . $this->host . 'port=3306;dbname=' . $this->db;
         $options = [
             PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
@@ -55,7 +50,6 @@ class Process
         }
         catch (PDOException $e) {
             $this->error = $e->getMessage();
-            echo $this->error;
         }
 
         return $this->lnk;
@@ -72,7 +66,6 @@ class Process
         $show = preg_match('/SHOW/', $sql) ? true : false;
 
         if ($this->error == null) {
-            echo "connected";
             $query = $this->lnk->prepare($sql);
             $query->execute($params);
 
