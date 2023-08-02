@@ -107,7 +107,7 @@ $marker = $time->format('ymd');
 
 $lnk = new Process();
 
-echo $lnk->getLastError();
+echo $lnk->getError();
 echo $lnk->getConnectionStatus();
 
 $auditDates = "'" . substr($auditDates, 5) . "'";
