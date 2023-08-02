@@ -4,8 +4,7 @@
     define('DB_SERVER', 'scriptjetPrime.works');
     define('DB_USER', 'root');
     define('DB_PASS', 'spwr00!M@n');
-    define('DB_NAME', 'jrdSTuff');
-    define('DB_2', 'jrdStuff');
+    define('DB_NAME', 'jrdStuff');
 
     /*Email Settings*/
     define('EMAIL_TO', 'scriptjet@scri.ptjet.com');
