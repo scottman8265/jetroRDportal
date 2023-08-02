@@ -127,7 +127,7 @@ $lnk = new Process();
 echo $lnk->getError();
 $connectionStatus  = $lnk->getConnectionStatus();
 if ($connectionWStatus = true) {
-    echo "Connection is good";
+    echo "Connection is good<br>";
 } else {
     echo "Connection is bad";
 }

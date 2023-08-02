@@ -43,7 +43,7 @@ class Process
     }
 
     private function connect() {
-        $dsn = 'mysql:host=' . $this->host . 'dbname=' . $this->db . 'port=' . $this->port . 'charset=utf8';
+      /*  $dsn = 'mysql:host=' . $this->host . ' dbname=' . $this->db . ' port=' . $this->port . ' charset=utf8';
         $options = [
             PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
         ];
@@ -54,6 +54,14 @@ class Process
         catch (PDOException $e) {
             $this->error = $e->getMessage();
             $this->connected = false;
+        }*/
+
+        $this->lnk = new mysqli($this->host, $this->user, $this->pass, $this->db, $this->port);
+        if($this->lnk->connect_errno) {
+            $this->error = $this->lnk->connect_error;
+            $this->connected = false;
+        } else {
+            $this->connected = true;
         }
 
         return $this->lnk;
