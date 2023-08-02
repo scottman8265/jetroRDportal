@@ -17,10 +17,9 @@ function getAuditID($array)
 
 
     if (!$qry) {
-        echo "nothing to enter";
+        $errors[] = $lnk->getLastError();
         return false;
            } else {
-        echo $sql;
         return $lnk->getLastID();
             }
 }
