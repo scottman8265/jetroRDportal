@@ -121,6 +121,11 @@ class Process
         $query = $this->lnk->prepare($sql);
         $params_ref = array();
 
+        if(!$query) {
+            $this->error = $this->lnk->error;
+            return;
+        }
+
         foreach ($params as $key => $value) $params_ref[$key] = &$params[$key];
         call_user_func_array(array($query, 'bind_param'), array_merge(array(str_repeat('s', count($params))), $params_ref));
 
