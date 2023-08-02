@@ -32,9 +32,12 @@ class Process
     private $port  = DB_PORT;
     public  $lastID = null;
     public  $qryCount = 0;
+    public $affectedRows = 0;
     public $colCount = 0;
-    public $colNames = null;
+    public $colNames = [];
     public $connected = false;
+    public $results = [];
+    private $pvtResults = [];
 
     public function __construct()
     {
@@ -71,74 +74,134 @@ class Process
 
     public function query($sql, $params = null)
     {
-
         $this->connect();
+        $results = [];
+        $type = setType($sql);
 
-        $select = preg_match('/SELECT/', $sql) ? true : false;
-        $insert = preg_match('/INSERT/', $sql) ? true : false;
-        $update = preg_match('/UPDATE/', $sql) ? true : false;
-        $show = preg_match('/SHOW/', $sql) ? true : false;
-
-        if ($this->error == null) {
-            
-
-            if ($params != null) {
-                $query = $this->lnk->prepare($sql);
-                $query->bindParam(str_repeat('s', count($params)), $params);
-                $query->execute();
-            } else {
-                $query = $this->lnk->query($sql);
-            }
-            
-            if (($select || $show) && !empty($query)) {
-                $results = $query->fetch_all(MYSQLI_ASSOC);
-                $this->qryCount = count($query);
-            } elseif ($insert) {
-                $this->lastID = $this->lnk->insert_id;
-                $results = $this->lastID;
-            } elseif ($update) {
-                $results = $this->lnk->affected_rows;
-            } elseif ($show) {
-                $results = $query->fetch_all(MYSQLI_ASSOC);
-                $this->qryCount = $query->num_rows;
-            } else {
-                $results = $query->fetch_all(MYSQLI_ASSOC);
-                $this->qryCount = $query->num_rows;
-            }
+        if ($this->error == null && $this->connected == true && $params != null) {
+            complexQuery($sql, $params, $type);
+        } else if ($this->error == null && $this->connected == true && $params == null) {
+            $results = simpleQuery($sql);
+        } else {
+            $results = [false];
         }
 
+        if ($type = "insert") {
+            setLastID();
+        } else if ($type = "update") {
+            setAffectedRows();
+        } else if ($type = "show") {
+            setColNames($results);
+        }
+
+
+        $this->qryCount = count($results);
 
         unset($lnk);
 
         return $results;
     }
 
-    public function colNames($sql)
+    private function simpleQuery($sql): void
     {
-
-        $this->connect();
+        $results = [];
+        $data = [];
 
         $query = $this->lnk->prepare($sql);
         $query->execute();
+        $data = $query->get_result();
+        $results = $data->fetch_all(MYSQLI_ASSOC);
 
-        $this->colNames = $query->fetchAll(PDO::FETCH_ASSOC);
-
-        $this->colCount = $query->rowCount();
-
-        return $this->colNames;
+        $this->pvtResults = $results;
     }
 
-    public function getLastID()
+    private function complexQuery($sql, $params, $type): void
     {
+        $results = [];
+        $data = [];
 
-        if (!isset($this->lastID)) {
-            return false;
-        } else {
-            return $this->lastID;
+        $query = $this->lnk->prepare($sql);
+        $query->bind_param(str_repeat('s', count($params)), $params);
+        $query->execute();
+        $data = $query->get_result();
+        $results = $data->fetch_all(MYSQLI_ASSOC);
+
+        $this->pvtResults = $results;
+    }
+
+    private function setResults($results): void
+    {
+        $this->results = $this->pvtResults;
+    }
+
+    public function getResults(): array
+    {
+        return $this->results;
+    }
+
+    private function setType($sql): void
+    {
+        $type = null;
+        switch (true) {
+            case preg_match('/SELECT/', $sql):
+                $type = 'select';
+                break;
+            case preg_match('/INSERT/', $sql):
+                $type = 'insert';
+                break;
+            case preg_match('/UPDATE/', $sql):
+                $type = 'update';
+                break;
+            case preg_match('/SHOW/', $sql):
+                $type = 'show';
+                break;
+        }
+        $this->type = $type;
+    }
+
+    public function getType(): string
+    {
+        return $this->type;
+    }
+
+    private function setLastID(): void
+    {
+        $this->lastID = $this->lnk->insert_id;
+    }
+
+    public function getLastID(): int
+    {
+        return $this->lastID;
+    }
+
+    private function setAffectedRows(): void
+    {
+        $this->affectedRows = $this->lnk->affected_rows;
+    }
+
+    public function getAffectedRows(): int
+    {
+        return $this->affectedRows;
+    }
+
+    private function setColNames($results): void
+    {
+        foreach ($results as $key => $value) {
+            $this->colNames[] = $key;
         }
     }
 
-    public function getQryCount()
+    public function getColNames(): array
+    {
+        return $this->colNames;
+    }
+
+    private function setQueryCount($results): void
+    {
+        $this->qryCount = count($results);
+    }
+
+    public function getQryCount(): int
     {
 
         if (!isset($this->qryCount)) {
@@ -148,22 +211,17 @@ class Process
         }
     }
 
-    public function getColNames()
-    {
-        return $this->colNames;
-    }
-
-    public function getColCount()
+    public function getColCount(): int
     {
         return $this->colCount;
     }
 
-    public function getError()
+    public function getError(): string
     {
         return $this->error;
     }
 
-    public function getConnectionStatus()
+    public function getConnectionStatus(): bool
     {
         return $this->connected;
     }
