@@ -82,7 +82,7 @@ class Process
         if ($this->error == null) {
             $query = $this->lnk->prepare($sql);
 
-            if ($params == null) {
+            if ($params != null) {
                 $query->bindParam(str_repeat('s', count($params)), $params);
             }
             $query->execute();
