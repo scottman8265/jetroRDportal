@@ -77,11 +77,13 @@ $mainJS       = "js/main.js";
         <div id="testDiv"></div>
     </div>
 
+    <div id="middleData" class="middleData"></div>
+
 
     <div id='data-container' style="display: none"><h1>This is just a test</h1></div>
 
 
-    <div class="button-div">
+    <div class="button-div footer">
         <button class="fillSelfHeaders ui-corner-all ui-button testBtn" onclick="getFiles('../input/auditsSelf', 'auditSelf')">Fill Self Headers</button>
         <button class="fillCorpHeaders ui-corner-all ui-button testBtn" onclick="getFiles('../input/auditsCorp', 'auditCorp')">Fill Corp Headers</button>
         <button class="procAODfiles ui-corner-all ui-button testBtn" onclick="getFiles('../input/aodFiles', 'aod')">AOD Files</button>

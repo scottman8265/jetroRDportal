@@ -148,3 +148,10 @@ body {
 label {
     width:100%;
 }
+
+middleData {
+    width: 90%;
+    height: 60%;
+    border-radius: 15px;
+    border: solid 1px black;
+}
