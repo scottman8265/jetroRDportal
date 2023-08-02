@@ -906,7 +906,8 @@ function iterateTests(test, pointer, file) {
 }
 
 function testConnection() {
+    console.log('Testing connection');
     $.post('misc/testConnection.php', function (e) {
         console.log(e);
-    })
+    });
 }

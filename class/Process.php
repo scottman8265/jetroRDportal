@@ -29,6 +29,7 @@ class Process
     private $user  = DB_USER;
     private $pass  = DB_PASS;
     private $db    = DB_NAME;
+    private $port  = DB_PORT;
     public  $lastID = null;
     public  $qryCount = 0;
     public $colCount = 0;
@@ -42,7 +43,7 @@ class Process
     }
 
     private function connect() {
-        $dsn = 'mysql:host=' . $this->host . 'dbname=' . $this->db;
+        $dsn = 'mysql:host=' . $this->host . 'dbname=' . $this->db . 'port=' . $this->port . 'charset=utf8';
         $options = [
             PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
         ];

@@ -5,6 +5,7 @@
     define('DB_USER', 'root');
     define('DB_PASS', 'spwr00!M@n');
     define('DB_NAME', 'jrdStuff');
+    define('DB_PORT', '3306');
 
     /*Email Settings*/
     define('EMAIL_TO', 'scriptjet@scri.ptjet.com');
