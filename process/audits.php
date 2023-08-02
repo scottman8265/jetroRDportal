@@ -102,8 +102,6 @@ function writePeople($people, $auditID = 0, $marker, $lnk)
     $lnk->query($sql);
 }
 
-echo "inside process file *** ";
-
 $time = new DateTime();
 $marker = $time->format('ymd');
 
@@ -116,16 +114,10 @@ $year = substr($filePieces[0], 17);
 $quar = "'" . $filePieces[1] . "'";
 $branch = $filePieces[3];
 
-$idArray = ['year' => $year, 'period' => $quar, 'branch' => $branch, 'version' => $version, 'auditDate' => $auditDates];
+$idArray = ['year' => $year, 'period' => $quar, 'branch' => $branch, 'auditDates' => $auditDates];
 
-$auditID = getAuditID($idArray);
-
-if (!$auditID) {
-      echo 'failure';
-} else {
-     echo $auditID . "\n";
-}
+$auditID = $year.$quar.$branch;
 
 writeScores($scores, $auditID, $marker, $lnk);
-writeFindings($findings, $auditID, $marker, $lnk);
+#writeFindings($findings, $auditID, $marker, $lnk);
 #writePeople($people, $auditID, $marker, $lnk);
