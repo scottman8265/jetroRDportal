@@ -1,10 +1,10 @@
 <?php
 
     /*Set Server Connect*/
-    define('DB_SERVER', 'scriptjetprime.works');
+    define('DB_SERVER', 'scriptjetPrime.works');
     define('DB_USER', 'root');
-    define('DB_PASS', 'scottM@n8265');
-    define('DB_NAME', 'spwr00!M@n');
+    define('DB_PASS', 'spwr00!M@n');
+    define('DB_NAME', 'jrdSTuff');
     define('DB_2', 'jrdStuff');
 
     /*Email Settings*/
