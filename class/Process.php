@@ -25,6 +25,7 @@ class Process
     private $db    = DB_NAME;
     private $port  = DB_PORT;
     public  $lastID = null;
+    public $type = null;
     public  $qryCount = 0;
     public $affectedRows = 0;
     public $colCount = 0;
@@ -70,7 +71,7 @@ class Process
     {
         $this->connect();
         $results = [];
-        $type = setType($sql);
+        $type = setTypes($sql);
 
         if ($this->error == null && $this->connected == true && $params != null) {
             complexQuery($sql, $params, $type);
@@ -133,7 +134,7 @@ class Process
         return $this->results;
     }
 
-    private function setType($sql): void
+    private function setTypes($sql): void
     {
         $type = null;
         switch (true) {
@@ -153,7 +154,7 @@ class Process
         $this->type = $type;
     }
 
-    public function getType(): string
+    public function getTypes(): string
     {
         return $this->type;
     }
