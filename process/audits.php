@@ -51,7 +51,7 @@ function writeScores($scores, $auditID = 0, $marker, $lnk)
     $repSQL = "INSERT INTO auditscores (" . $fieldsStr . ") VALUES (" . $repScoreStr . ")";
     $sql[] = "INSERT INTO auditscores (" . $fieldsStr . ") VALUES (" . $baseScoreStr . "); \n";
     $baseSQL = "INSERT INTO auditscores (" . $fieldsStr . ") VALUES (" . $baseScoreStr . ")";
-    file_put_contents('output/auditSQL/insertSQLs_' . $marker . '.sql', $sql, FILE_APPEND);
+    #file_put_contents('output/auditSQL/insertSQLs_' . $marker . '.sql', $sql, FILE_APPEND);
 
     $lnk->query($repSQL);
     $lnk->query($baseSQL);

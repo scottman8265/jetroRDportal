@@ -77,9 +77,9 @@ class Process
             $results = $this->error;
         }
 
-        if ($insert || $update) {
-            $this->lastID = $this->lnk->lastInsertId();
-        }
+        #if ($insert || $update) {
+        #    $this->lastID = $this->lnk->lastInsertId();
+        #}
 
         unset($lnk);
 
