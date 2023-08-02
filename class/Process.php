@@ -68,7 +68,7 @@ class Process
         $show = preg_match('/SHOW/', $sql) ? true : false;
 
         if ($this->error == null) {
-
+            echo "connected";
             $query = $this->lnk->prepare($sql);
             $query->execute($params);
 
