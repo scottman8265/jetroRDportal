@@ -2,8 +2,8 @@
 
     /*Set Server Connect*/
     define('DB_SERVER', 'scriptjetPrime.works');
-    define('DB_USER', 'root');
-    define('DB_PASS', 'spwr00!M@n');
+    define('DB_USER', 'webAppUser');
+    define('DB_PASS', 'jrd1976');
     define('DB_NAME', 'jrdStuff');
     define('DB_PORT', '3306');
 
