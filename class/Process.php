@@ -29,10 +29,11 @@ class Process
     private $user  = DB_USER;
     private $pass  = DB_PASS;
     private $db    = DB_NAME;
-    public  $lastID;
-    public  $qryCount;
-    public $colCount;
-    public $colNames;
+    public  $lastID = null;
+    public  $qryCount = 0;
+    public $colCount = 0;
+    public $colNames = null;
+    public $connected = false;
 
     public function __construct() {
         ini_set('mysql.connect_timeout', '300');
@@ -47,9 +48,11 @@ class Process
         ];
         try {
             $this->lnk = new PDO($dsn, $this->user, $this->pass, $options);
+            $this->connected = true;
         }
         catch (PDOException $e) {
             $this->error = $e->getMessage();
+            $this->connected = false;
         }
 
         return $this->lnk;
@@ -77,9 +80,9 @@ class Process
             $results = $this->error;
         }
 
-        #if ($insert || $update) {
-        #    $this->lastID = $this->lnk->lastInsertId();
-        #}
+        if ($insert || $update) {
+                        $this->lastID = $this->lnk->lastInsertId();
+        }
 
         unset($lnk);
 
@@ -129,6 +132,14 @@ class Process
         return $this->colCount;
     }
 
+    public function getError() {
+        return $this->error;
+    }
+
+    public function getConnection()
+     {
+        return $this->connected;
+    }
 
 
 }

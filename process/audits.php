@@ -52,12 +52,9 @@ function writeScores($scores, $auditID, $marker, $lnk)
     $baseSQL = "INSERT INTO auditscores (" . $fieldsStr . ") VALUES (" . $baseScoreStr . ")";
     #file_put_contents('output/auditSQL/insertSQLs_' . $marker . '.sql', $sql, FILE_APPEND);
 
-    if($lnk->query($repSQL) &&
-    $lnk->query($baseSQL)) {
-        echo $auditID . " Scores written successfully";
-    } else {
-        echo "Error: " . $lnk->getLastError();
-    };
+    $repWrite = $lnk->query($repSQL) ;
+    $baseWrite = $lnk->query($baseSQL);
+   
 
 }
 
@@ -109,6 +106,9 @@ $time = new DateTime();
 $marker = $time->format('ymd');
 
 $lnk = new Process();
+
+echo $lnk->getLastError();
+echo $lnk->getConnectionStatus();
 
 $auditDates = "'" . substr($auditDates, 5) . "'";
 
