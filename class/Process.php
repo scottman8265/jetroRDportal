@@ -80,12 +80,16 @@ class Process
         $show = preg_match('/SHOW/', $sql) ? true : false;
 
         if ($this->error == null) {
-            $query = $this->lnk->prepare($sql);
+            
 
             if ($params != null) {
+                $query = $this->lnk->prepare($sql);
                 $query->bindParam(str_repeat('s', count($params)), $params);
+                $query->execute();
+            } else {
+                $query = $this->lnk->query($sql);
             }
-            $query->execute();
+            
 
             $this->qryCount = $query->rowCount();
 
