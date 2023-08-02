@@ -1,7 +1,7 @@
 <?php
 
     /*Set Server Connect*/
-    define('DB_SERVER', 'localhost');
+    define('DB_SERVER', '142.202.188.218');
     define('DB_USER', 'root');
     define('DB_PASS', 'spwr00!M@n');
     define('DB_NAME', 'jrdStuff');
