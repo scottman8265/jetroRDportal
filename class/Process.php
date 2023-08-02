@@ -74,7 +74,7 @@ class Process
         $type = $this->setTypes($sql);
 
         if ($this->error == null && $this->connected == true && $params != null) {
-            $this->complexQuery($sql, $params, $type);
+            $this->complexQuery($sql, $params);
         } else if ($this->error == null && $this->connected == true && $params == null) {
             $this->results = $this->simpleQuery($sql);
         } else {
@@ -103,6 +103,7 @@ class Process
         $data = [];
 
         $query = $this->lnk->prepare($sql);
+        var_dump($query);
         $query->execute();
         $data = $query->get_result();
         $results = $data->fetch_all(MYSQLI_ASSOC);
@@ -110,7 +111,7 @@ class Process
         $this->pvtResults = $results;
     }
 
-    private function complexQuery($sql, $params, $type): void
+    private function complexQuery($sql, $params): void
     {
         $data = [];
 
