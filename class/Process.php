@@ -41,7 +41,11 @@ class Process
     }
 
     private function connect() {
-
+            echo "connecting<br><br>";
+            echo $this->host . "<br>";
+            echo $this->user . "<br>";
+            echo $this->pass . "<br>";
+            echo $this->db . "<br>";
         $dsn = 'mysql:host=' . $this->host . ';dbname=' . $this->db;
         $options = [
             PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
@@ -80,9 +84,9 @@ class Process
             $results = $this->error;
         }
 
-       # if ($insert || $update) {
-       #     $this->lastID = $this->lnk->lastInsertId();
-       # }
+        if ($insert || $update) {
+            $this->lastID = $this->lnk->lastInsertId();
+        }
 
         unset($lnk);
 
