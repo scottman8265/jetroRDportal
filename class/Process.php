@@ -46,7 +46,7 @@ class Process
             echo $this->user . "<br>";
             echo $this->pass . "<br>";
             echo $this->db . "<br>";
-        $dsn = 'mysql:host=' . $this->host . ';dbname=' . $this->db;
+        $dsn = 'mysql:host=' . $this->host . 'port=3306;dbname=' . $this->db;
         $options = [
             PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
         ];
