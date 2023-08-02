@@ -17,13 +17,7 @@ if (file_exists('inc/config.php')) {
 class Process
 {
 
-    /**
-     * @var PDO
-     */
     private $lnk = null;
-    /**
-     * @var PDOException
-     */
     public  $error = null;
     private $host  = DB_SERVER;
     private $user  = DB_USER;
