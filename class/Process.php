@@ -225,6 +225,11 @@ class Process
 
     public function getError(): string
     {
+        If($this->error != null){
+            return $this->error;
+        } else {
+            return false;
+        }
         return $this->error;
     }
 
