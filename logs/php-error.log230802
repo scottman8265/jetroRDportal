@@ -1,0 +1,6 @@
+[02-Aug-2023 04:08:20 America/Chicago] PHP Fatal error:  Uncaught InvalidArgumentException: File "" does not exist. in C:\Users\scrip\source\repos\JRD Portal App\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\Users\scrip\source\repos\JRD Portal App\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\IOFactory.php(126): PhpOffice\PhpSpreadsheet\Shared\File::assertFile(NULL)
+#1 C:\Users\scrip\source\repos\JRD Portal App\jetroRDportal\uploadFile.php(205): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile(NULL)
+#2 {main}
+  thrown in C:\Users\scrip\source\repos\JRD Portal App\jetroRDportal\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
