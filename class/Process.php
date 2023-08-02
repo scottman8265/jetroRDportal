@@ -7,7 +7,7 @@
  * Time: 10:47 PM
  */
 
-if(file_exists('inc/config.php')) {
+if (file_exists('inc/config.php')) {
     require_once('inc/config.php');
 } else {
     require_once('../inc/config.php');
@@ -36,14 +36,16 @@ class Process
     public $colNames = null;
     public $connected = false;
 
-    public function __construct() {
+    public function __construct()
+    {
         ini_set('mysql.connect_timeout', '300');
         ini_set('default_socket_timeout', '300');
         ini_set('max_allowed_packet', '256M');
     }
 
-    private function connect() {
-      /*  $dsn = 'mysql:host=' . $this->host . ' dbname=' . $this->db . ' port=' . $this->port . ' charset=utf8';
+    private function connect()
+    {
+        /*  $dsn = 'mysql:host=' . $this->host . ' dbname=' . $this->db . ' port=' . $this->port . ' charset=utf8';
         $options = [
             PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
         ];
@@ -57,7 +59,7 @@ class Process
         }*/
 
         $this->lnk = new mysqli($this->host, $this->user, $this->pass, $this->db, $this->port);
-        if($this->lnk->connect_errno) {
+        if ($this->lnk->connect_errno) {
             $this->error = $this->lnk->connect_error;
             $this->connected = false;
         } else {
@@ -65,10 +67,10 @@ class Process
         }
 
         return $this->lnk;
-
     }
 
-    public function query($sql, $params = null) {
+    public function query($sql, $params = null)
+    {
 
         $this->connect();
 
@@ -79,12 +81,15 @@ class Process
 
         if ($this->error == null) {
             $query = $this->lnk->prepare($sql);
-            $query->execute($params);
+
+            if ($params == null) {
+                $query->bindParam(str_repeat('s', count($params)), $params);
+            }
+            $query->execute();
 
             $this->qryCount = $query->rowCount();
 
-            $query ? (!$select && !$show ? $results = true : $results = $query->fetchAll(PDO::FETCH_ASSOC))
-                : $results = null;
+            $query ? (!$select && !$show ? $results = true : $results = $query->fetchAll(MYSQLI_ASSOC)) : $results = false;
         } else {
             $results = $this->error;
         }
@@ -95,7 +100,8 @@ class Process
         return $results;
     }
 
-    public function colNames($sql) {
+    public function colNames($sql)
+    {
 
         $this->connect();
 
@@ -107,21 +113,20 @@ class Process
         $this->colCount = $query->rowCount();
 
         return $this->colNames;
-
-
     }
 
-    public function getLastID() {
+    public function getLastID()
+    {
 
         if (!isset($this->lastID)) {
             return false;
         } else {
             return $this->lastID;
         }
-
     }
 
-    public function getQryCount() {
+    public function getQryCount()
+    {
 
         if (!isset($this->qryCount)) {
             return false;
@@ -130,22 +135,23 @@ class Process
         }
     }
 
-    public function getColNames() {
+    public function getColNames()
+    {
         return $this->colNames;
     }
 
-    public function getColCount() {
+    public function getColCount()
+    {
         return $this->colCount;
     }
 
-    public function getError() {
+    public function getError()
+    {
         return $this->error;
     }
 
     public function getConnectionStatus()
-     {
+    {
         return $this->connected;
     }
-
-
 }
