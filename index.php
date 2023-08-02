@@ -87,6 +87,7 @@ $mainJS       = "js/main.js";
         <button class="procAODfiles ui-corner-all ui-button testBtn" onclick="getFiles('../input/aodFiles', 'aod')">AOD Files</button>
         <button class="procJCMSfile ui-corner-all ui-button testBtn" onclick="getFiles('../input/jcms', 'jcms')">JCMS Files</button>
         <button class="procInvfile ui-corner-all ui-button testBtn" onclick="getFiles('../input/inventories', 'inv')">Inv Files</button>
+        <button class="testConnection ui-corner-all ui-button testBtn" onclick="testConnection()">Inv Files</button>
     </div>
 
 </div>

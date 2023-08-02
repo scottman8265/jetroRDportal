@@ -904,3 +904,9 @@ function iterateTests(test, pointer, file) {
         processJCMSfile(file, 2, pointer, 'jcms');
     })
 }
+
+function testConnection() {
+    $.post('misc/testConnection.php', function (e) {
+        console.log(e);
+    })
+}
