@@ -103,7 +103,10 @@ class Process
         $data = [];
 
         $query = $this->lnk->prepare($sql);
-        var_dump($query);
+        if(!$query) {
+            $this->error = $this->lnk->error;
+            return;
+        }
         $query->execute();
         $data = $query->get_result();
         $results = $data->fetch_all(MYSQLI_ASSOC);
