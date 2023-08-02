@@ -34,7 +34,7 @@ function writeScores($scores, $auditID, $marker, $lnk)
 {
 
 
-    $errors = null;
+    $errors = [];
     $sql = [];
 
     $scores['rep'][] = $scores['base'][] = $auditID;
@@ -54,6 +54,20 @@ function writeScores($scores, $auditID, $marker, $lnk)
 
     $repWrite = $lnk->query($repSQL) ;
     $baseWrite = $lnk->query($baseSQL);
+
+    if (!$repWrite) {
+        $errors[] = $lnk->getError();
+    }
+
+    if(!$baseWrite) {
+        $errors[] = $lnk->getError();
+    }
+
+    if(!empty($errors)) {
+        return $errors;
+    } else{
+        return true;
+    }
    
 
 }
@@ -126,6 +140,12 @@ $idArray = ['year' => $year, 'period' => $quar, 'branch' => $branch, 'auditDates
 
 $auditID = $year.$quar.$branch;
 
-writeScores($scores, $auditID, $marker, $lnk);
+$writtenScores = writeScores($scores, $auditID, $marker, $lnk);
+
+if($writtenScores = true) {
+    echo "Scores written";
+} else {
+    echo "Scores not written";
+};
 #writeFindings($findings, $auditID, $marker, $lnk);
 #writePeople($people, $auditID, $marker, $lnk);
