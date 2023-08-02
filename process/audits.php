@@ -52,8 +52,12 @@ function writeScores($scores, $auditID, $marker, $lnk)
     $baseSQL = "INSERT INTO auditscores (" . $fieldsStr . ") VALUES (" . $baseScoreStr . ")";
     #file_put_contents('output/auditSQL/insertSQLs_' . $marker . '.sql', $sql, FILE_APPEND);
 
-    $lnk->query($repSQL);
-    $lnk->query($baseSQL);
+    if($lnk->query($repSQL) &&
+    $lnk->query($baseSQL)) {
+        echo $auditID . " Scores written successfully";
+    } else {
+        echo "Error: " . $lnk->getLastError();
+    };
 
 }
 
