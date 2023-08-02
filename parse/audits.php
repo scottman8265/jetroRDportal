@@ -176,8 +176,6 @@ function getScores($sheet) {
         }
     }
 
-    echo $baseStartRow;
-
     $array = array();
 
             $r_totScoreLoc = "L". $baseStartRow;

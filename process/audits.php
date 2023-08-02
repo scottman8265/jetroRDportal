@@ -30,10 +30,9 @@ function getAuditID($array)
  * @param $marker
  * @param $lnk  Process
  */
-function writeScores($scores, $auditID = 0, $marker, $lnk)
+function writeScores($scores, $auditID, $marker, $lnk)
 {
 
-    echo " inside write Scores *** ";
 
     $errors = null;
     $sql = [];
