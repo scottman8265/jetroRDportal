@@ -90,7 +90,7 @@ function jcmsTesting($spreadSheet)
 /**
  * @param $spreadSheet \PhpOffice\PhpSpreadsheet\Spreadsheet
  */
-function audits($spreadSheet, $count = null, $fileName)
+function audits($spreadSheet, $fileName)
 {
 
     $testReturn = [];
@@ -213,7 +213,7 @@ switch ($fileType) {
     switch ($fileType) {
         case 'self':
         case 'audits':
-            $response = $fileType($spreadSheet, $count, $file);
+            $response = $fileType($spreadSheet, $file);
             break;
         case 'branchCounts':
             $response = $fileType($spreadSheet, $wkNum, $file);
