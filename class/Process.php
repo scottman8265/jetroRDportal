@@ -78,7 +78,7 @@ class Process
         } else if ($this->error == null && $this->connected == true && $params == null) {
             $results = $this->simpleQuery($sql);
         } else {
-            $results = [false];
+            $results = [$this->error = 'error'];
         }
 
         if ($type == "insert") {
