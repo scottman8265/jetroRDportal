@@ -225,7 +225,7 @@ switch ($fileType) {
             $response = $fileType($spreadSheet);
             break;
     }
-    $count++;
+
 #}
 
 if ($fileType === 'audits' || $fileType === 'self') {
