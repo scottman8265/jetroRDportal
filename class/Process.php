@@ -205,8 +205,13 @@ class Process
 
     private function setQryCount($results): void
     {
-        $this->qryCount = count($results);
-    }
+        if(is_array($results)) {
+            $this->qryCount = count($results);
+        } else {
+            $this->qryCount = 0;
+        }
+     }
+    
 
     public function getQryCount(): int
     {
@@ -237,4 +242,4 @@ class Process
     {
         return $this->connected;
     }
-}
+
