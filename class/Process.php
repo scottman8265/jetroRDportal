@@ -67,18 +67,18 @@ class Process
         return $this->lnk;
     }
 
-    public function query($sql, $params = null)
+    public function query($sql, $params = null): void
     {
         $this->connect();
-        $results = [];
+        
         $type = $this->setTypes($sql);
 
         if ($this->error == null && $this->connected == true && $params != null) {
             $this->complexQuery($sql, $params, $type);
         } else if ($this->error == null && $this->connected == true && $params == null) {
-            $results = $this->simpleQuery($sql);
+            $this->results = $this->simpleQuery($sql);
         } else {
-            $results = [$this->error = 'error'];
+            $this->results = [$this->error = 'error'];
         }
 
         if ($type == "insert") {
@@ -86,16 +86,16 @@ class Process
         } else if ($type == "update") {
             $this->setAffectedRows();
         } else if ($type == "show") {
-            $this->setColNames($results);
+            $this->setColNames($this->results);
         }
 
-        $this->qryCount = count($results);
+        $this->setQryCount($this->results);
 
         $this->setResults();
 
         $this->lnk->close();
 
-        return $results;
+        return;
     }
 
     private function simpleQuery($sql): void
@@ -184,7 +184,7 @@ class Process
 
     private function setColNames($results): void
     {
-        foreach ($results as $key => $value) {
+        foreach ($this->results as $key => $value) {
             $this->colNames[] = $key;
         }
     }
@@ -194,7 +194,7 @@ class Process
         return $this->colNames;
     }
 
-    private function setQueryCount($results): void
+    private function setQryCount($results): void
     {
         $this->qryCount = count($results);
     }
