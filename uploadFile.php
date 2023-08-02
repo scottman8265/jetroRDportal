@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Created by PhpStorm.
  * User: Robert Brandt
@@ -16,11 +17,31 @@ date_default_timezone_set('America/Chicago');
 
 use PhpOffice\PhpSpreadsheet\Reader\Exception;
 
-if(file_exists('../inc/readFileFunc.php')) {require_once '../inc/readFileFunc.php';} else {require_once 'inc/readFileFunc.php';}
-if(file_exists('../class/Arrays.php')) {require_once '../class/Arrays.php';} else {require_once 'class/Arrays.php';}
-if(file_exists('../class/Process.php')) {require_once '../class/Process.php';} else {require_once 'class/Process.php';}
-if(file_exists('../vendor/autoload.php')) {require_once '../vendor/autoload.php';} else {require_once 'vendor/autoload.php';}
-if(file_exists('../inc/getJCMSArrays.php')) {require_once '../inc/getJCMSArrays.php';} else {require_once 'inc/getJCMSArrays.php';}
+if (file_exists('../inc/readFileFunc.php')) {
+    require_once '../inc/readFileFunc.php';
+} else {
+    require_once 'inc/readFileFunc.php';
+}
+if (file_exists('../class/Arrays.php')) {
+    require_once '../class/Arrays.php';
+} else {
+    require_once 'class/Arrays.php';
+}
+if (file_exists('../class/Process.php')) {
+    require_once '../class/Process.php';
+} else {
+    require_once 'class/Process.php';
+}
+if (file_exists('../vendor/autoload.php')) {
+    require_once '../vendor/autoload.php';
+} else {
+    require_once 'vendor/autoload.php';
+}
+if (file_exists('../inc/getJCMSArrays.php')) {
+    require_once '../inc/getJCMSArrays.php';
+} else {
+    require_once 'inc/getJCMSArrays.php';
+}
 
 /**
  * @param $spreadSheet \PhpOffice\PhpSpreadsheet\Spreadsheet
@@ -98,8 +119,16 @@ function audits($spreadSheet, $fileName)
 
     $sheet = $spreadSheet->getSheet(0);
 
-    if(file_exists('../parse/audits.php')) {include_once '../parse/audits.php';} else {include_once 'parse/audits.php';}
-    if(file_exists('../process/audits.php')) {include_once '../process/audits.php';} else {include_once 'process/audits.php';}
+    if (file_exists('../parse/audits.php')) {
+        include_once '../parse/audits.php';
+    } else {
+        include_once 'parse/audits.php';
+    }
+    if (file_exists('../process/audits.php')) {
+        include_once '../process/audits.php';
+    } else {
+        include_once 'process/audits.php';
+    }
 
     return $return;
 }
@@ -154,7 +183,7 @@ function verifySelf($name)
 
     $searchSQL = "SELECT * FROM selfaudits WHERE year = ? AND month = ? AND branch = ?";
     $searchParams = [$year, $month, $branchNum];
-    $searchQRY = $lnk->query($search);
+    $searchQRY = $lnk->query($searchSQL, $searchParams);
 
     if (!$searchQRY) {
         return false;
@@ -200,31 +229,31 @@ switch ($fileType) {
 //!verified means audit has not been processes or this is a different fileType to be processed
 #if (!$verified) {
 
-    #$spreadSheet = readFileData($file, $count);
-    try {
-        $reader      = \PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile($file);
-        $reader->setReadDataOnly(TRUE);
-        $spreadSheet = $reader->load($file);
-    } catch (Exception $e) {
-        echo $e->getMessage();
-    }
-    $response = [];
+#$spreadSheet = readFileData($file, $count);
+try {
+    $reader      = \PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile($file);
+    $reader->setReadDataOnly(TRUE);
+    $spreadSheet = $reader->load($file);
+} catch (Exception $e) {
+    echo $e->getMessage();
+}
+$response = [];
 
-    switch ($fileType) {
-        case 'self':
-        case 'audits':
-            $response = $fileType($spreadSheet, $file);
-            break;
-        case 'branchCounts':
-            $response = $fileType($spreadSheet, $wkNum, $file);
-            break;
-        case 'cycleCounts':
-            $response = $fileType($spreadSheet, $wkNum);
-            break;
-        case 'jcmsTesting':
-            $response = $fileType($spreadSheet);
-            break;
-    }
+switch ($fileType) {
+    case 'self':
+    case 'audits':
+        $response = $fileType($spreadSheet, $file);
+        break;
+    case 'branchCounts':
+        $response = $fileType($spreadSheet, $wkNum, $file);
+        break;
+    case 'cycleCounts':
+        $response = $fileType($spreadSheet, $wkNum);
+        break;
+    case 'jcmsTesting':
+        $response = $fileType($spreadSheet);
+        break;
+}
 
 #}
 
@@ -238,5 +267,3 @@ if ($fileType === 'audits' || $fileType === 'self') {
 }
 
 echo json_encode($response);
-
-

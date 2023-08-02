@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Created by PhpStorm.
  * User: Robert Brandt
@@ -17,11 +18,11 @@ function getAuditID($array)
 
 
     if (!$qry) {
-        $errors[] = $lnk->getLastError();
+        $errors[] = $lnk->getError();
         return false;
-           } else {
+    } else {
         return $lnk->getLastID();
-            }
+    }
 }
 
 /**
@@ -38,9 +39,11 @@ function writeScores($scores, $auditID, $marker, $lnk)
     $sql = [];
 
     $scores['rep'][] = $scores['base'][] = $auditID;
-    $fields = ['totScore', 'freshScore', 'adScore', 'crScore', 'daScore', 'flScore', 'feScore', 'goScore',
+    $fields = [
+        'totScore', 'freshScore', 'adScore', 'crScore', 'daScore', 'flScore', 'feScore', 'goScore',
         'icScore', 'meScore', 'pcScore', 'prScore', 'rvScore', 'rpScore', 'saScore', 'seScore', 'swScore',
-        'lqScore', 'fsScore', 'deptFreshScore', 'deptFSafeScore', 'deptOpsScore', 'deptSafeScore', 'rep', 'auditID'];
+        'lqScore', 'fsScore', 'deptFreshScore', 'deptFSafeScore', 'deptOpsScore', 'deptSafeScore', 'rep', 'auditID'
+    ];
 
     $repScoreStr = implode(', ', $scores['rep']);
     $baseScoreStr = implode(', ', $scores['base']);
@@ -52,24 +55,22 @@ function writeScores($scores, $auditID, $marker, $lnk)
     $baseSQL = "INSERT INTO auditscores (" . $fieldsStr . ") VALUES (" . $baseScoreStr . ")";
     #file_put_contents('output/auditSQL/insertSQLs_' . $marker . '.sql', $sql, FILE_APPEND);
 
-    $repWrite = $lnk->query($repSQL) ;
+    $repWrite = $lnk->query($repSQL);
     $baseWrite = $lnk->query($baseSQL);
 
     if (!$repWrite) {
         $errors[] = $lnk->getError();
     }
 
-    if(!$baseWrite) {
+    if (!$baseWrite) {
         $errors[] = $lnk->getError();
     }
 
-    if(!empty($errors)) {
+    if (!empty($errors)) {
         return $errors;
-    } else{
+    } else {
         return true;
     }
-   
-
 }
 
 /**
@@ -105,8 +106,10 @@ function writePeople($people, $auditID = 0, $marker, $lnk)
 
     $people[] = $auditID;
 
-    $fields = ['auditor', 'bm', 'abm1', 'abm2', 'ad', 'cr', 'da', 'fl', 'fe', 'go', 'ic', 'me', 'pc', 'pr', 'rv', 'rp', 'sa', 'se', 'sw',
-        'lq', 'auditID'];
+    $fields = [
+        'auditor', 'bm', 'abm1', 'abm2', 'ad', 'cr', 'da', 'fl', 'fe', 'go', 'ic', 'me', 'pc', 'pr', 'rv', 'rp', 'sa', 'se', 'sw',
+        'lq', 'auditID'
+    ];
 
     $fieldStr = implode(', ', $fields);
     $peopleStr = implode(', ', $people);
@@ -123,7 +126,7 @@ $lnk = new Process();
 
 echo $lnk->getError();
 $connectionStatus  = $lnk->getConnectionStatus();
-if($connectionWStatus = true) {
+if ($connectionWStatus = true) {
     echo "Connection is good";
 } else {
     echo "Connection is bad";
@@ -138,11 +141,11 @@ $branch = $filePieces[3];
 
 $idArray = ['year' => $year, 'period' => $quar, 'branch' => $branch, 'auditDates' => $auditDates];
 
-$auditID = $year.$quar.$branch;
+$auditID = $year . $quar . $branch;
 
 $writtenScores = writeScores($scores, $auditID, $marker, $lnk);
 
-if($writtenScores = true) {
+if ($writtenScores = true) {
     echo "Scores written";
 } else {
     echo "Scores not written";
