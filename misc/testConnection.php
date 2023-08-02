@@ -1,5 +1,7 @@
 <?php
 
+require_once('../class/Process.php');
+
 // Instantiate a new Process object
 $process = new Process();
 
