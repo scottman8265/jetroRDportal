@@ -6,7 +6,7 @@ require_once('../class/Process.php');
 $process = new Process();
 
 // Query the database
-$result = $process->query('SELECT * FROM branchInfo');
+$result = $process->query('SELECT * FROM enteredAudits');
 
 // Dump the results
 var_dump($result);
