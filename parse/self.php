@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Created by PhpStorm.
  * User: Robert Brandt
@@ -10,7 +11,8 @@
  * @param $sheet \PhpOffice\PhpSpreadsheet\Worksheet\Worksheet
  * @return int
  */
-function getVersion($sheet) {
+function getVersion($sheet)
+{
 
     $range = $sheet->rangeToArray("H530:H550");
 
@@ -39,7 +41,8 @@ function getVersion($sheet) {
  * @param $sheet \PhpOffice\PhpSpreadsheet\Worksheet\Worksheet
  * @return int
  */
-function getAuditDates($version, $sheet) {
+function getAuditDates($version, $sheet)
+{
 
     switch ($version) {
         case 2:
@@ -64,7 +67,8 @@ function getAuditDates($version, $sheet) {
     return $auditDate;
 }
 
-function getQuesArray() {
+function getQuesArray()
+{
     $lnk = new Process();
 
     $sql = "SELECT auditCode, auditName FROM auditanalysis.auditlookup";
@@ -81,7 +85,8 @@ function getQuesArray() {
  * @param $sheet \PhpOffice\PhpSpreadsheet\Worksheet\Worksheet
  * @return array
  */
-function getFindings($sheet, $version) {
+function getFindings($sheet, $version)
+{
 
     $audits = getQuesArray();
     $findings = array();
@@ -140,7 +145,8 @@ function getFindings($sheet, $version) {
  * @param $version     int
  * @return array
  */
-function getScores($sheet, $version) {
+function getScores($sheet, $version)
+{
 
     $b_array = array();
     switch ($version) {
@@ -226,8 +232,7 @@ function getScores($sheet, $version) {
                 #$r_array[] = $sheet->getCell($tot)->getOldCalculatedValue();
                 $b_array[] = $sheet->getCell($tot)->getOldCalculatedValue();
             }
-        }
-        catch (\PhpOffice\PhpSpreadsheet\Exception $e) {
+        } catch (\PhpOffice\PhpSpreadsheet\Exception $e) {
         }
     }
 
@@ -245,7 +250,8 @@ $findings = getFindings($sheet, $version);
 
 $scores = getScores($sheet, $version);
 
-$testReturn = ['version' => $version,
-               'findings' => $findings,
-               'scores' => $scores];
-
+$testReturn = [
+    'version' => $version,
+    'findings' => $findings,
+    'scores' => $scores
+];

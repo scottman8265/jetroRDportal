@@ -8,7 +8,8 @@ require('inc/getCCArrays.php');
 
 date_default_timezone_set("US/Central");
 
-function getBranchNum($name, $branchArray) {
+function getBranchNum($name, $branchArray)
+{
 
     $namePiece = explode(" ", $name);
     $branch = $namePiece[0];
@@ -26,7 +27,8 @@ function getBranchNum($name, $branchArray) {
  * @param $spreadSheet \PhpOffice\PhpSpreadsheet\Spreadsheet
  * @param $branchArray array
  */
-function getCCbranches($spreadSheet, $branchArray, $row) {
+function getCCbranches($spreadSheet, $branchArray, $row)
+{
 
     $sheet = $spreadSheet->getActiveSheet();
     $col = 6;
@@ -67,7 +69,6 @@ $bcr = $rowEnd + 4;
 for ($i = $row; $i < $rowEnd; $i++) {
 
     $entry[] = $sheet->getCellByColumnAndRow(6, $i)->getCalculatedValue();
-
 }
 
 #echo $branchNums ."</br>";
@@ -79,8 +80,3 @@ $_SESSION['rowStart'] = $rowStart + 1323;
 #$_SESSION['rowStart'] = $rowStart + 51;
 $_SESSION['rowEnd'] = $rowEnd + 49;
 $_SESSION['bcp'] = $bcp;
-
-
-
-
-

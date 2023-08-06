@@ -10,7 +10,8 @@
  * @param $sheet \PhpOffice\PhpSpreadsheet\Worksheet\Worksheet
  * @return int
  */
-function getVersion($sheet) {
+function getVersion($sheet)
+{
 
     $range = $sheet->rangeToArray("H530:H550");
 
@@ -39,7 +40,8 @@ function getVersion($sheet) {
  * @param $sheet \PhpOffice\PhpSpreadsheet\Worksheet\Worksheet
  * @return int
  */
-function getAuditDates($version, $sheet) {
+function getAuditDates($version, $sheet)
+{
 
     switch ($version) {
         case 2:
@@ -64,8 +66,9 @@ function getAuditDates($version, $sheet) {
     return $auditDate;
 }
 
-function getQuesArray() {
-    $lnk = new Process();
+function getQuesArray()
+{
+    $lnk   = new Process();
     $array = [];
 
     $sql = "SELECT auditCode, auditName FROM jrd_stuff.auditlookup";
@@ -84,33 +87,13 @@ function getQuesArray() {
  * @param $sheet \PhpOffice\PhpSpreadsheet\Worksheet\Worksheet
  * @return array
  */
-function getFindings($sheet, $version) {
+function getFindings($sheet, $version)
+{
 
-    $audits = getQuesArray();
+    $audits   = getQuesArray();
     $findings = array();
 
-    switch ($version) {
-        case 2:
-            $rowMax = 539;
-            $findingStart = 567;
-            break;
-        case 1:
-            $rowMax = 533;
-            $findingStart = 558;
-            break;
-        case 3:
-            $rowMax = 538;
-            $findingStart = 576;
-            break;
-        case 4:
-            $rowMax = 540;
-            $findingStart = 577;
-            break;
-        default:
-            $rowMax = 597;
-            $findingStart = 630;
-            break;
-    }
+
 
     #getFindings
     if ($rowMax != null) {
@@ -118,10 +101,13 @@ function getFindings($sheet, $version) {
 
             $qNum = $sheet->getCellByColumnAndRow(6, $i)->getValue();
             if ($qNum != null) {
-                $qAudit = $sheet->getCellByColumnAndRow(9, $i)->getValue();;
-                $qComm = $sheet->getCellByColumnAndRow(11, $i)->getOldCalculatedValue();;
-                $response = $sheet->getCellByColumnAndRow(3, $i)->getOldCalculatedValue();;
-                $code = $audits[$qAudit] . (string)$qNum . "." . $version;
+                $qAudit = $sheet->getCellByColumnAndRow(9, $i)->getValue();
+                ;
+                $qComm = $sheet->getCellByColumnAndRow(11, $i)->getOldCalculatedValue();
+                ;
+                $response = $sheet->getCellByColumnAndRow(3, $i)->getOldCalculatedValue();
+                ;
+                $code = $audits[$qAudit] . (string) $qNum . "." . $version;
 
                 if ($response) {
                     $findings[$code]['comm'] = $qComm;
@@ -136,7 +122,7 @@ function getFindings($sheet, $version) {
     }
 
     #find repeats
-    $count = 0;
+    $count    = 0;
     $testCode = 'FFFFFFFF';
 
     foreach ($findings as $code => $value) {
@@ -162,33 +148,24 @@ function getFindings($sheet, $version) {
  * @param $version     int
  * @return array
  */
-function getScores($sheet) {
+function getScores($sheet)
+{
 
-    $searchStartRow = 550;
-    $baseStartRow = 0;
-
-    for ($h = $searchStartRow; $h < 1000; $h++) {
-        $cell = "H" . $h;
-        $cellVal = $sheet->getCell($cell)->getValue();
-        if ($cellVal == "TOTAL SCORE") {
-            $baseStartRow = $h + 1;
-            break;
-        }
-    }
+$baseStartRow = $this->totalScoreCell + 1;
 
     $array = array();
 
-            $r_totScoreLoc = "L". $baseStartRow;
-            $b_totScoreLoc = "H" . $baseStartRow;
-            $r_freshScoreLoc = "L" . ($baseStartRow +4); #4
-            $b_freshScoreLoc = "H" . ($baseStartRow +4); #4
-            $deptScoreStart = $baseStartRow + 8;#8
-            $deptScoreEnd = $baseStartRow + 14;#14
-            $foodSafety = $baseStartRow + 15;#15
-            $totArray = ['Z' . ($baseStartRow + 15), 'AH' . ($baseStartRow + 15), 'AP' . ($baseStartRow + 15), 'AX' . ($baseStartRow + 15)];#15
-            $repCol = "N";
-            $baseCol = "L";
-            $scores = true;
+    $r_totScoreLoc   = "L" . $baseStartRow;
+    $b_totScoreLoc   = "H" . $baseStartRow;
+    $r_freshScoreLoc = "L" . ($baseStartRow + 4); #4
+    $b_freshScoreLoc = "H" . ($baseStartRow + 4); #4
+    $deptScoreStart  = $baseStartRow + 8; #8
+    $deptScoreEnd    = $baseStartRow + 14; #14
+    $foodSafety      = $baseStartRow + 15; #15
+    $totArray        = ['Z' . ($baseStartRow + 15), 'AH' . ($baseStartRow + 15), 'AP' . ($baseStartRow + 15), 'AX' . ($baseStartRow + 15)]; #15
+    $repCol          = "N";
+    $baseCol         = "L";
+    $scores          = true;
 
     if ($scores) {
         $r_fsCell = $repCol . $foodSafety;
@@ -200,12 +177,12 @@ function getScores($sheet) {
             $b_array[] = $sheet->getCell($b_freshScoreLoc)->getOldCalculatedValue();
 
             for ($i = $deptScoreStart; $i < $deptScoreEnd; $i++) {
-                $r_cell = $repCol . $i;
-                $b_cell = $baseCol . $i;
-                $b_score = $sheet->getCell($b_cell)->getOldCalculatedValue();
-                $r_score = $sheet->getCell($r_cell)->getOldCalculatedValue();
+                $r_cell    = $repCol . $i;
+                $b_cell    = $baseCol . $i;
+                $b_score   = $sheet->getCell($b_cell)->getOldCalculatedValue();
+                $r_score   = $sheet->getCell($r_cell)->getOldCalculatedValue();
                 $baseScore = $b_score === 'N/A' ? -1 : $b_score;
-                $repScore = $r_score === 'N/A' ? -1 : $r_score;
+                $repScore  = $r_score === 'N/A' ? -1 : $r_score;
                 $r_array[] = $repScore;
                 $b_array[] = $baseScore;
             }
@@ -217,8 +194,7 @@ function getScores($sheet) {
                 $r_array[] = $sheet->getCell($tot)->getOldCalculatedValue();
                 $b_array[] = $sheet->getCell($tot)->getOldCalculatedValue();
             }
-        }
-        catch (\PhpOffice\PhpSpreadsheet\Exception $e) {
+        } catch (\PhpOffice\PhpSpreadsheet\Exception $e) {
             echo $e->getMessage();
         }
     }
@@ -237,11 +213,16 @@ function getScores($sheet) {
  * @param $version     int
  * @return array
  */
-function getPeople($sheet, $version) {
+function getPeople($sheet, $version)
+{
 
-    $array = array();
-    $range = array();
+    $array  = array();
+    $range  = array();
     $people = array();
+
+    $offsetRowCnt = 26;
+    $categoryScoreRow = $this->totalScoreCell + $offsetRowCnt;
+    $categoryScoreAddress = ["Freshness" => "Z".$categoryScoreRow, "Food Safety" => "AH".$categoryScoreRow, "Operations"=>"AP".$categoryScoreRow, "Safety" =>"AX".$categoryScoreRow,"Conditions" =>"BF".$categoryScoreRow];
 
     switch ($version) {
         case 1:
@@ -265,8 +246,7 @@ function getPeople($sheet, $version) {
         foreach ($range as $rng) {
             try {
                 $people[] = $sheet->rangeToArray($rng, null, true, true, true);
-            }
-            catch (\PhpOffice\PhpSpreadsheet\Exception $e) {
+            } catch (\PhpOffice\PhpSpreadsheet\Exception $e) {
             }
         }
     }
@@ -282,11 +262,11 @@ function getPeople($sheet, $version) {
     return $array;
 }
 
-$version = 'version not got';
+$version    = 'version not got';
 $auditDates = 'audit dates not got';
-$findings = 'findings not got';
-$people = 'people not got';
-$scores = 'scores not got';
+$findings   = 'findings not got';
+$people     = 'people not got';
+$scores     = 'scores not got';
 
 #$version = getVersion($sheet);
 
@@ -299,9 +279,10 @@ $scores = 'scores not got';
 
 $scores = getScores($sheet);
 
-$testReturn = ['version' => $version,
-               'auditDates' => $auditDates,
-               'findings' => $findings,
-               'people' => $people,
-               'scores' => $scores];
-
+$testReturn = [
+    'version'    => $version,
+    'auditDates' => $auditDates,
+    'findings'   => $findings,
+    'people'     => $people,
+    'scores'     => $scores
+];

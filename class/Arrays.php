@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Created by PhpStorm.
  * User: Robert Brandt
@@ -34,7 +35,8 @@ class Arrays
     var $qry;
     var $params;
 
-    public function __construct($array) {
+    public function __construct($array)
+    {
 
         $this->lnk = new Process();
 
@@ -53,10 +55,10 @@ class Arrays
             #echo $sql. "</br>";
 
         }
-
     }
 
-    private function createSql($opts) {
+    private function createSql($opts)
+    {
 
         $schema = $opts[1];
         $db = $opts[2];
@@ -91,9 +93,7 @@ class Arrays
                 } elseif ($i < $count - 1 && $operand == 'or') {
                     $this->sql .= " OR";
                 }
-
             }
-
         }
 
         return $this->sql;
@@ -102,19 +102,22 @@ class Arrays
     #branchArray[branchNum][branchName, regional, auditor, location, twoDigit]
     #twoDigitArray[twoDigitNum][branchNum]
     #repServerNumArray[repServerNum][branchNum]
-    public function branchArray($sql) {
+    public function branchArray($sql)
+    {
 
         $array = [];
 
         $qry = $this->lnk->query($sql);
 
         foreach ($qry as $info) {
-            $array[$info['branchNum']] = ['branchName' => $info['branchName'], 'regional' => $info['regional'],
-                                          'auditor' => $info['auditor'], 'location' => $info['location']];
-            if(!is_null($info['_2DigNum'])) {
+            $array[$info['branchNum']] = [
+                'branchName' => $info['branchName'], 'regional' => $info['regional'],
+                'auditor' => $info['auditor'], 'location' => $info['location']
+            ];
+            if (!is_null($info['_2DigNum'])) {
                 $array2[$info['_2DigNum']] = $info['branchNum'];
             }
-            if(!is_null($info['repServerNum'])) {
+            if (!is_null($info['repServerNum'])) {
                 $array3[$info['repServerNum']] = $info['branchNum'];
             }
         }
@@ -122,11 +125,11 @@ class Arrays
         $this->branchArray = $array;
         $this->twoDigitArray = $array2;
         $this->repServerNumArray;
-
     }
 
     #array[auditorID][fName, lName, fullName]
-    public function auditorArray($sql) {
+    public function auditorArray($sql)
+    {
 
         $array = [];
 
@@ -136,15 +139,17 @@ class Arrays
 
             $array = [];
 
-            $array[$info['auditorID']] = ['fName' => $info['auditorFName'], "lName" => $info['auditorLName'],
-                                          "fullName" => $info['auditorFName'] . " " . $info['auditorLName']];
+            $array[$info['auditorID']] = [
+                'fName' => $info['auditorFName'], "lName" => $info['auditorLName'],
+                "fullName" => $info['auditorFName'] . " " . $info['auditorLName']
+            ];
         }
         $this->auditorArray = $array;
-
     }
 
     #array[regionID][fName, lName, fullName]
-    public function regionalArray($sql) {
+    public function regionalArray($sql)
+    {
 
         $regArray = [];
         $dopArray = [];
@@ -153,11 +158,15 @@ class Arrays
 
         foreach ($qry as $info) {
             if ($info['position'] == 'reg') {
-                $regArray[$info['regionID']] = ['fName' => $info['fName'], "lName" => $info['lName'],
-                                                "fullName" => $info['fName'] . " " . $info['lName']];
+                $regArray[$info['regionID']] = [
+                    'fName' => $info['fName'], "lName" => $info['lName'],
+                    "fullName" => $info['fName'] . " " . $info['lName']
+                ];
             } elseif ($info['position'] == 'dop') {
-                $dopArray[$info['regionID']] = ['fName' => $info['fName'], "lName" => $info['lName'],
-                                                "fullName" => $info['fName'] . " " . $info['lName']];
+                $dopArray[$info['regionID']] = [
+                    'fName' => $info['fName'], "lName" => $info['lName'],
+                    "fullName" => $info['fName'] . " " . $info['lName']
+                ];
             }
         }
 
@@ -166,7 +175,8 @@ class Arrays
     }
 
     #array[year][period][id][branchNum, version]
-    public function auditArray($sql) {
+    public function auditArray($sql)
+    {
 
         $qry = $this->lnk->query($sql);
 
@@ -175,11 +185,11 @@ class Arrays
         }
 
         $this->auditArray = $array;
-
     }
 
     #array[auditID][base/repeat][scores]
-    public function scoreArray($sql) {
+    public function scoreArray($sql)
+    {
 
         $qry = $this->lnk->query($sql);
 
@@ -187,29 +197,31 @@ class Arrays
 
             #echo $info['rep'] . "</br>";
 
-            $scoreArray = ['totScore' => number_format($info['totScore'] * 100, 2),
-                           'freshScore' => number_format($info['freshScore'] * 100, 2),
-                           'adScore' => number_format($info['adScore'] * 100, 2),
-                           'crScore' => number_format($info['crScore'] * 100, 2),
-                           'daScore' => number_format($info['daScore'] * 100, 2),
-                           'feScore' => number_format($info['feScore'] * 100, 2),
-                           'flScore' => number_format($info['flScore'] * 100, 2),
-                           'goScore' => number_format($info['goScore'] * 100, 2),
-                           'icScore' => number_format($info['icScore'] * 100, 2),
-                           'meScore' => number_format($info['meScore'] * 100, 2),
-                           'pcScore' => number_format($info['pcScore'] * 100, 2),
-                           'prScore' => number_format($info['prScore'] * 100, 2),
-                           'rvScore' => number_format($info['rvScore'] * 100, 2),
-                           'rpScore' => number_format($info['rpScore'] * 100, 2),
-                           'saScore' => number_format($info['saScore'] * 100, 2),
-                           'seScore' => number_format($info['seScore'] * 100, 2),
-                           'swScore' => number_format($info['swScore'] * 100, 2),
-                           'lqScore' => number_format($info['lqScore'] * 100, 2),
-                           'fsScore' => number_format($info['fsScore'] * 100, 2),
-                           'deptFreshScore' => number_format($info['deptFreshScore'] * 100, 2),
-                           'deptFSafeScore' => number_format($info['deptFSafeScore'] * 100, 2),
-                           'deptOpsScore' => number_format($info['deptOpsScore'] * 100, 2),
-                           'deptSafeScore' => number_format($info['deptSafeScore'] * 100, 2)];
+            $scoreArray = [
+                'totScore' => number_format($info['totScore'] * 100, 2),
+                'freshScore' => number_format($info['freshScore'] * 100, 2),
+                'adScore' => number_format($info['adScore'] * 100, 2),
+                'crScore' => number_format($info['crScore'] * 100, 2),
+                'daScore' => number_format($info['daScore'] * 100, 2),
+                'feScore' => number_format($info['feScore'] * 100, 2),
+                'flScore' => number_format($info['flScore'] * 100, 2),
+                'goScore' => number_format($info['goScore'] * 100, 2),
+                'icScore' => number_format($info['icScore'] * 100, 2),
+                'meScore' => number_format($info['meScore'] * 100, 2),
+                'pcScore' => number_format($info['pcScore'] * 100, 2),
+                'prScore' => number_format($info['prScore'] * 100, 2),
+                'rvScore' => number_format($info['rvScore'] * 100, 2),
+                'rpScore' => number_format($info['rpScore'] * 100, 2),
+                'saScore' => number_format($info['saScore'] * 100, 2),
+                'seScore' => number_format($info['seScore'] * 100, 2),
+                'swScore' => number_format($info['swScore'] * 100, 2),
+                'lqScore' => number_format($info['lqScore'] * 100, 2),
+                'fsScore' => number_format($info['fsScore'] * 100, 2),
+                'deptFreshScore' => number_format($info['deptFreshScore'] * 100, 2),
+                'deptFSafeScore' => number_format($info['deptFSafeScore'] * 100, 2),
+                'deptOpsScore' => number_format($info['deptOpsScore'] * 100, 2),
+                'deptSafeScore' => number_format($info['deptSafeScore'] * 100, 2)
+            ];
             if (!$info['rep']) {
                 $array[$info['auditID']]['base'] = $scoreArray;
             } else {
@@ -218,11 +230,11 @@ class Arrays
         }
 
         $this->scoreArray = $array;
-
     }
 
     #array[locID][locCode, locName]
-    public function locationArray($sql) {
+    public function locationArray($sql)
+    {
 
         $qry = $this->lnk->query($sql);
 
@@ -231,11 +243,11 @@ class Arrays
         }
 
         $this->locationArray = $array;
-
     }
 
     #array[auditID][question, comment, id, rep]
-    public function findingArray($sql) {
+    public function findingArray($sql)
+    {
 
         #echo "</br>" . $sql . "</br>";
 
@@ -244,15 +256,15 @@ class Arrays
         $qry = $this->lnk->query($sql);
 
         foreach ($qry as $info) {
-            $array[$info['auditID']][] = ['question' => $info['qCode'], 'comment' => $info['qComm'], 'id' => $info['findID'], 'rep'=>$info['rep']];
+            $array[$info['auditID']][] = ['question' => $info['qCode'], 'comment' => $info['qComm'], 'id' => $info['findID'], 'rep' => $info['rep']];
         }
 
         $this->findingArray = $array;
-
     }
 
     #array[auditCode][version][qNum, title, points]
-    public function questionArray($sql) {
+    public function questionArray($sql)
+    {
         $qry = $this->lnk->query($sql);
 
         foreach ($qry as $info) {
@@ -264,14 +276,14 @@ class Arrays
             #echo "</br>" . $version . " " . $auditCode . " " . $qNum . "</br>";
 
             $array[$auditCode][$version][] = ['qNum' => $qNum, 'title' => $info['qTitle'], 'points' => $info['qPoints']];
-
         }
 
         $this->questionArray = $array;
     }
 
     #array[auditCode][auditName, corpID]
-    public function auditLU($sql) {
+    public function auditLU($sql)
+    {
         $qry = $this->lnk->query($sql);
 
         foreach ($qry as $info) {
@@ -279,11 +291,11 @@ class Arrays
         }
 
         $this->auditLU = $array;
-
     }
 
     #array[wkNum][wkStart, wkEnd]
-    public function weekDates($sql) {
+    public function weekDates($sql)
+    {
         $qry = $this->lnk->query($sql);
 
         foreach ($qry as $info) {
@@ -291,64 +303,74 @@ class Arrays
         }
 
         $this->weekDates = $array;
-
     }
 
     #array[monthNum][periodName, wkStart, wkEnd, perStart, PerEnd, julStart, julEnd]
-    public function periodDates($sql) {
+    public function periodDates($sql)
+    {
         # echo $sql . "</br></br>";
 
         $qry = $this->lnk->query($sql);
 
         foreach ($qry as $info) {
-            $array[$info['monthNum']] = ['periodName' => $info['periodName'], 'wkStart' => $info['weekStart'], 'wkEnd'=>$info['weekEnd'],
-                                         'perStart'=>$info['perStart'], 'perEnd'=>$info['perEnd'], 'julStart'=>$info['julStart'], 'julEnd'=>$info['julEnd']];
+            $array[$info['monthNum']] = [
+                'periodName' => $info['periodName'], 'wkStart' => $info['weekStart'], 'wkEnd' => $info['weekEnd'],
+                'perStart' => $info['perStart'], 'perEnd' => $info['perEnd'], 'julStart' => $info['julStart'], 'julEnd' => $info['julEnd']
+            ];
         }
 
         $this->periodDates = $array;
-
     }
 
     #array[groupNum][deptNum, deptName, freq, countWeeks]
-    public function deptInfo($sql) {
+    public function deptInfo($sql)
+    {
         # echo $sql . "</br></br>";
 
         $qry = $this->lnk->query($sql);
 
         foreach ($qry as $info) {
-            $array[$info['groupNum']] = ['deptNum' => $info['deptNum'], 'deptName' => $info['deptName'], 'freq'=>$info['countFreq'],
-                                         'countWeeks'=>$info['countWeeks']];
+            $array[$info['groupNum']] = [
+                'deptNum' => $info['deptNum'], 'deptName' => $info['deptName'], 'freq' => $info['countFreq'],
+                'countWeeks' => $info['countWeeks']
+            ];
         }
 
         $this->deptInfo = $array;
-
     }
 
-    public function getBranchArray() {
+    public function getBranchArray()
+    {
         return $this->branchArray;
     }
 
-    public function getTwoDigitArray() {
+    public function getTwoDigitArray()
+    {
         return $this->twoDigitArray;
     }
 
-    public function getRepServerNumArray() {
+    public function getRepServerNumArray()
+    {
         return $this->repServerNumArray;
     }
 
-    public function getAuditorArray() {
+    public function getAuditorArray()
+    {
         return $this->auditorArray;
     }
 
-    public function getRegionalArray() {
+    public function getRegionalArray()
+    {
         return $this->regionalArray;
     }
 
-    public function getAuditArray() {
+    public function getAuditArray()
+    {
         return $this->auditArray;
     }
 
-    private function getAuditOpts() {
+    private function getAuditOpts()
+    {
 
         #var_dump($this->auditArray);
         foreach ($this->auditArray as $year => $periodArray) {
@@ -364,39 +386,48 @@ class Arrays
         return $opts;
     }
 
-    public function getScoreArray() {
+    public function getScoreArray()
+    {
         return $this->scoreArray;
     }
 
-    public function getLocationArray() {
+    public function getLocationArray()
+    {
         return $this->locationArray;
     }
 
-    public function getFindingArray() {
+    public function getFindingArray()
+    {
         return $this->findingArray;
     }
 
-    public function getQuestionArray() {
+    public function getQuestionArray()
+    {
         return $this->questionArray;
     }
 
-    public function getAuditLU() {
+    public function getAuditLU()
+    {
         return $this->auditLU;
     }
 
-    public function getWeekDates() {
+    public function getWeekDates()
+    {
         return $this->weekDates;
     }
 
-    public function getPeriodDates() {
+    public function getPeriodDates()
+    {
         return $this->periodDates;
     }
 
-    public function getDeptInfo() {
+    public function getDeptInfo()
+    {
         return $this->deptInfo;
     }
 
-    public function getDirectorArray() {
+    public function getDirectorArray()
+    {
         return $this->directorArray;
     }
 }

@@ -127,5 +127,3 @@ $writer = \PhpOffice\PhpSpreadsheet\IOFactory::createWriter($newSpreadsheet, "Xl
 $writer->save($outputFile);
 
 echo '<a href="' . $outputFile . '" download><button class="ui-corner-all ui-button">Output File</button></a>';
-
-

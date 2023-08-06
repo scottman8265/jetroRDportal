@@ -1,15 +1,15 @@
 <?php
 
-require_once( '../class/Process.php' );
+require_once('../class/Process.php');
 
 $lnk      = new Process();
 $inputSet = true;
 $tracking = $identifier = $outlier = $date = null;
 
-foreach ( $_POST as $key => $val ) {
-	$arr[ $key ] = $val;
+foreach ($_POST as $key => $val) {
+	$arr[$key] = $val;
 
-	switch ( $key ) {
+	switch ($key) {
 		case 'regAud':
 		case 'branch':
 			$identifier = $val;
@@ -29,10 +29,10 @@ foreach ( $_POST as $key => $val ) {
 }
 
 $sql    = "INSERT INTO trackers.trackers (tracking, date, identifier, outlier) VALUES (?, ?, ?, ?)";
-$params = [ $tracking, $date, $identifier, $outlier ];
-$qry    = $lnk->query( $sql, $params );
+$params = [$tracking, $date, $identifier, $outlier];
+$qry    = $lnk->query($sql, $params);
 
-if ( $qry ) {
+if ($qry) {
 	print_r($params);
 } else {
 	echo "You Fucked Up";

@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Created by PhpStorm.
  * User: Robert Brandt
@@ -33,8 +34,7 @@ if (!is_null($inputFile)) {
 
         $spreadSheet = $spreadSheetA['spreadsheet'];
         $type = $spreadSheetA['type'];
-    }
-    catch (Error $q) {
+    } catch (Error $q) {
         #echo "reading the input spreadsheet: ";
         $r = $q->getMessage();
     }
@@ -70,25 +70,23 @@ if (!is_null($spreadSheet)) {
                 $row++;
             }
         }
-#echo $count . "</br>";
+        #echo $count . "</br>";
     }
 
 
-#$spreadSheet2 = $spreadSheet;
+    #$spreadSheet2 = $spreadSheet;
 
     $file = 'output/cycleCountLogs/masterLogs/2019 Cycle Count Master - wkNum ' . $wkNum . '.xlsx';
 
 
     try {
         $writer = \PhpOffice\PhpSpreadsheet\IOFactory::createWriter($spreadSheet, "Xlsx");
-    }
-    catch (\PhpOffice\PhpSpreadsheet\Writer\Exception $e) {
+    } catch (\PhpOffice\PhpSpreadsheet\Writer\Exception $e) {
         $error[] = $e;
     }
     try {
         $writer->save('../' . $file);
-    }
-    catch (\PhpOffice\PhpSpreadsheet\Writer\Exception $e) {
+    } catch (\PhpOffice\PhpSpreadsheet\Writer\Exception $e) {
         $error[] = $e;
     }
 } else {
@@ -96,7 +94,7 @@ if (!is_null($spreadSheet)) {
     #echo "SpreadSheet is Null";
 }
 
-echo json_encode(['html' => '<a href="' . $file . '" download><button class="ui-corner-all ui-button">Output File</button></a>',
-    'inputFile' => $inputFile, 'weekNum' => $wkNum, 'errors' => $error, 'r' => $input]);
-
-
+echo json_encode([
+    'html' => '<a href="' . $file . '" download><button class="ui-corner-all ui-button">Output File</button></a>',
+    'inputFile' => $inputFile, 'weekNum' => $wkNum, 'errors' => $error, 'r' => $input
+]);

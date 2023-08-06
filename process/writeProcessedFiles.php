@@ -12,7 +12,7 @@ $lnk = new Process();
 
 $branchArray = $lnk->query("SELECT branchNum FROM branchinfo.branches");
 
-foreach($branchArray as $branchNum) {
+foreach ($branchArray as $branchNum) {
     $branches[$branchNum['branchNum']] = 'not processed';
 }
 
@@ -26,7 +26,6 @@ foreach ($files as $file) {
     $lnk->query("INSERT INTO cyclecounts.processedcounts (wkNum, branch) VALUES (" . $wkNum . ", " . $branch . ")");
 
     unset($branches[$branch]);
-
 }
 
 

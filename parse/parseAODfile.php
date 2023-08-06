@@ -5,7 +5,8 @@ set_time_limit(1200);
 require_once '../vendor/autoload.php';
 require_once '../class/Process.php';
 
-function getDateFromCode($dateCode) {
+function getDateFromCode($dateCode)
+{
 	$month = substr($dateCode, 0, 2);
 	$day   = substr($dateCode, 2, 2);
 	$year  = substr($dateCode, 4, 2);
@@ -13,18 +14,19 @@ function getDateFromCode($dateCode) {
 	return new DateTime($month . "/" . $day . "/" . $year);
 }
 
-function readFileToArray($path) {
+function readFileToArray($path)
+{
 	if ($xlsx = SimpleXLSX::parse($path)) {
 		echo "file read: " . $path . "</br>";
 
 		return $xlsx;
-	}
-	else {
+	} else {
 		die("error: " . SimpleXLSX::parseError());
 	}
 }
 
-function getAODarray($lnk) {
+function getAODarray($lnk)
+{
 
 	$arr = [];
 
@@ -32,11 +34,12 @@ function getAODarray($lnk) {
 
 	if (!$aodArray) {
 		return null;
-	}
-	else {
+	} else {
 		foreach ($aodArray as $line) {
-			$arr[$line['aodEmpID']] = ['lineID' => $line['aodID'],
-			                           'check'  => $line['aodJobID'] . ":" . $line['aodLocation']];
+			$arr[$line['aodEmpID']] = [
+				'lineID' => $line['aodID'],
+				'check'  => $line['aodJobID'] . ":" . $line['aodLocation']
+			];
 		}
 	}
 
@@ -44,17 +47,20 @@ function getAODarray($lnk) {
 	return $arr;
 }
 
-function insertNew($lnk, $params) {
+function insertNew($lnk, $params)
+{
 	$insertNewSql = "INSERT INTO staffing.aodData (aodEmpID, aodJobID, aodFname, aodLname, aodLocation, aodDateIn, aodHiredDate) VALUES (?, ?, ?, ?, ?, ?, ?)";
 	$lnk->query($insertNewSql, $params);
 }
 
-function updateOld($lnk, $params) {
+function updateOld($lnk, $params)
+{
 	$updateSql = "UPDATE staffing.aodData SET aodDateOut = ?, outStatus = ? WHERE aodID = ?";
 	$lnk->query($updateSql, $params);
 }
 
-function chkFile($lnk, $file) {
+function chkFile($lnk, $file)
+{
 	$fileChkSql    = "SELECT fileID FROM trackers.processedFiles WHERE fileName = ?";
 	$fileChkParams = [$file];
 	$fileChkQry    = $lnk->query($fileChkSql, $fileChkParams);
@@ -101,21 +107,20 @@ if ($newFile) {
 					insertNew($lnk, [$empID, $jobID, $fName, $lName, $location, $inDate, $sqlHired]);
 					updateOld($lnk, [$outDate, 'c', $aodArr[$empID]['lineID']]);
 					#echo "Update from [" . $file . "][empID: " . $empID . "][location: ".$location."]</br>";
-					$update ++;
+					$update++;
 				}
 				unset($aodArr[$empID]);
-			}
-			else {
+			} else {
 				insertNew($lnk, [$empID, $jobID, $fName, $lName, $location, $inDate, $sqlHired]);
-				$new ++;
+				$new++;
 				#echo "New from [" . $file . "][empID: " . $empID . "][location: ".$location."]</br>";
 			}
 		}
-		$count ++;
+		$count++;
 	}
 
 	foreach ($aodArr as $tmID => $data) {
-		$old ++;
+		$old++;
 		updateOld($lnk, [$outDate, 't', $data['lineID']]);
 		#echo "Old from [" . $file . "][empID: " . $tmID . "][lineID: " . $data['lineID']."][location: ".$location."]</br>";
 	}

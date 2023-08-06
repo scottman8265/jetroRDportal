@@ -12,7 +12,8 @@ define("mySqlDate", 'Y-m-d');
 
 date_default_timezone_set("US/Central");
 
-function getBranchNum($branchNumber, $branchArray) {
+function getBranchNum($branchNumber, $branchArray)
+{
 
     $number = null;
 
@@ -30,7 +31,8 @@ function getBranchNum($branchNumber, $branchArray) {
  * @param $spreadSheet \PhpOffice\PhpSpreadsheet\Spreadsheet
  * @param $branchArray array
  */
-function getCCbranches($spreadSheet, $branchArray, $row) {
+function getCCbranches($spreadSheet, $branchArray, $row)
+{
 
     $sheet = $spreadSheet->getActiveSheet();
     $col = 6;
@@ -97,7 +99,6 @@ for ($i = $row; $i < $rowEnd; $i++) {
             $deptData[] = $sheet->getCellByColumnAndRow($j, $i)->getCalculatedValue();
             /*$wkPer[] = $sheet->getCellByColumnAndRow($j, $wkRow)->getCalculatedValue();
             $yrPer[] = $sheet->getCellByColumnAndRow($j, $yrRow)->getCalculatedValue();*/
-
         }
         if ($deptNum == "ALL") {
             $deptNum = $groupNum;
@@ -126,8 +127,8 @@ foreach ($data as $countNum => $info) {
         $cols[] = 'deptID';
 
 
-            $values[] = $info[3];
-            $values[] = $info[5];
+        $values[] = $info[3];
+        $values[] = $info[5];
 
 
         foreach ($info[0] as $key => $value) {
@@ -146,7 +147,6 @@ foreach ($data as $countNum => $info) {
             $cols[] = 'yrPer';
             $values[] = $info[6][$key];
             $values[] = $info[7][$key];*/
-
         }
 
         $colStr = implode(', ', $cols);
@@ -155,26 +155,24 @@ foreach ($data as $countNum => $info) {
         $insert[] = "INSERT INTO cyclecounts.enteredcounts (" . $colStr . ") VALUES (" . $valStr . ")";
     }
 
-        #$insert[] = "INSERT INTO cyclecounts.enteredcounts (" . $colStr . ") VALUES (" . $valStr . ")";
+    #$insert[] = "INSERT INTO cyclecounts.enteredcounts (" . $colStr . ") VALUES (" . $valStr . ")";
 
 }
 
 
-    for ($j = 6; $j < 54; $j++) {
+for ($j = 6; $j < 54; $j++) {
 
-        $week = $sheet->getCellByColumnAndRow($j, $wkRow)->getCalculatedValue();
-        $year = $sheet->getCellByColumnAndRow($j, $yrRow)->getCalculatedValue();
-        if (!preg_match('/COMPLIANCE/', $week) && $j !== 48 && $week > 0) {
-            $wkPer[] = number_format($week, 4);
-        }
-        if (!preg_match('/COMPLIANCE/', $year) && $j !== 48 & $year > 0) {
-            $yrPer[] = number_format($year, 4);
-        }
-
+    $week = $sheet->getCellByColumnAndRow($j, $wkRow)->getCalculatedValue();
+    $year = $sheet->getCellByColumnAndRow($j, $yrRow)->getCalculatedValue();
+    if (!preg_match('/COMPLIANCE/', $week) && $j !== 48 && $week > 0) {
+        $wkPer[] = number_format($week, 4);
     }
+    if (!preg_match('/COMPLIANCE/', $year) && $j !== 48 & $year > 0) {
+        $yrPer[] = number_format($year, 4);
+    }
+}
 
 
 
-$insert[] = "INSERT INTO cyclecounts.enteredcounts (" . $colStr . ") VALUES (" .$wkNum. ", 'wkPer', " . implode(', ', $wkPer) . ")";
-$insert[] = "INSERT INTO cyclecounts.enteredcounts (" . $colStr . ") VALUES (" .$wkNum. ", 'yrPer', " . implode(', ', $yrPer) . ")";
-
+$insert[] = "INSERT INTO cyclecounts.enteredcounts (" . $colStr . ") VALUES (" . $wkNum . ", 'wkPer', " . implode(', ', $wkPer) . ")";
+$insert[] = "INSERT INTO cyclecounts.enteredcounts (" . $colStr . ") VALUES (" . $wkNum . ", 'yrPer', " . implode(', ', $yrPer) . ")";

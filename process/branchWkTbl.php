@@ -75,7 +75,6 @@ foreach ($wklyQry as $key => $data) {
             }
         }
     }
-
 }
 
 foreach ($branches as $branch => $data) {
@@ -118,7 +117,3 @@ foreach ($inserts as $insert) {
 /*foreach ($updates as $update) {
     $lnk->query($update);
 }*/
-
-
-
-

@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Created by PhpStorm.
  * User: Robert Brandt
@@ -31,7 +32,7 @@ foreach ($insert as $dept) {
 if (!isset($errors)) {
     echo "Cycle Counts Processed";
 } else {
-    foreach($errors as $error) {
+    foreach ($errors as $error) {
         echo $error . "</br>";
     }
 }

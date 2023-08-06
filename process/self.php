@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Created by PhpStorm.
  * User: Robert Brandt
@@ -10,7 +11,8 @@ session_start();
 
 require_once '../class/Process.php';
 
-function getAuditID($array) {
+function getAuditID($array)
+{
 
     $lnk = new Process();
 
@@ -35,16 +37,19 @@ function getAuditID($array) {
 
 }
 
-function writeScores($scores, $auditID = 0) {
+function writeScores($scores, $auditID = 0)
+{
 
     $errors = null;
 
     $lnk = new Process();
 
     $scores[] = $auditID;
-    $fields = ['totScore', 'freshScore', 'adScore', 'crScore', 'daScore', 'flScore', 'feScore', 'goScore',
-               'icScore', 'meScore', 'pcScore', 'prScore', 'rvScore', 'rpScore', 'saScore', 'seScore', 'swScore',
-               'lqScore', 'fsScore', 'deptFreshScore', 'deptFSafeScore', 'deptOpsScore', 'deptSafeScore', 'auditID'];
+    $fields = [
+        'totScore', 'freshScore', 'adScore', 'crScore', 'daScore', 'flScore', 'feScore', 'goScore',
+        'icScore', 'meScore', 'pcScore', 'prScore', 'rvScore', 'rpScore', 'saScore', 'seScore', 'swScore',
+        'lqScore', 'fsScore', 'deptFreshScore', 'deptFSafeScore', 'deptOpsScore', 'deptSafeScore', 'auditID'
+    ];
 
 
     #$repScoreStr = implode(', ', $scores['rep']);
@@ -67,7 +72,8 @@ function writeScores($scores, $auditID = 0) {
     #return $message;
 }
 
-function writeFindings($findings, $auditID = 0) {
+function writeFindings($findings, $auditID = 0)
+{
     $lnk = new Process();
 
     foreach ($findings as $qCode => $info) {
@@ -110,7 +116,8 @@ function writeFindings($findings, $auditID = 0) {
  * @param $auditID  int
  * @return string
  */
-function setFindings($findings, $auditID) {
+function setFindings($findings, $auditID)
+{
 
     $lnk = new Process();
     $count = 1;
@@ -130,7 +137,8 @@ function setFindings($findings, $auditID) {
  * @param $scores array
  * @return bool
  */
-function setScores($scores) {
+function setScores($scores)
+{
 
     $lnk = new Process();
 
@@ -183,7 +191,5 @@ for ($i = 0; $i < $fileCount; $i++) {
 
         writeScores($scores, $auditID);
         writeFindings($findings, $auditID);
-
     }
 }
-
