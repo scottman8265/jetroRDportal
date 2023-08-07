@@ -7,125 +7,237 @@
  * Time: 5:25 AM
  */
 
-#require ('Process.php');
+require_once '../class/Process.php';
+require_once '../inc/config.php';
 
-class Arrays
+class Arrays extends Process
 {
-    var $branchArray;
-    var $twoDigitArray;
-    var $repServerNumArray;
-    var $auditorArray;
-    var $regionalArray;
-    var $directorArray;
-    var $locationArray;
-    var $auditArray;
-    var $scoreArray;
-    var $findingArray;
-    var $peopleArray;
-    var $xDockArray;
-    var $corpScoreArray;
-    var $corpBranchArray;
-    var $questionArray;
-    var $auditLU;
-    var $weekDates;
-    var $periodDates;
-    var $deptInfo;
-    var $lnk;
-    var $sql;
-    var $qry;
-    var $params;
 
-    public function __construct($array)
+    private $branchNums = [];
+    private $activeBranches = [];
+    public $locationRequest = [];
+    public $xDock;
+    public $seafood;
+    public $branchName;
+    public $region;
+    public $regional;
+    public $director;
+    public $locationType;
+    public $smwares;
+    public $liquor;
+    public $auditLU;
+    public $weekDates;
+    public $periodDates;
+    public $deptInfo;
+    private $sql = null;
+
+
+    public function __construct($x = null)
     {
+        parent::__construct();
 
-        $this->lnk = new Process();
-
-        foreach ($array as $func => $opts) {
-
-            if ($func == 'scoreArray' || $func == 'findingArray') {
-                $opts[3] = $this->getAuditOpts();
-            }
-
-            $sql = $this->createSql($opts);
-
-            #echo $sql . "</br></br>";
-
-            $this->$func($sql);
-
-            #echo $sql. "</br>";
-
-        }
+        $this->setBranchNums($x);
     }
 
-    private function createSql($opts)
+    /**
+     * Summary of getBranchInfo
+     * @param int $x branch number
+     * @param string $y field to query
+     * @return mixed
+     */
+    private function getBranchInfo($x, $y)
     {
+        $result = null;
 
-        $schema = $opts[1];
-        $db = $opts[2];
+        $sql = "SELECT ? FROM jrdStuff.branchInfo WHERE branchId = ?";
+        $params = [$y, $x];
+        $result = Process::query($sql, $params);
 
-        isset($opts[0]) ? $selectStr = implode(", ", $opts[0]) : $selectStr = null;
-        isset($opts[3]) && !empty($opts[3]) ? $params = true : $params = false;
-
-        $this->sql = "SELECT " . $selectStr . " FROM " . $schema . "." . $db;
-
-        if ($params) {
-
-            $this->sql .= " WHERE";
-
-            $count = count($opts[3]);
-
-            #var_dump($opts[3]);
-
-            for ($i = 0; $i < $count; $i++) {
-
-                $field = $opts[3][$i]['field'];
-                $value = $opts[3][$i]['value'];
-                $operand = $opts[3][$i]['operand'];
-
-                if (!is_numeric($value)) {
-                    $value = "'" . $value . "'";
-                }
-
-                $this->sql .= " " . $field . " = " . $value;
-
-                if ($i < $count - 1 && $operand == 'and') {
-                    $this->sql .= " AND";
-                } elseif ($i < $count - 1 && $operand == 'or') {
-                    $this->sql .= " OR";
-                }
-            }
-        }
-
-        return $this->sql;
+        return $result;
     }
 
-    #branchArray[branchNum][branchName, regional, auditor, location, twoDigit]
-    #twoDigitArray[twoDigitNum][branchNum]
-    #repServerNumArray[repServerNum][branchNum]
-    public function branchArray($sql)
+    private function setBranchNums($x = null)
+    {
+        $this->branchNums = $x == null ? $this->getActiveBranches() : $x;
+    }
+
+    public function getBranchNums()
+    {
+        if (empty($this->branchNums)) {
+            $this->setBranchNums();
+        }
+        return $this->branchNums;
+    }
+
+    private function setActiveBranches()
+    {
+        $arr = [];
+
+        $sql = "SELECT branchId AS branchNum FROM jrdStuff.branchInfo WHERE active = 1 SORT BY branchNum ASC";
+
+        $qry = parent::query($sql);
+
+        foreach ($qry as $row) {
+            $arr[] = $row['branchNum'];
+        }
+
+        $this->activeBranches = $arr;
+    }
+
+    public function getActiveBranches()
+    {
+        if (empty($this->activeBranches)) {
+            $this->setActiveBranches();
+        }
+        return $this->activeBranches;
+    }
+
+
+    private function setBranchName($x)
+    {
+        $sql = "SELECT branchName FROM jrdStuff.branchNames WHERE branchNameId = " . $this->getBranchInfo($x, 'branchName');
+        $this->branchName = Process::query($sql);
+    }
+
+    public function getBranchName($x)
+    {
+        if (!$this->branchName) {
+            $this->setBranchName($x);
+        }
+        return $this->branchName;
+    }
+
+    private function setRegion($x)
+    {
+        $sql = "Select region FROM jrdStuff.regions WHERE regionId = " . $this->getBranchInfo($x, 'region');
+        $this->region = Process::query($sql);
+    }
+
+    public function getRegion($x)
+    {
+        if (!$this->region) {
+            $this->setRegion($x);
+        }
+        return $this->region;
+    }
+
+    private function setRegional($x)
+    {
+        $sql = "Select regional FROM jrdStuff.fieldTeamMembers WHERE tmId = " . $this->getBranchInfo($x, 'regional');
+        $this->regional = Process::query($sql);
+    }
+
+    public function getRegional($x)
+    {
+        if (!$this->regional) {
+            $this->setRegional($x);
+        }
+        return $this->regional;
+    }
+
+    private function setDirector($x)
+    {
+        $sql = "Select director FROM jrdStuff.fieldTeamMembers WHERE tmId = " . $this->getBranchInfo($x, 'director');
+        $this->director = Process::query($sql);
+    }
+
+    public function getDirector($x)
+    {
+        if (!$this->director) {
+            $this->setDirector($x);
+        }
+        return $this->director;
+    }
+
+    private function setXDock($x)
+    {
+        $sql = "Select xDock FROM jrdStuff.xDocks WHERE xDockId = " . $this->getBranchInfo($x, 'xDock');
+        $this->xDock = Process::query("Select xDock FROM jrdStuff.xDocks WHERE xDockId = " . $x);
+    }
+
+    public function getxDock($x)
+    {
+        if (!$this->xDock) {
+            $this->setxDock($x);
+        }
+        return $this->xDock;
+    }
+
+    private function setSeafood($x)
+    {
+        $this->seafood = $this->getBranchInfo($x, 'seafood');
+    }
+
+    public function getSeafood($x)
+    {
+        if (!$this->seafood) {
+            $this->setSeafood($x);
+        }
+        return $this->seafood;
+    }
+
+    private function setSmwares($x)
+    {
+        $this->smwares = $this->getBranchInfo($x, 'smwares');
+    }
+
+    public function getSmwares($x)
+    {
+        if (!$this->smwares) {
+            $this->setSmwares($x);
+        }
+        return $this->smwares;
+    }
+
+    private function setLocationType($x)
+    {
+        $sql = "Select locationType FROM jrdStuff.locationTypes WHERE locationTypeId = " . $this->getBranchInfo($x, 'locationType');
+        $this->locationType = Process::query($sql);
+    }
+
+    public function getLocationType($x)
+    {
+        if (!$this->locationType) {
+            $this->setLocationType($x);
+        }
+        return $this->locationType;
+    }
+
+    private function setLiquor($x)
+    {
+        $this->liquor = $this->getBranchInfo($x, 'liquor');
+    }
+
+    public function getLiquor($x)
+    {
+        if (!$this->liquor) {
+            $this->setLiquor($x);
+        }
+        return $this->liquor;
+    }
+
+    private function setLocationRequest()
     {
 
         $array = [];
 
-        $qry = $this->lnk->query($sql);
-
-        foreach ($qry as $info) {
-            $array[$info['branchNum']] = [
-                'branchName' => $info['branchName'], 'regional' => $info['regional'],
-                'auditor' => $info['auditor'], 'location' => $info['location']
-            ];
-            if (!is_null($info['_2DigNum'])) {
-                $array2[$info['_2DigNum']] = $info['branchNum'];
-            }
-            if (!is_null($info['repServerNum'])) {
-                $array3[$info['repServerNum']] = $info['branchNum'];
+        foreach ($this->branchNums as $x) {
+            if ($x['active']) {
+                $array[$x['x']] = ['branchName' => $x['branchName'], 'regional' => $x['regional'], 'director' => $x['director'], 'xDock' => $x['xDock'], 'region' => $x['region'], 'locationType' => $x['locationType'], 'seafood' => $x['seafood'], 'smwares' => $x['smwares'], 'liquor' => $x['liquor']];
             }
         }
-
-        $this->branchArray = $array;
-        $this->twoDigitArray = $array2;
-        $this->repServerNumArray;
+        $this->locationRequest = $array;
     }
+
+    private function getLocationRequest()
+    {
+        if (empty($this->locationRequest)) {
+            $this->setLocationRequest();
+        }
+
+        return $this->locationRequest;
+    }
+
 
     #array[auditorID][fName, lName, fullName]
     public function auditorArray($sql)
@@ -135,13 +247,13 @@ class Arrays
 
         $qry = $this->lnk->query($sql);
 
-        foreach ($qry as $info) {
+        foreach ($qry as $x) {
 
             $array = [];
 
-            $array[$info['auditorID']] = [
-                'fName' => $info['auditorFName'], "lName" => $info['auditorLName'],
-                "fullName" => $info['auditorFName'] . " " . $info['auditorLName']
+            $array[$x['auditorID']] = [
+                'fName' => $x['auditorFName'], "lName" => $x['auditorLName'],
+                "fullName" => $x['auditorFName'] . " " . $x['auditorLName']
             ];
         }
         $this->auditorArray = $array;
@@ -156,16 +268,16 @@ class Arrays
 
         $qry = $this->lnk->query($sql);
 
-        foreach ($qry as $info) {
-            if ($info['position'] == 'reg') {
-                $regArray[$info['regionID']] = [
-                    'fName' => $info['fName'], "lName" => $info['lName'],
-                    "fullName" => $info['fName'] . " " . $info['lName']
+        foreach ($qry as $x) {
+            if ($x['position'] == 'reg') {
+                $regArray[$x['regionID']] = [
+                    'fName' => $x['fName'], "lName" => $x['lName'],
+                    "fullName" => $x['fName'] . " " . $x['lName']
                 ];
-            } elseif ($info['position'] == 'dop') {
-                $dopArray[$info['regionID']] = [
-                    'fName' => $info['fName'], "lName" => $info['lName'],
-                    "fullName" => $info['fName'] . " " . $info['lName']
+            } elseif ($x['position'] == 'dop') {
+                $dopArray[$x['regionID']] = [
+                    'fName' => $x['fName'], "lName" => $x['lName'],
+                    "fullName" => $x['fName'] . " " . $x['lName']
                 ];
             }
         }
@@ -174,14 +286,14 @@ class Arrays
         $this->directorArray = $dopArray;
     }
 
-    #array[year][period][id][branchNum, version]
+    #array[year][period][id][x, version]
     public function auditArray($sql)
     {
 
         $qry = $this->lnk->query($sql);
 
-        foreach ($qry as $info) {
-            $array[$info['year']][$info['period']][$info['id']] = ['branchNum' => $info['branch'], 'version' => $info['version']];
+        foreach ($qry as $x) {
+            $array[$x['year']][$x['period']][$x['id']] = ['x' => $x['branch'], 'version' => $x['version']];
         }
 
         $this->auditArray = $array;
@@ -193,39 +305,39 @@ class Arrays
 
         $qry = $this->lnk->query($sql);
 
-        foreach ($qry as $info) {
+        foreach ($qry as $x) {
 
-            #echo $info['rep'] . "</br>";
+            #echo $x['rep'] . "</br>";
 
             $scoreArray = [
-                'totScore' => number_format($info['totScore'] * 100, 2),
-                'freshScore' => number_format($info['freshScore'] * 100, 2),
-                'adScore' => number_format($info['adScore'] * 100, 2),
-                'crScore' => number_format($info['crScore'] * 100, 2),
-                'daScore' => number_format($info['daScore'] * 100, 2),
-                'feScore' => number_format($info['feScore'] * 100, 2),
-                'flScore' => number_format($info['flScore'] * 100, 2),
-                'goScore' => number_format($info['goScore'] * 100, 2),
-                'icScore' => number_format($info['icScore'] * 100, 2),
-                'meScore' => number_format($info['meScore'] * 100, 2),
-                'pcScore' => number_format($info['pcScore'] * 100, 2),
-                'prScore' => number_format($info['prScore'] * 100, 2),
-                'rvScore' => number_format($info['rvScore'] * 100, 2),
-                'rpScore' => number_format($info['rpScore'] * 100, 2),
-                'saScore' => number_format($info['saScore'] * 100, 2),
-                'seScore' => number_format($info['seScore'] * 100, 2),
-                'swScore' => number_format($info['swScore'] * 100, 2),
-                'lqScore' => number_format($info['lqScore'] * 100, 2),
-                'fsScore' => number_format($info['fsScore'] * 100, 2),
-                'deptFreshScore' => number_format($info['deptFreshScore'] * 100, 2),
-                'deptFSafeScore' => number_format($info['deptFSafeScore'] * 100, 2),
-                'deptOpsScore' => number_format($info['deptOpsScore'] * 100, 2),
-                'deptSafeScore' => number_format($info['deptSafeScore'] * 100, 2)
+                'totScore' => number_format($x['totScore'] * 100, 2),
+                'freshScore' => number_format($x['freshScore'] * 100, 2),
+                'adScore' => number_format($x['adScore'] * 100, 2),
+                'crScore' => number_format($x['crScore'] * 100, 2),
+                'daScore' => number_format($x['daScore'] * 100, 2),
+                'feScore' => number_format($x['feScore'] * 100, 2),
+                'flScore' => number_format($x['flScore'] * 100, 2),
+                'goScore' => number_format($x['goScore'] * 100, 2),
+                'icScore' => number_format($x['icScore'] * 100, 2),
+                'meScore' => number_format($x['meScore'] * 100, 2),
+                'pcScore' => number_format($x['pcScore'] * 100, 2),
+                'prScore' => number_format($x['prScore'] * 100, 2),
+                'rvScore' => number_format($x['rvScore'] * 100, 2),
+                'rpScore' => number_format($x['rpScore'] * 100, 2),
+                'saScore' => number_format($x['saScore'] * 100, 2),
+                'seScore' => number_format($x['seScore'] * 100, 2),
+                'swScore' => number_format($x['swScore'] * 100, 2),
+                'lqScore' => number_format($x['lqScore'] * 100, 2),
+                'fsScore' => number_format($x['fsScore'] * 100, 2),
+                'deptFreshScore' => number_format($x['deptFreshScore'] * 100, 2),
+                'deptFSafeScore' => number_format($x['deptFSafeScore'] * 100, 2),
+                'deptOpsScore' => number_format($x['deptOpsScore'] * 100, 2),
+                'deptSafeScore' => number_format($x['deptSafeScore'] * 100, 2)
             ];
-            if (!$info['rep']) {
-                $array[$info['auditID']]['base'] = $scoreArray;
+            if (!$x['rep']) {
+                $array[$x['auditID']]['base'] = $scoreArray;
             } else {
-                $array[$info['auditID']]['repeat'] = $scoreArray;
+                $array[$x['auditID']]['repeat'] = $scoreArray;
             }
         }
 
@@ -238,8 +350,8 @@ class Arrays
 
         $qry = $this->lnk->query($sql);
 
-        foreach ($qry as $info) {
-            $array[$info['locID']] = ['locCode' => $info['locCode'], 'locName' => $info['locName']];
+        foreach ($qry as $x) {
+            $array[$x['locID']] = ['locCode' => $x['locCode'], 'locName' => $x['locName']];
         }
 
         $this->locationArray = $array;
@@ -255,8 +367,8 @@ class Arrays
 
         $qry = $this->lnk->query($sql);
 
-        foreach ($qry as $info) {
-            $array[$info['auditID']][] = ['question' => $info['qCode'], 'comment' => $info['qComm'], 'id' => $info['findID'], 'rep' => $info['rep']];
+        foreach ($qry as $x) {
+            $array[$x['auditID']][] = ['question' => $x['qCode'], 'comment' => $x['qComm'], 'id' => $x['findID'], 'rep' => $x['rep']];
         }
 
         $this->findingArray = $array;
@@ -267,15 +379,15 @@ class Arrays
     {
         $qry = $this->lnk->query($sql);
 
-        foreach ($qry as $info) {
-            $codeArray = explode('.', $info['qCode']);
+        foreach ($qry as $x) {
+            $codeArray = explode('.', $x['qCode']);
             $version = $codeArray[1];
             $auditCode = substr($codeArray[0], 0, 2);
             $qNum = substr($codeArray[0], 2);
 
             #echo "</br>" . $version . " " . $auditCode . " " . $qNum . "</br>";
 
-            $array[$auditCode][$version][] = ['qNum' => $qNum, 'title' => $info['qTitle'], 'points' => $info['qPoints']];
+            $array[$auditCode][$version][] = ['qNum' => $qNum, 'title' => $x['qTitle'], 'points' => $x['qPoints']];
         }
 
         $this->questionArray = $array;
@@ -286,8 +398,8 @@ class Arrays
     {
         $qry = $this->lnk->query($sql);
 
-        foreach ($qry as $info) {
-            $array[$info['auditCode']] = ['auditName' => $info['auditName'], 'corpID' => $info['corpID']];
+        foreach ($qry as $x) {
+            $array[$x['auditCode']] = ['auditName' => $x['auditName'], 'corpID' => $x['corpID']];
         }
 
         $this->auditLU = $array;
@@ -298,8 +410,8 @@ class Arrays
     {
         $qry = $this->lnk->query($sql);
 
-        foreach ($qry as $info) {
-            $array[$info['wkNum']] = ['wkStart' => $info['wkStart'], 'wkEnd' => $info['wkEnd']];
+        foreach ($qry as $x) {
+            $array[$x['wkNum']] = ['wkStart' => $x['wkStart'], 'wkEnd' => $x['wkEnd']];
         }
 
         $this->weekDates = $array;
@@ -312,10 +424,10 @@ class Arrays
 
         $qry = $this->lnk->query($sql);
 
-        foreach ($qry as $info) {
-            $array[$info['monthNum']] = [
-                'periodName' => $info['periodName'], 'wkStart' => $info['weekStart'], 'wkEnd' => $info['weekEnd'],
-                'perStart' => $info['perStart'], 'perEnd' => $info['perEnd'], 'julStart' => $info['julStart'], 'julEnd' => $info['julEnd']
+        foreach ($qry as $x) {
+            $array[$x['monthNum']] = [
+                'periodName' => $x['periodName'], 'wkStart' => $x['weekStart'], 'wkEnd' => $x['weekEnd'],
+                'perStart' => $x['perStart'], 'perEnd' => $x['perEnd'], 'julStart' => $x['julStart'], 'julEnd' => $x['julEnd']
             ];
         }
 
@@ -329,10 +441,10 @@ class Arrays
 
         $qry = $this->lnk->query($sql);
 
-        foreach ($qry as $info) {
-            $array[$info['groupNum']] = [
-                'deptNum' => $info['deptNum'], 'deptName' => $info['deptName'], 'freq' => $info['countFreq'],
-                'countWeeks' => $info['countWeeks']
+        foreach ($qry as $x) {
+            $array[$x['groupNum']] = [
+                'deptNum' => $x['deptNum'], 'deptName' => $x['deptName'], 'freq' => $x['countFreq'],
+                'countWeeks' => $x['countWeeks']
             ];
         }
 
@@ -375,7 +487,7 @@ class Arrays
         #var_dump($this->auditArray);
         foreach ($this->auditArray as $year => $periodArray) {
             foreach ($periodArray as $period => $auditArray) {
-                foreach ($auditArray as $audit => $info) {
+                foreach ($auditArray as $audit => $x) {
                     $opts[] = ['field' => 'auditID', 'value' => $audit, 'operand' => 'or'];
                 }
             }

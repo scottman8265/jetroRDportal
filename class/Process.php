@@ -43,18 +43,6 @@ class Process
 
     private function connect()
     {
-        /*  $dsn = 'mysql:host=' . $this->host . ' dbname=' . $this->db . ' port=' . $this->port . ' charset=utf8';
-        $options = [
-            PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
-        ];
-        try {
-            $this->lnk = new PDO($dsn, $this->user, $this->pass, $options);
-            $this->connected = true;
-        }
-        catch (PDOException $e) {
-            $this->error = $e->getMessage();
-            $this->connected = false;
-        }*/
 
         $this->lnk = new mysqli($this->host, $this->user, $this->pass, $this->db, $this->port);
         if ($this->lnk->connect_errno) {
@@ -67,7 +55,7 @@ class Process
         return $this->lnk;
     }
 
-    public function query($sql, $params = null): void
+    public function query($sql, $params = null)
     {
         $this->connect();
         
@@ -95,26 +83,28 @@ class Process
 
         $this->lnk->close();
 
-        return;
+        return $this->results;
     }
 
-    private function simpleQuery($sql): void
+    private function simpleQuery($sql): array
     {
         $data = [];
 
         $query = $this->lnk->prepare($sql);
         if(!$query) {
             $this->error = $this->lnk->error;
-            return;
+            return $this->error;
         }
         $query->execute();
         $data = $query->get_result();
         $results = $data->fetch_all(MYSQLI_ASSOC);
 
         $this->pvtResults = $results;
+
+        return $this->pvtResults;
     }
 
-    private function complexQuery($sql, $params): void
+    private function complexQuery($sql, $params): array
     {
         $data = [];
 
@@ -123,7 +113,7 @@ class Process
 
         if(!$query) {
             $this->error = $this->lnk->error;
-            return;
+            return $this->error;
         }
 
         foreach ($params as $key => $value) $params_ref[$key] = &$params[$key];
@@ -134,6 +124,8 @@ class Process
         $results = $data->fetch_all(MYSQLI_ASSOC);
 
         $this->pvtResults = $results;
+
+        return $this->pvtResults;
     }
 
     private function setResults(): void
@@ -146,7 +138,7 @@ class Process
         return $this->results;
     }
 
-    private function setTypes($sql): void
+    private function setTypes($sql): string
     {
         $type = null;
         switch (true) {
@@ -164,6 +156,8 @@ class Process
                 break;
         }
         $this->type = $type;
+
+        return $this->type;
     }
 
     public function getTypes(): string
@@ -235,7 +229,7 @@ class Process
         } else {
             return false;
         }
-        return $this->error;
+ 
     }
 
     public function getConnectionStatus(): bool
