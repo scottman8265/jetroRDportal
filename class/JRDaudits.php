@@ -3,8 +3,16 @@
 //TODO write scores, findings & people to database
 
 
-require_once('..\inc\config.php');
-require_once('..\class\Process.php');
+if (file_exists('../class/Process.php')) {
+    require_once '../class/Process.php';
+} else {
+    require_once 'class/Process.php';
+}
+if (file_exists('../inc/config.php')) {
+    require_once '../inc/config.php';
+} else {
+    require_once './inc/config.php';
+}
 
 /**
  * Class JRDaudits
