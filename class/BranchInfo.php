@@ -10,8 +10,16 @@
 //TODO replace all hardcoded database names with constants from config.php
 //TODO replace all hardcoded table names with constants from config.php
 //TODO add params to all sql statements that can take them
-require_once '../class/Process.php';
-require_once '../inc/config.php';
+if (file_exists('../class/Process.php')) {
+    require_once '../class/Process.php';
+} else {
+    require_once 'class/Process.php';
+}
+if (file_exists('../inc/config.php')) {
+    require_once '../inc/config.php';
+} else {
+    require_once 'inc/config.php';
+}
 
 class BranchInfo extends Process
 {
