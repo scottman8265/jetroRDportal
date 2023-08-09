@@ -815,6 +815,7 @@ function getFiles(dir, procFunc) {
 }
 
 function iterateFiles(files, pointer, procFunc) {
+    console.log("inside iterate file"    );
     if (files[pointer]) {
         switch (procFunc) {
             case 'aod':
@@ -839,7 +840,7 @@ function iterateFiles(files, pointer, procFunc) {
 }
 
 function processCorpFile(file, pointer, files, procFunc) {
-    console.log(file);
+    console.log("inside process corp file");
 
     /*$.post('misc/fillCorpHeaders.php', {fileName: file}, function (e) {
         pointer++;
