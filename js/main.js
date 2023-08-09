@@ -610,11 +610,9 @@ $(document).ready(function () {
     $('#leftColumn').on('click', '.upload', function () {
         console.log('.tasks .upload clicked');
 
-        let wkNum = null;
+       getFiles('../input/auditsCorp', 'corpAudit');
 
-        let fileType = $(this).attr('name');
-
-        $.post('getSet/getDateInfo.php', function (y) {
+        /*$.post('getSet/getDateInfo.php', function (y) {
 
             wkNum = y;
             console.log(wkNum);
@@ -629,7 +627,7 @@ $(document).ready(function () {
                 runFileNames(fileNames, fileType, wkNum);
 
             }, 'json')
-        });
+        });*/
     });
 
     $('.tasks').on('click', '.counts', function () {
@@ -843,9 +841,17 @@ function iterateFiles(files, pointer, procFunc) {
 function processCorpFile(file, pointer, files, procFunc) {
     console.log(file);
 
-    $.post('misc/fillCorpHeaders.php', {fileName: file}, function (e) {
+    /*$.post('misc/fillCorpHeaders.php', {fileName: file}, function (e) {
         pointer++;
         console.log(runningCount + " of " + fileCount + " files");
+        iterateFiles(files, pointer, procFunc);
+        runningCount++;
+    });*/
+
+    $.post('processNewCorpAudit.php', {fileName: file}, function (e) {
+        pointer++;
+        console.log(runningCount + " of " + fileCount + " files");
+        console.log(e);
         iterateFiles(files, pointer, procFunc);
         runningCount++;
     });
