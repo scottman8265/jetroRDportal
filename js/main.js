@@ -610,7 +610,7 @@ $(document).ready(function () {
     $('#leftColumn').on('click', '.upload', function () {
         console.log('.tasks .upload clicked');
 
-       getFiles('../input/auditsCorp', 'corpAudit');
+       getFiles('../input/auditsCorp', 'auditCorp');
 
         /*$.post('getSet/getDateInfo.php', function (y) {
 
