@@ -841,6 +841,7 @@ function iterateFiles(files, pointer, procFunc) {
 
 function processCorpFile(file, pointer, files, procFunc) {
     console.log("inside process corp file");
+    console.log(file);
 
     /*$.post('misc/fillCorpHeaders.php', {fileName: file}, function (e) {
         pointer++;

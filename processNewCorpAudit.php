@@ -33,6 +33,8 @@ if (file_exists('../class/JRDaudits.php')) {
     require_once 'class/JRDaudits.php';
 }
 
+var_dump($_POST);
+
 $file = isset($_POST['files']) ? $_POST['files'] : null;
 
 try {
