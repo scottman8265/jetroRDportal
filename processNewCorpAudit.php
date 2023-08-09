@@ -35,7 +35,7 @@ if (file_exists('../class/JRDaudits.php')) {
 
 var_dump($_POST);
 
-$file = isset($_POST['files']) ? $_POST['files'] : null;
+$file = isset($_POST['fileName']) ? $_POST['fileName'] : null;
 
 try {
     $reader      = \PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile($file);
