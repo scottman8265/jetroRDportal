@@ -18,7 +18,7 @@ if (file_exists('../class/Process.php')) {
 if (file_exists('../inc/config.php')) {
     require_once '../inc/config.php';
 } else {
-    require_once 'inc/config.php';
+    require_once '../../inc/config.php';
 }
 
 class BranchInfo extends Process
