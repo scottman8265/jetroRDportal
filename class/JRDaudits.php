@@ -2,6 +2,7 @@
 
 //TODO write scores, findings & people to database
 
+
 require_once('..\inc\config.php');
 require_once('..\class\Process.php');
 
@@ -59,12 +60,17 @@ class JRDaudits extends Process
      * @var array
      */
     public $scores = array();
-    public function __construct($function = null)
+    /**
+     * Summary of __construct
+     * @param string $function
+     * @param \PhpOffice\PhpSpreadsheet\Worksheet\Worksheet $sheet
+     */
+    public function __construct($function = null, $sheet)
     {
         parent::__construct();
 
         if ($function != null) {
-            $function['name'] == 'newCorpAudit' ? $this->processNewCorpAudit($function['sheet']) : null;
+            $function == 'newCorpAudit' ? $this->processNewCorpAudit($sheet) : null;
         }
     }
 
@@ -74,7 +80,7 @@ class JRDaudits extends Process
      * @param PhpOffice\PhpSpreadsheet\Worksheet\Worksheet $this->sheet
      * @return void
      */
-    public function processNewCorpAudit(\PhpOffice\PhpSpreadsheet\Worksheet\Worksheet $sheet)
+    public function processNewCorpAudit($sheet)
     {
         $initializeErrors = [];
 
