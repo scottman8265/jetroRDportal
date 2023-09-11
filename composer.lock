@@ -4,26 +4,38 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "52f798ad3ad6d8a844463fbe1b10035c",
+    "content-hash": "8577bfaa3f03f747e5f209eabe0c840a",
     "packages": [
         {
             "name": "econea/nusoap",
-            "version": "v0.9.5.4",
+            "version": "v0.9.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/f00b4r/nusoap.git",
-                "reference": "16d506ccd4bc15089bdae5e1ee96e080cf8df770"
+                "reference": "9ead68ec7ad8d1e14943658ce1559435247d14bf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/f00b4r/nusoap/zipball/16d506ccd4bc15089bdae5e1ee96e080cf8df770",
-                "reference": "16d506ccd4bc15089bdae5e1ee96e080cf8df770",
+                "url": "https://api.github.com/repos/f00b4r/nusoap/zipball/9ead68ec7ad8d1e14943658ce1559435247d14bf",
+                "reference": "9ead68ec7ad8d1e14943658ce1559435247d14bf",
                 "shasum": ""
             },
             "require": {
+                "ext-curl": "*",
+                "ext-json": "*",
+                "ext-xml": "*",
+                "ext-zlib": "*",
                 "php": ">=5.4"
             },
+            "require-dev": {
+                "php-parallel-lint/php-parallel-lint": "~1.2.0"
+            },
             "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "0.10.x-dev"
+                }
+            },
             "autoload": {
                 "classmap": [
                     "src/"
@@ -31,32 +43,32 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "LGPLv2"
+                "LGPL-2.1-or-later"
             ],
             "authors": [
                 {
-                    "name": "Milan Felix Sulc"
-                },
-                {
-                    "name": "Martin Macejkou Mates"
+                    "name": "Milan Felix Šulc",
+                    "homepage": "https://f3l1x.io"
                 }
             ],
-            "description": "NuSOAP fixed for PHP 5.5 - 7.0",
+            "description": "Fixed NuSOAP for PHP 5.4 - 8.2",
+            "homepage": "https://github.com/pwnlabs/nusoap",
             "keywords": [
+                "client",
+                "http",
                 "nusoap",
-                "soap"
+                "php",
+                "soap",
+                "transport",
+                "xml"
             ],
             "funding": [
-                {
-                    "url": "https://contributte.org/partners.html",
-                    "type": "custom"
-                },
                 {
                     "url": "https://github.com/f3l1x",
                     "type": "github"
                 }
             ],
-            "time": "2017-09-29T11:12:54+00:00"
+            "time": "2023-07-19T12:40:31+00:00"
         },
         {
             "name": "markbaker/complex",
