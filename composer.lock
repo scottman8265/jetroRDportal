@@ -4,19 +4,19 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "577c61b020f85986557e4f4dc1067df5",
+    "content-hash": "52f798ad3ad6d8a844463fbe1b10035c",
     "packages": [
         {
             "name": "econea/nusoap",
             "version": "v0.9.5.4",
             "source": {
                 "type": "git",
-                "url": "https://github.com/pwnlabs/nusoap.git",
+                "url": "https://github.com/f00b4r/nusoap.git",
                 "reference": "16d506ccd4bc15089bdae5e1ee96e080cf8df770"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pwnlabs/nusoap/zipball/16d506ccd4bc15089bdae5e1ee96e080cf8df770",
+                "url": "https://api.github.com/repos/f00b4r/nusoap/zipball/16d506ccd4bc15089bdae5e1ee96e080cf8df770",
                 "reference": "16d506ccd4bc15089bdae5e1ee96e080cf8df770",
                 "shasum": ""
             },
@@ -45,6 +45,16 @@
             "keywords": [
                 "nusoap",
                 "soap"
+            ],
+            "funding": [
+                {
+                    "url": "https://contributte.org/partners.html",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/f3l1x",
+                    "type": "github"
+                }
             ],
             "time": "2017-09-29T11:12:54+00:00"
         },
@@ -77,9 +87,6 @@
             },
             "type": "library",
             "autoload": {
-                "psr-4": {
-                    "Complex\\": "classes/src/"
-                },
                 "files": [
                     "classes/src/functions/abs.php",
                     "classes/src/functions/acos.php",
@@ -123,7 +130,10 @@
                     "classes/src/operations/multiply.php",
                     "classes/src/operations/divideby.php",
                     "classes/src/operations/divideinto.php"
-                ]
+                ],
+                "psr-4": {
+                    "Complex\\": "classes/src/"
+                }
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
@@ -171,9 +181,6 @@
             },
             "type": "library",
             "autoload": {
-                "psr-4": {
-                    "Matrix\\": "classes/src/"
-                },
                 "files": [
                     "classes/src/functions/adjoint.php",
                     "classes/src/functions/antidiagonal.php",
@@ -191,7 +198,10 @@
                     "classes/src/operations/multiply.php",
                     "classes/src/operations/divideby.php",
                     "classes/src/operations/divideinto.php"
-                ]
+                ],
+                "psr-4": {
+                    "Matrix\\": "classes/src/"
+                }
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
@@ -355,22 +365,24 @@
         },
         {
             "name": "shuchkin/simplexlsx",
-            "version": "0.8.17",
+            "version": "1.0.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/shuchkin/simplexlsx.git",
-                "reference": "5056d968ed11e0ac3c9e41a0b09e86a9ff02a68f"
+                "reference": "978e4bc2c377d4f1e83ad681705d0327a3725ef4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/shuchkin/simplexlsx/zipball/5056d968ed11e0ac3c9e41a0b09e86a9ff02a68f",
-                "reference": "5056d968ed11e0ac3c9e41a0b09e86a9ff02a68f",
+                "url": "https://api.github.com/repos/shuchkin/simplexlsx/zipball/978e4bc2c377d4f1e83ad681705d0327a3725ef4",
+                "reference": "978e4bc2c377d4f1e83ad681705d0327a3725ef4",
                 "shasum": ""
             },
             "require": {
                 "ext-libxml": "*",
+                "ext-mbstring": "*",
                 "ext-simplexml": "*",
-                "ext-zlib": "*"
+                "ext-zlib": "*",
+                "php": ">=5.5"
             },
             "type": "library",
             "autoload": {
@@ -386,7 +398,7 @@
                 {
                     "name": "Sergey Shuchkin (SMSPILOT)",
                     "email": "sergey.shuchkin@gmail.com",
-                    "homepage": "http://www.shuchkin.ru/"
+                    "homepage": "https://github.com/shuchkin"
                 }
             ],
             "description": "Parse and retrieve data from Excel XLSx files. MS Excel 2007 workbooks PHP reader.",
@@ -398,7 +410,7 @@
                 "php",
                 "xlsx"
             ],
-            "time": "2020-06-15T07:44:12+00:00"
+            "time": "2023-02-03T20:26:49+00:00"
         },
         {
             "name": "thybag/php-sharepoint-lists-api",
@@ -413,6 +425,10 @@
                 "url": "https://api.github.com/repos/thybag/PHP-SharePoint-Lists-API/zipball/cf5cae5b3fc788b687224493d8bcf46fcfd23f10",
                 "reference": "cf5cae5b3fc788b687224493d8bcf46fcfd23f10",
                 "shasum": ""
+            },
+            "require": {
+                "ext-soap": "*",
+                "php": "^7.1 || ^8.0"
             },
             "type": "library",
             "autoload": {
