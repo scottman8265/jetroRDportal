@@ -1,4 +1,4 @@
-{"name": "sriptjetPrime/jetroRDportal",
+{"name": "jetroRDportal",
   "description": "dashboard i was making for a previous employer, not complete",
   "require": {
     "phpoffice/phpspreadsheet": "^1.10",
