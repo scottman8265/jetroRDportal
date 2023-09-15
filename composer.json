@@ -2,21 +2,12 @@
   "name": "scriptjetprime/jetrordportal",
   "description": "dashboard I was making for a previous employer, not complete",
   "type": "project",
+  "license": "GPL-3.0-or-later",
   "require": {
     "phpoffice/phpspreadsheet": "^1.10",
     "ext-json": "*",
     "thybag/php-sharepoint-lists-api": "dev-master",
     "econea/nusoap": "~0.9.5.1",
     "shuchkin/simplexlsx": "^1.0.19"
-  },
-  "autoload": {
-    "psr-4": {
-      "YourNamespace\\": "src/"
-    }
   }
 }
-
-
-
-
-
