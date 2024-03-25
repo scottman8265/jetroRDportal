@@ -7,7 +7,7 @@
     "phpoffice/phpspreadsheet": "^1.10",
     "ext-json": "*",
     "thybag/php-sharepoint-lists-api": "dev-master",
-    "econea/nusoap": "~0.9.5.1",
+    "econea/nusoap": "~0.9.17",
     "shuchkin/simplexlsx": "^1.0.19"
   }
 }
